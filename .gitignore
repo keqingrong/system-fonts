@@ -1,0 +1,9 @@
+*~
+.DS_Store
+.Trashes
+*.log
+*.map
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
