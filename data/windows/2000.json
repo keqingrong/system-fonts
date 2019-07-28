@@ -1,18 +1,12 @@
 {
   "os": "Windows",
-  "version": "XP",
+  "version": "2000",
   "codename": null,
   "fonts": [],
   "source": {
     "published-date": "",
     "updated-date": "",
     "preinstalled": [
-      {
-        "fontFamily": "Agatha",
-        "fontName": "Agatha",
-        "fileName": "agatha.ttf",
-        "version": ""
-      },
       {
         "fontFamily": "Arial",
         "fontName": "Arial",
@@ -80,30 +74,6 @@
         "version": ""
       },
       {
-        "fontFamily": "Estrangelo Edessa",
-        "fontName": "Estrangelo Edessa",
-        "fileName": "estre.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Franklin Gothic Medium",
-        "fontName": "Franklin Gothic Medium",
-        "fileName": "framd.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Franklin Gothic Medium",
-        "fontName": "Franklin Gothic Medium Italic",
-        "fileName": "framdit.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Gautami",
-        "fontName": "Gautami",
-        "fileName": "gautami.ttf",
-        "version": ""
-      },
-      {
         "fontFamily": "Georgia",
         "fontName": "Georgia",
         "fileName": "georgia.ttf",
@@ -134,12 +104,6 @@
         "version": ""
       },
       {
-        "fontFamily": "Latha",
-        "fontName": "Latha",
-        "fileName": "latha.ttf",
-        "version": ""
-      },
-      {
         "fontFamily": "Lucida Console",
         "fontName": "Lucida Console",
         "fileName": "lucon.ttf",
@@ -152,12 +116,6 @@
         "version": ""
       },
       {
-        "fontFamily": "Mangal",
-        "fontName": "Mangal",
-        "fileName": "mangal.ttf",
-        "version": ""
-      },
-      {
         "fontFamily": "Marlett",
         "fontName": "Marlett",
         "fileName": "marlett.ttf",
@@ -167,12 +125,6 @@
         "fontFamily": "Microsoft Sans Serif",
         "fontName": "Microsoft Sans Serif",
         "fileName": "micross.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "MV Boli",
-        "fontName": "MV Boli",
-        "fileName": "mvboli.ttf",
         "version": ""
       },
       {
@@ -197,24 +149,6 @@
         "fontFamily": "Palatino Linotype",
         "fontName": "Palatino Linotype Bold Italic",
         "fileName": "palabi.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Raavi",
-        "fontName": "Raavi",
-        "fileName": "raavi.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Shruti",
-        "fontName": "Shruti",
-        "fileName": "shruti.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Sylfaen",
-        "fontName": "Sylfaen",
-        "fileName": "sylfaen.ttf",
         "version": ""
       },
       {
@@ -281,18 +215,6 @@
         "fontFamily": "Trebuchet MS",
         "fontName": "Trebuchet MS Bold Italic",
         "fileName": "trebucbi.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Tunga",
-        "fontName": "Tunga",
-        "fileName": "tunga.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Tunga",
-        "fontName": "Tunga Bold",
-        "fileName": "tungab.ttf",
         "version": ""
       },
       {

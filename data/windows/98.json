@@ -1,6 +1,6 @@
 {
   "os": "Windows",
-  "version": "XP",
+  "version": "98",
   "codename": null,
   "fonts": [],
   "source": {
@@ -8,9 +8,9 @@
     "updated-date": "",
     "preinstalled": [
       {
-        "fontFamily": "Agatha",
-        "fontName": "Agatha",
-        "fileName": "agatha.ttf",
+        "fontFamily": "Abadi MT Condensed",
+        "fontName": "Abadi MT Condensed Light",
+        "fileName": "abalc.ttf",
         "version": ""
       },
       {
@@ -44,6 +44,60 @@
         "version": ""
       },
       {
+        "fontFamily": "Book Antiqua",
+        "fontName": "Book Antiqua",
+        "fileName": "bkant.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Book Antiqua",
+        "fontName": "Book Antiqua Bold",
+        "fileName": "antquab.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Book Antiqua",
+        "fontName": "Book Antiqua Bold Italic",
+        "fileName": "antquabi.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Book Antiqua",
+        "fontName": "Book Antiqua Italic",
+        "fileName": "antquai.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Calisto MT",
+        "fontName": "Calisto MT",
+        "fileName": "calist.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Century Gothic",
+        "fontName": "Century Gothic",
+        "fileName": "gothic.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Century Gothic",
+        "fontName": "Century Gothic Bold",
+        "fileName": "gothicb.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Century Gothic",
+        "fontName": "Century Gothic Italic",
+        "fileName": "gothici.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Century Gothic",
+        "fontName": "Century Gothic Bold Italic",
+        "fileName": "gothicbi.ttf",
+        "version": ""
+      },
+      {
         "fontFamily": "Comic Sans MS",
         "fontName": "Comic Sans MS",
         "fileName": "comic.ttf",
@@ -53,6 +107,18 @@
         "fontFamily": "Comic Sans MS",
         "fontName": "Comic Sans MS Bold",
         "fileName": "comicbd.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Copperplate Gothic",
+        "fontName": "Copperplate Gothic Bold",
+        "fileName": "coprgtb.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Copperplate Gothic",
+        "fontName": "Copperplate Gothic Light",
+        "fileName": "coprgtl.ttf",
         "version": ""
       },
       {
@@ -77,30 +143,6 @@
         "fontFamily": "Courier New",
         "fontName": "Courier New Bold Italic",
         "fileName": "courbi.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Estrangelo Edessa",
-        "fontName": "Estrangelo Edessa",
-        "fileName": "estre.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Franklin Gothic Medium",
-        "fontName": "Franklin Gothic Medium",
-        "fileName": "framd.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Franklin Gothic Medium",
-        "fontName": "Franklin Gothic Medium Italic",
-        "fileName": "framdit.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Gautami",
-        "fontName": "Gautami",
-        "fileName": "gautami.ttf",
         "version": ""
       },
       {
@@ -134,27 +176,27 @@
         "version": ""
       },
       {
-        "fontFamily": "Latha",
-        "fontName": "Latha",
-        "fileName": "latha.ttf",
-        "version": ""
-      },
-      {
         "fontFamily": "Lucida Console",
         "fontName": "Lucida Console",
         "fileName": "lucon.ttf",
         "version": ""
       },
       {
-        "fontFamily": "Lucida Sans Unicode",
-        "fontName": "Lucida Sans Unicode",
-        "fileName": "l_10646.ttf",
+        "fontFamily": "Lucida Handwriting",
+        "fontName": "Lucida Handwriting Italic",
+        "fileName": "lhandw.ttf",
         "version": ""
       },
       {
-        "fontFamily": "Mangal",
-        "fontName": "Mangal",
-        "fileName": "mangal.ttf",
+        "fontFamily": "Lucida Sans",
+        "fontName": "Lucida Sans Italic",
+        "fileName": "lsansi.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Lucida Sans Unicode",
+        "fontName": "Lucida Sans Unicode",
+        "fileName": "lsansuni.ttf",
         "version": ""
       },
       {
@@ -164,57 +206,33 @@
         "version": ""
       },
       {
-        "fontFamily": "Microsoft Sans Serif",
-        "fontName": "Microsoft Sans Serif",
-        "fileName": "micross.ttf",
+        "fontFamily": "Marlett ITC",
+        "fontName": "Marlett ITC",
+        "fileName": "matisse_.ttf",
         "version": ""
       },
       {
-        "fontFamily": "MV Boli",
-        "fontName": "MV Boli",
-        "fileName": "mvboli.ttf",
+        "fontFamily": "News Gothic MT",
+        "fontName": "News Gothic MT",
+        "fileName": "nwgthc.ttf",
         "version": ""
       },
       {
-        "fontFamily": "Palatino Linotype",
-        "fontName": "Palatino Linotype",
-        "fileName": "pala.ttf",
+        "fontFamily": "News Gothic MT",
+        "fontName": "News Gothic MT Bold",
+        "fileName": "nwgthcb.ttf",
         "version": ""
       },
       {
-        "fontFamily": "Palatino Linotype",
-        "fontName": "Palatino Linotype Italic",
-        "fileName": "palai.ttf",
+        "fontFamily": "News Gothic MT",
+        "fontName": "News Gothic MT Italic",
+        "fileName": "nwgthci.ttf",
         "version": ""
       },
       {
-        "fontFamily": "Palatino Linotype",
-        "fontName": "Palatino Linotype Bold",
-        "fileName": "palab.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Palatino Linotype",
-        "fontName": "Palatino Linotype Bold Italic",
-        "fileName": "palabi.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Raavi",
-        "fontName": "Raavi",
-        "fileName": "raavi.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Shruti",
-        "fontName": "Shruti",
-        "fileName": "shruti.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Sylfaen",
-        "fontName": "Sylfaen",
-        "fileName": "sylfaen.ttf",
+        "fontFamily": "OCR A Extended",
+        "fontName": "OCR A Extended",
+        "fileName": "ocraext.ttf",
         "version": ""
       },
       {
@@ -233,6 +251,12 @@
         "fontFamily": "Tahoma",
         "fontName": "Tahoma Bold",
         "fileName": "tahomabd.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Tempus Sans ITC",
+        "fontName": "Tempus Sans ITC",
+        "fileName": "tempsitc.ttf",
         "version": ""
       },
       {
@@ -284,18 +308,6 @@
         "version": ""
       },
       {
-        "fontFamily": "Tunga",
-        "fontName": "Tunga",
-        "fileName": "tunga.ttf",
-        "version": ""
-      },
-      {
-        "fontFamily": "Tunga",
-        "fontName": "Tunga Bold",
-        "fileName": "tungab.ttf",
-        "version": ""
-      },
-      {
         "fontFamily": "Verdana",
         "fontName": "Verdana",
         "fileName": "verdana.ttf",
@@ -323,6 +335,12 @@
         "fontFamily": "Webdings",
         "fontName": "Webdings",
         "fileName": "webdings.ttf",
+        "version": ""
+      },
+      {
+        "fontFamily": "Westminster",
+        "fontName": "Westminster",
+        "fileName": "westm.ttf",
         "version": ""
       },
       {
