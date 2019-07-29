@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
-const fs = require('fs');
 const path = require('path');
+const { writeJsonSync } = require('./utils');
 
 const fontListURLs = [
   'https://docs.microsoft.com/en-us/typography/fonts/windows_7_font_list',
@@ -10,10 +10,11 @@ const fontListURLs = [
 ];
 
 puppeteer.launch({
-  headless: true,
+  headless: false,
   ignoreHTTPSErrors: true,
 }).then(async browser => {
   const page = await browser.newPage();
+  page.setJavaScriptEnabled(false);
   console.log(`Open a new page...`);
 
   for await (const url of fontListURLs) {
@@ -42,7 +43,7 @@ puppeteer.launch({
 async function getFontListFromPage(page, url) {
   await page.goto(url, {
     timeout: 30 * 1000,
-    waitUntil: 'load'
+    waitUntil: 'domcontentloaded'
   });
   const fonts = await page.evaluate(() => {
     const fontList = [];
@@ -53,7 +54,7 @@ async function getFontListFromPage(page, url) {
         const $cells = Array.from($row.querySelectorAll('td'));
         const fontItem = [];
         $cells.forEach(($cell) => {
-          fontItem.push($cell ? $cell.innerText : null);
+          fontItem.push($cell ? $cell.innerText.trim() : null);
         })
         if (fontItem.length > 0) {
           fontList.push(fontItem);
@@ -89,14 +90,4 @@ function normalize(fonts) {
   })
 
   return formattedFontList;
-}
-
-/**
- * Writes an object to a JSON file.
- * @param {Object} json
- * @param {string} fileName
- */
-function writeJsonSync(json, fileName) {
-  const data = JSON.stringify(json, null, 2);
-  fs.writeFileSync(fileName, data, 'utf-8');
 }
