@@ -35,10 +35,10 @@
 | Mac OS X 10.5 | Leopard       | 9              | 2006  |
 | Mac OS X 10.6 | Snow Leopard  | 10             | 2008  |
 | Mac OS X 10.7 | Lion          | 11             | 2010  |
-| OS X 10.8     | Mountain Lion | 12             | 2012  |
-| OS X 10.9     | Mavericks     | 13             | 2013  |
-| OS X 10.10    | Yosemite      | 14             | 2014  |
-| OS X 10.11    | El Capitan    | 15             | 2015  |
+| Mac OS X 10.8 | Mountain Lion | 12             | 2012  |
+| Mac OS X 10.9 | Mavericks     | 13             | 2013  |
+| Mac OS X 10.10 | Yosemite     | 14             | 2014  |
+| Mac OS X 10.11 | El Capitan   | 15             | 2015  |
 | macOS 10.12   | Sierra        | 16             | 2016  |
 | macOS 10.13   | High Sierra   | 17             | 2017  |
 | macOS 10.14   | Mojave        | 18             | 2018  |
