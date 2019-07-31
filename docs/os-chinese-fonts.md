@@ -14,6 +14,7 @@
 - 黑体，即“中易黑体 (SimHei)”
 - 楷体，即“中易楷体 (KaiTi)”
 - 仿宋，即“中易仿宋 (FangSong)”
+- 方正等线体 (DengXian)，从 Windows 10 开始内置
 - 细明体 (MingLiU)
 - 新细明体 (PMingLiU)，和细明体的区别在于将 ASCII 字符从等宽字体改为比例字体
 - 标楷体 (DFKai-SB)，从 Windows 95 开始跟随繁体中文版的 Windows 安装
@@ -26,7 +27,7 @@
 - Hei (Hei Regular、SIL-Hei-Med-Jian)
 - Kai (Kai Regular、SIL-Kai-Reg-Jian)
 - 标楷体 (DFKaiShu-SB)
-- 华文宋体 (STSong)，华文黑体 (STHeiti)，华文楷体 (STKaiti)，华文仿宋 (STFangsong)
+- 华文宋体 (STSong)，华文黑体 (STHeiti)，华文细黑 (STXihei)，华文楷体 (STKaiti)，华文仿宋 (STFangsong)
 - 苹果俪细宋 (Apple LiSung Light)、苹果俪中黑 (Apple LiGothic Medium)
 - 俪宋 Pro (LiSong Pro)，俪黑 Pro (LiHei Pro)，即华康俪宋和华康俪黑
 - 宋体-简 (Songti SC)、宋体-繁 (Songti TC)，新版华文宋体，从 OS X 10.6 Snow Leopard 开始内置
