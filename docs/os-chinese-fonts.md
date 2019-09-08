@@ -7,6 +7,22 @@
 - Noto Sans CJK (2014年7月16日发布)，中文部分即“思源黑体”，从 5.0 Lollipop (2014年10月15日发布) 开始内置，只包含 Regular 字重
 - Noto Serif CJK (2017年4月5日发布)，中文部分即“思源宋体”，从 9.0 Pie (2018年8月7日发布) 开始内置，只包含 Regular 字重
 
+### 小米 MIUI
+
+- 小米兰亭，包含 Thin、Light、Regular、Bold 四个字重
+
+### 华为 EMUI
+
+- Huawei Font
+
+### vivo Funtouch OS
+
+- 汉仪旗黑
+
+### OPPO ColorOS
+
+- OPPO Sans，其中中文部分由汉仪字库制作
+
 ## Windows
 
 - 宋体，即“中易宋体 (SimSun)”，另外，从 Windows Vista 开始增加 Unicode 扩展 B 区字体 (SimSun-ExtB)
@@ -59,3 +75,4 @@
 - [「俪黑」有什么版本？有简体版本吗？ - 知乎](https://www.zhihu.com/question/19705760)
 - [OS X 提供了哪些中文黑体？ - 知乎](https://www.zhihu.com/question/20158887)
 - [OS X 的默认中文字体是什么？ - 知乎](https://www.zhihu.com/question/19693837)
+- [如何看待小米联合方正发布「小米兰亭」？ - 知乎](https://www.zhihu.com/question/45967799)
