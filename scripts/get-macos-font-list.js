@@ -3,6 +3,7 @@ const path = require('path');
 const { writeJsonSync } = require('./utils');
 
 const fontListURLs = [
+  ['https://support.apple.com/en-us/HT210192', 'macOS Catalina'],
   ['https://support.apple.com/en-us/HT208968', 'macOS Mojave'],
   ['https://support.apple.com/en-us/HT207962', 'macOS High Sierra'],
   ['https://support.apple.com/en-us/HT206872', 'macOS Sierra'],
