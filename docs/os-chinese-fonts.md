@@ -50,6 +50,7 @@
 - 黑体-简 (Heiti SC)、黑体-繁 (Heiti TC)，新版华文黑体，从 OS X 10.6 Snow Leopard 开始内置
 - 楷体-简 (Kaiti SC)、楷体-繁(Kaiti TC)，新版华文楷体，从 OS X 10.6 Snow Leopard 开始内置
 - 冬青黑体简体中文 (Hiragino Sans GB)，从 OS X 10.6 Snow Leopard 开始内置
+- 兰亭黑-简 (Lantinghei SC)、兰亭黑-繁 (Lantinghei TC) ，从 OS X 10.8 Mountain Lion 开始内置
 - 苹方-简 (PingFang SC)、苹方-繁 (PingFang TC)、苹方-港 (PingFang HK)，从 OS X 10.11 El Capitan 开始内置
 
 ## iOS
