@@ -7,6 +7,15 @@ const fontListURLs = [
   ['https://support.apple.com/en-us/HT208968', 'macOS Mojave'],
   ['https://support.apple.com/en-us/HT207962', 'macOS High Sierra'],
   ['https://support.apple.com/en-us/HT206872', 'macOS Sierra'],
+  // El Capitan
+  // Yosemite
+  ['https://support.apple.com/en-us/HT201375', 'OS X Mavericks'],
+  ['https://support.apple.com/en-us/HT201344', 'OS X Mountain Lion'],
+  // Lion
+  // Snow Leopard
+  ['https://support.apple.com/en-us/HT1642', 'OS X Leopard'],
+  ['https://support.apple.com/en-us/HT1538', 'OS X Tiger'],
+  ['https://support.apple.com/en-us/HT2444', 'OS X Panther'],
 ];
 
 puppeteer.launch({
@@ -20,7 +29,6 @@ puppeteer.launch({
   for await (const urlItem of fontListURLs) {
     const fileName = path.resolve(__dirname, `${urlItem[1].replace(/\s/g, '.')}.json`);
     const fontList = await getFontListFromPage(page, urlItem[0]);
-    console.log(fontList);
     if (fontList.length > 0) {
       const formattedFontList = normalize(fontList);
       writeJsonSync(formattedFontList, fileName);
