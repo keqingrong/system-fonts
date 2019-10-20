@@ -19,13 +19,13 @@
   - [x] macOS 10.12 Sierra
   - [ ] OS X 10.11 El Capitan
   - [ ] OS X 10.10 Yosemite
-  - [ ] OS X 10.9 Mavericks
-  - [ ] OS X 10.8 Mountain Lion
+  - [x] OS X 10.9 Mavericks
+  - [x] OS X 10.8 Mountain Lion
   - [ ] OS X 10.7 Lion
   - [ ] OS X 10.6 Snow Leopard
-  - [ ] OS X 10.5 Leopard
-  - [ ] OS X 10.4 Tiger
-  - [ ] OS X 10.3 Panther
+  - [x] OS X 10.5 Leopard
+  - [x] OS X 10.4 Tiger
+  - [x] OS X 10.3 Panther
 - [ ] Fonts included with Android
 - [ ] Fonts included with iOS
 - [ ] A website like caniuse.com and iosfonts.com

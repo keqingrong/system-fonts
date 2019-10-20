@@ -1,27 +1,5 @@
 # 操作系统内置的中文字体
 
-## Android
-
-- Droid Sans Fallback，社区从该字体衍生出文泉驿微米黑
-- Noto Sans CJK (2014年7月16日发布)，中文部分即思源黑体，从 5.0 Lollipop (2014年10月15日发布) 开始内置，只包含 Regular 字重
-- Noto Serif CJK (2017年4月5日发布)，中文部分即思源宋体，从 9.0 Pie (2018年8月7日发布) 开始内置，只包含 Regular 字重
-
-### 小米 MIUI
-
-- 小米兰亭，包含 Thin、Light、Regular、Bold 四个字重
-
-### 华为 EMUI
-
-- Huawei Font
-
-### vivo Funtouch OS
-
-- 汉仪旗黑
-
-### OPPO ColorOS
-
-- OPPO Sans，其中中文部分由汉仪字库制作
-
 ## Windows
 
 - 宋体，即中易宋体 (SimSun)，从 Windows 95 开始内置，在 Windows XP SP3 中会额外安装宋体-PUA (SimSun-PUA)（包含在 simsun.ttc 文件中），Windows Vista 后增加 Unicode 扩展 B 区字体 SimSun-ExtB
@@ -46,6 +24,7 @@
 - Hei (Hei Regular、SIL-Hei-Med-Jian)
 - Kai (Kai Regular、SIL-Kai-Reg-Jian)
 - 标楷体 (DFKaiShu-SB)
+- GB18030 Bitmap
 - 华文宋体 (STSong)，华文黑体 (STHeiti)，华文细黑 (STXihei)，华文楷体 (STKaiti)，华文仿宋 (STFangsong)
 - 苹果俪细宋 (Apple LiSung Light)、苹果俪中黑 (Apple LiGothic Medium)
 - 俪宋 Pro (LiSong Pro)，俪黑 Pro (LiHei Pro)，即华康俪宋和华康俪黑
@@ -68,6 +47,29 @@
 - 文泉驿微米黑
 - 思源黑体
 - 思源宋体
+- 思源等宽
+
+## Android
+
+- Droid Sans Fallback，社区从该字体衍生出文泉驿微米黑
+- Noto Sans CJK (2014年7月16日发布)，中文部分即思源黑体，从 5.0 Lollipop (2014年10月15日发布) 开始内置，只包含 Regular 字重
+- Noto Serif CJK (2017年4月5日发布)，中文部分即思源宋体，从 9.0 Pie (2018年8月7日发布) 开始内置，只包含 Regular 字重
+
+### 小米 MIUI
+
+- 小米兰亭，包含 Thin、Light、Regular、Bold 四个字重
+
+### 华为 EMUI
+
+- Huawei Font
+
+### vivo Funtouch OS
+
+- 汉仪旗黑
+
+### OPPO ColorOS
+
+- OPPO Sans，其中中文部分由汉仪字库制作
 
 ## 参考链接
 
