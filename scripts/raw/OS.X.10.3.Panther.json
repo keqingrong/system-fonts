@@ -1,0 +1,680 @@
+[
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Apple LiGothic Medium.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "AppleGothic.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "AquaKanaBold.otf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "AquaKanaRegular.otf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Courier.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Geeza Pro Bold.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Geeza Pro.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Geneva.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Hei.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Helvetica.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Hiragino Kaku Gothic Pro W3.otf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Hiragino Kaku Gothic Pro W6.otf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Hiragino Kaku Gothic Std W8.otf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Hiragino Maru Gothic Pro W4.otf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Hiragino Mincho Pro W3.otf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Hiragino Mincho Pro W6.otf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Keyboard.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "LastResort.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "LiHei Pro.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "LucidaGrande.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Monaco.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Osaka.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "OsakaMono.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "STHeiti Light.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "STHeiti Regular.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Symbol.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Times.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "ZapfDingbats.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "AmericanTypewriter.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Apple Chancery.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Apple Symbols.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Baskerville.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "BigCaslon.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Chalkboard.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Cochin.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Copperplate.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Didot.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Futura.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "GillSans.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "HelveticaNeue.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Herculanum.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Hoefler Text.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "MarkerFelt.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Optima.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Papyrus.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Skia.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Zapfino.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "#Gungseouche.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "#HeadlineA.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "#PCmyoungjo.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "#Pilgiche.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Apple LiSung Light.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "AppleMyungjo.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "BiauKai.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Fang Song.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Kai.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "LiSong Pro.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "NISC18030.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Song.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "STFangsong.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "STKaiti.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "STSong.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Arial",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Arial Black",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Arial Narrow",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Arial Rounded Bold",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Brush Script",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Comic Sans MS",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Courier New",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Georgia",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Times New Roman",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Trebuchet MS",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Verdana",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Webdings",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "AlBayan.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "AlBayanBold.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "ArialHB.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "ArialHBBold.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Ayuthaya.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Baghdad.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "CharcoalCY.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Corsiva.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "CorsivaBold.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "DecoTypeNaskh.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "DevanagariMT.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "DevanagariMTBold.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "EuphemiaCASBold.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "EuphemiaCASItalic.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "EuphemiaCASRegular.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "GenevaCY.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "GujaratiMT.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "GujaratiMTBold.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Gurmukhi.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "HelveticaCY.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Krungthep.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "KufiStandarGK.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "MonacoCY.dfont",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "MshtakanBold.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "MshtakanBoldOblique.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "MshtakanOblique.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "MshtakanRegular.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Nadeem.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "NewPeninimMT.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "NewPeninimMTBold.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "NewPeninimMTBoldInclined.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "NewPeninimMTInclined.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "PlantagenetCherokee.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Raanana.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "RaananaBold.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Sathu.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Silom.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "Thonburi.ttf",
+    "version": null
+  },
+  {
+    "fontFamily": null,
+    "fontName": null,
+    "fileName": "TimesCY.dfont",
+    "version": null
+  }
+]

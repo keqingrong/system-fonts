@@ -2,8 +2,7 @@
   "os": "Windows",
   "version": "98",
   "codename": null,
-  "fonts": [],
-  "source": {
+  "fonts": {
     "published-date": "",
     "updated-date": "",
     "preinstalled": [

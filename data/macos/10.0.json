@@ -2,7 +2,5 @@
   "os": "OS X",
   "version": "10.0",
   "codename": "Cheetah",
-  "fonts": [
-
-  ]
+  "fonts": {}
 }

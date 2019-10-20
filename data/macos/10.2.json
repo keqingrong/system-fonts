@@ -2,7 +2,5 @@
   "os": "OS X",
   "version": "10.2",
   "codename": "Jaguar",
-  "fonts": [
-
-  ]
+  "fonts": {}
 }

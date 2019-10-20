@@ -1,0 +1,3044 @@
+[
+  {
+    "fontFamily": null,
+    "fontName": "Al Nile",
+    "fileName": "Al Nile.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Al Nile Bold",
+    "fileName": "Al Nile.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Al Tarikh",
+    "fileName": "Al Tarikh.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Al Bayan Plain",
+    "fileName": "AlBayan.ttf",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Al Bayan Bold",
+    "fileName": "AlBayanBold.ttf",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "American Typewriter",
+    "fileName": "AmericanTypewriter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "American Typewriter Light",
+    "fileName": "AmericanTypewriter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "American Typewriter Bold",
+    "fileName": "AmericanTypewriter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "American Typewriter Condensed",
+    "fileName": "AmericanTypewriter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "American Typewriter Condensed Bold",
+    "fileName": "AmericanTypewriter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "American Typewriter Condensed Light",
+    "fileName": "AmericanTypewriter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Andale Mono",
+    "fileName": "Andale Mono.ttf",
+    "version": "Version 2.00x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple Chancery",
+    "fileName": "Apple Chancery.ttf",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple LiGothic Medium",
+    "fileName": "Apple LiGothic Medium.ttf",
+    "version": "6.1d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple LiSung Light",
+    "fileName": "Apple LiSung Light.ttf",
+    "version": "6.1d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "AppleGothic Regular",
+    "fileName": "AppleGothic.ttf",
+    "version": "7.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "AppleMyungjo Regular",
+    "fileName": "AppleMyungjo.ttf",
+    "version": "7.0d2e6"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple SD GothicNeo ExtraBold",
+    "fileName": "AppleSDGothicNeo-ExtraBold.otf",
+    "version": "9.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple SD Gothic Neo Heavy",
+    "fileName": "AppleSDGothicNeo-Heavy.otf",
+    "version": "9.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple SD Gothic Neo Light",
+    "fileName": "AppleSDGothicNeo-Light.otf",
+    "version": "9.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple SD Gothic Neo Medium",
+    "fileName": "AppleSDGothicNeo-Medium.otf",
+    "version": "9.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple SD Gothic Neo SemiBold",
+    "fileName": "AppleSDGothicNeo-SemiBold.otf",
+    "version": "9.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple SD Gothic Neo Thin",
+    "fileName": "AppleSDGothicNeo-Thin.otf",
+    "version": "9.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple SD Gothic Neo UltraLight",
+    "fileName": "AppleSDGothicNeo-UltraLight.otf",
+    "version": "9.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Black",
+    "fileName": "Arial Black.ttf",
+    "version": "Version 5.00.1x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Bold Italic",
+    "fileName": "Arial Bold Italic.ttf",
+    "version": "Version 5.00.2x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Bold",
+    "fileName": "Arial Bold.ttf",
+    "version": "Version 5.01.2x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Italic",
+    "fileName": "Arial Italic.ttf",
+    "version": "Version 5.00.2x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Narrow Bold Italic",
+    "fileName": "Arial Narrow Bold Italic.ttf",
+    "version": "Version 2.38.1x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Narrow Bold",
+    "fileName": "Arial Narrow Bold.ttf",
+    "version": "Version 2.38.1x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Narrow Italic",
+    "fileName": "Arial Narrow Italic.ttf",
+    "version": "Version 2.38.1x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Narrow",
+    "fileName": "Arial Narrow.ttf",
+    "version": "Version 2.38.1x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Rounded MT Bold",
+    "fileName": "Arial Rounded Bold.ttf",
+    "version": "Version 1.51x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Unicode MS",
+    "fileName": "Arial Unicode.ttf",
+    "version": "Version 1.01x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial",
+    "fileName": "Arial.ttf",
+    "version": "Version 5.01.2x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Hebrew",
+    "fileName": "ArialHB.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Hebrew Light",
+    "fileName": "ArialHB.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Arial Hebrew Bold",
+    "fileName": "ArialHB.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Athelas Regular",
+    "fileName": "Athelas.ttc",
+    "version": "8.0d7e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Athelas Italic",
+    "fileName": "Athelas.ttc",
+    "version": "8.0d7e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Athelas Bold Italic",
+    "fileName": "Athelas.ttc",
+    "version": "8.0d7e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Athelas Bold",
+    "fileName": "Athelas.ttc",
+    "version": "8.0d7e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Ayuthaya",
+    "fileName": "Ayuthaya.ttf",
+    "version": "10.9d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Baghdad",
+    "fileName": "Baghdad.ttf",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Bangla MN",
+    "fileName": "Bangla MN.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Bangla MN Bold",
+    "fileName": "Bangla MN.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Bangla Sangam MN",
+    "fileName": "Bangla Sangam MN.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Bangla Sangam MN Bold",
+    "fileName": "Bangla Sangam MN.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Baoli SC Regular",
+    "fileName": "Baoli.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Baskerville Bold",
+    "fileName": "Baskerville.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Baskerville Bold Italic",
+    "fileName": "Baskerville.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Baskerville Italic",
+    "fileName": "Baskerville.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Baskerville",
+    "fileName": "Baskerville.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Baskerville SemiBold",
+    "fileName": "Baskerville.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Baskerville SemiBold Italic",
+    "fileName": "Baskerville.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Beirut",
+    "fileName": "Beirut.ttc",
+    "version": "9.0d4e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "BiauKai",
+    "fileName": "BiauKai.ttf",
+    "version": "6.1d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Big Caslon Medium",
+    "fileName": "BigCaslon.ttf",
+    "version": "6.1d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Brush Script MT Italic",
+    "fileName": "Brush Script.ttf",
+    "version": "Version 1.52x-1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Chalkboard",
+    "fileName": "Chalkboard.ttc",
+    "version": "8.1d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Chalkboard Bold",
+    "fileName": "Chalkboard.ttc",
+    "version": "8.1d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Chalkboard SE Light",
+    "fileName": "ChalkboardSE.ttc",
+    "version": "8.1d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Chalkboard SE Regular",
+    "fileName": "ChalkboardSE.ttc",
+    "version": "8.1d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Chalkboard SE Bold",
+    "fileName": "ChalkboardSE.ttc",
+    "version": "8.1d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Chalkduster",
+    "fileName": "Chalkduster.ttf",
+    "version": "7.0d6e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Charcoal CY",
+    "fileName": "CharcoalCY.dfont",
+    "version": "6.1d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Charter Roman",
+    "fileName": "Charter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Charter Italic",
+    "fileName": "Charter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Charter Bold Italic",
+    "fileName": "Charter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Charter Bold",
+    "fileName": "Charter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Charter Black Italic",
+    "fileName": "Charter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Charter Black",
+    "fileName": "Charter.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Cochin",
+    "fileName": "Cochin.ttc",
+    "version": "8.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Cochin Bold",
+    "fileName": "Cochin.ttc",
+    "version": "8.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Cochin Italic",
+    "fileName": "Cochin.ttc",
+    "version": "8.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Cochin Bold Italic",
+    "fileName": "Cochin.ttc",
+    "version": "8.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Comic Sans MS Bold",
+    "fileName": "Comic Sans MS Bold.ttf",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Comic Sans MS",
+    "fileName": "Comic Sans MS.ttf",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Copperplate",
+    "fileName": "Copperplate.ttc",
+    "version": "9.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Copperplate Light",
+    "fileName": "Copperplate.ttc",
+    "version": "9.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Copperplate Bold",
+    "fileName": "Copperplate.ttc",
+    "version": "9.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Corsiva Hebrew",
+    "fileName": "Corsiva.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Corsiva Hebrew Bold",
+    "fileName": "Corsiva.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Courier New Bold Italic",
+    "fileName": "Courier New Bold Italic.ttf",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Courier New Bold",
+    "fileName": "Courier New Bold.ttf",
+    "version": "Version 5.00.2x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Courier New Italic",
+    "fileName": "Courier New Italic.ttf",
+    "version": "Version 5.00.1x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Courier New",
+    "fileName": "Courier New.ttf",
+    "version": "Version 5.00.2x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Damascus",
+    "fileName": "Damascus.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Damascus Semi Bold",
+    "fileName": "Damascus.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Damascus Medium",
+    "fileName": "Damascus.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Damascus Bold",
+    "fileName": "Damascus.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "DecoType Naskh",
+    "fileName": "DecoTypeNaskh.ttf",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Devanagari Sangam MN",
+    "fileName": "Devanagari Sangam MN.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Devanagari Sangam MN Bold",
+    "fileName": "Devanagari Sangam MN.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Devanagari MT",
+    "fileName": "DevanagariMT.ttf",
+    "version": "6.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Devanagari MT Bold",
+    "fileName": "DevanagariMTBold.ttf",
+    "version": "6.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Didot",
+    "fileName": "Didot.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Didot Italic",
+    "fileName": "Didot.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Didot Bold",
+    "fileName": "Didot.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "DIN Alternate Bold",
+    "fileName": "DIN Alternate Bold.ttf",
+    "version": "9.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "DIN Condensed Bold",
+    "fileName": "DIN Condensed Bold.ttf",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Diwan Kufi",
+    "fileName": "Diwan Kufi.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Diwan Thuluth",
+    "fileName": "Diwan Thuluth.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Euphemia UCAS",
+    "fileName": "EuphemiaCAS.ttc",
+    "version": "6.1d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Euphemia UCAS Bold",
+    "fileName": "EuphemiaCAS.ttc",
+    "version": "6.1d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Euphemia UCAS Italic",
+    "fileName": "EuphemiaCAS.ttc",
+    "version": "6.1d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Farah",
+    "fileName": "Farah.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Farisi",
+    "fileName": "Farisi.ttc",
+    "version": "9.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Futura Medium",
+    "fileName": "Futura.ttc",
+    "version": "6.2d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Futura Medium Italic",
+    "fileName": "Futura.ttc",
+    "version": "6.2d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Futura Condensed Medium",
+    "fileName": "Futura.ttc",
+    "version": "6.2d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Futura Condensed ExtraBold",
+    "fileName": "Futura.ttc",
+    "version": "6.2d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Geneva CY",
+    "fileName": "GenevaCY.dfont",
+    "version": "6.1d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Georgia Bold Italic",
+    "fileName": "Georgia Bold Italic.ttf",
+    "version": "Version 5.00x-4"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Georgia Bold",
+    "fileName": "Georgia Bold.ttf",
+    "version": "Version 5.00x-4"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Georgia Italic",
+    "fileName": "Georgia Italic.ttf",
+    "version": "Version 5.00x-4"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Georgia",
+    "fileName": "Georgia.ttf",
+    "version": "Version 5.00x-4"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gill Sans",
+    "fileName": "GillSans.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gill Sans UltraBold",
+    "fileName": "GillSans.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gill Sans SemiBold Italic",
+    "fileName": "GillSans.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gill Sans SemiBold",
+    "fileName": "GillSans.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gill Sans Light Italic",
+    "fileName": "GillSans.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gill Sans Light",
+    "fileName": "GillSans.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gill Sans Italic",
+    "fileName": "GillSans.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gill Sans Bold Italic",
+    "fileName": "GillSans.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gill Sans Bold",
+    "fileName": "GillSans.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gujarati Sangam MN",
+    "fileName": "Gujarati Sangam MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gujarati Sangam MN Bold",
+    "fileName": "Gujarati Sangam MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gujarati MT",
+    "fileName": "GujaratiMT.ttf",
+    "version": "6.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gujarati MT Bold",
+    "fileName": "GujaratiMTBold.ttf",
+    "version": "6.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "GungSeo Regular",
+    "fileName": "Gungseouche.ttf",
+    "version": "7.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gurmukhi MN",
+    "fileName": "Gurmukhi MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gurmukhi MN Bold",
+    "fileName": "Gurmukhi MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gurmukhi Sangam MN",
+    "fileName": "Gurmukhi Sangam MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gurmukhi Sangam MN Bold",
+    "fileName": "Gurmukhi Sangam MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Gurmukhi MT",
+    "fileName": "Gurmukhi.ttf",
+    "version": "6.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hannotate SC Regular",
+    "fileName": "Hannotate.ttc",
+    "version": "9.0d6"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hannotate TC Regular",
+    "fileName": "Hannotate.ttc",
+    "version": "9.0d6"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hannotate SC Bold",
+    "fileName": "Hannotate.ttc",
+    "version": "9.0d6"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hannotate TC Bold",
+    "fileName": "Hannotate.ttc",
+    "version": "9.0d6"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "HanziPen SC Regular",
+    "fileName": "Hanzipen.ttc",
+    "version": "9.0d6"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "HanziPen TC Regular",
+    "fileName": "Hanzipen.ttc",
+    "version": "9.0d6"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "HanziPen SC Bold",
+    "fileName": "Hanzipen.ttc",
+    "version": "9.0d6"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "HanziPen TC Bold",
+    "fileName": "Hanzipen.ttc",
+    "version": "9.0d6"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "HeadLineA Regular",
+    "fileName": "HeadlineA.ttf",
+    "version": "6.1d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hei Regular",
+    "fileName": "Hei.ttf",
+    "version": "6.1d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica CY Plain",
+    "fileName": "HelveticaCY.dfont",
+    "version": "6.1d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica CY Bold",
+    "fileName": "HelveticaCY.dfont",
+    "version": "6.1d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica CY Oblique",
+    "fileName": "HelveticaCY.dfont",
+    "version": "6.1d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica CY BoldOblique",
+    "fileName": "HelveticaCY.dfont",
+    "version": "6.1d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Herculanum",
+    "fileName": "Herculanum.ttf",
+    "version": "6.1d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Sans GB W3",
+    "fileName": "Hiragino Sans GB W3.otf",
+    "version": "Version 3.20"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Sans GB W6",
+    "fileName": "Hiragino Sans GB W6.otf",
+    "version": "Version 3.20"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hoefler Text Ornaments",
+    "fileName": "Hoefler Text Ornaments.ttf",
+    "version": "8.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hoefler Text",
+    "fileName": "Hoefler Text.ttc",
+    "version": "8.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hoefler Text Black",
+    "fileName": "Hoefler Text.ttc",
+    "version": "8.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hoefler Text Italic",
+    "fileName": "Hoefler Text.ttc",
+    "version": "8.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hoefler Text Black Italic",
+    "fileName": "Hoefler Text.ttc",
+    "version": "8.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Impact",
+    "fileName": "Impact.ttf",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "InaiMathi",
+    "fileName": "InaiMathi.ttf",
+    "version": "7.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Iowan Old Style Black",
+    "fileName": "Iowan Old Style.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Iowan Old Style Black Italic",
+    "fileName": "Iowan Old Style.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Iowan Old Style Bold",
+    "fileName": "Iowan Old Style.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Iowan Old Style Bold Italic",
+    "fileName": "Iowan Old Style.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Iowan Old Style Italic",
+    "fileName": "Iowan Old Style.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Iowan Old Style Roman",
+    "fileName": "Iowan Old Style.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Iowan Old Style Titling",
+    "fileName": "Iowan Old Style.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kai Regular",
+    "fileName": "Kai.ttf",
+    "version": "6.1d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kailasa Regular",
+    "fileName": "Kailasa.ttf",
+    "version": "7.0d2e4"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kaiti SC Black",
+    "fileName": "Kaiti.ttc",
+    "version": "9.0d11"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kaiti SC Bold",
+    "fileName": "Kaiti.ttc",
+    "version": "9.0d11"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kaiti TC Bold",
+    "fileName": "Kaiti.ttc",
+    "version": "9.0d11"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kaiti SC Regular",
+    "fileName": "Kaiti.ttc",
+    "version": "9.0d11"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STKaiti",
+    "fileName": "Kaiti.ttc",
+    "version": "9.0d11"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kaiti TC Regular",
+    "fileName": "Kaiti.ttc",
+    "version": "9.0d11"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kannada MN",
+    "fileName": "Kannada MN.ttc",
+    "version": "7.0d4e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kannada MN Bold",
+    "fileName": "Kannada MN.ttc",
+    "version": "7.0d4e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kannada Sangam MN",
+    "fileName": "Kannada Sangam MN.ttc",
+    "version": "7.0d4e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kannada Sangam MN Bold",
+    "fileName": "Kannada Sangam MN.ttc",
+    "version": "7.0d4e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kefa Regular",
+    "fileName": "Kefa.ttc",
+    "version": "8.1d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kefa Bold",
+    "fileName": "Kefa.ttc",
+    "version": "8.1d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Khmer MN",
+    "fileName": "Khmer MN.ttc",
+    "version": "7.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Khmer MN Bold",
+    "fileName": "Khmer MN.ttc",
+    "version": "7.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Khmer Sangam MN",
+    "fileName": "Khmer Sangam MN.ttf",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Kokonor Regular",
+    "fileName": "Kokonor.ttf",
+    "version": "7.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Krungthep",
+    "fileName": "Krungthep.ttf",
+    "version": "10.9d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "KufiStandardGK",
+    "fileName": "KufiStandardGK.ttf",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Lantinghei SC Demibold",
+    "fileName": "Lantinghei.ttc",
+    "version": "1.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Lantinghei SC Extralight",
+    "fileName": "Lantinghei.ttc",
+    "version": "1.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Lantinghei SC Heavy",
+    "fileName": "Lantinghei.ttc",
+    "version": "1.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Lantinghei TC Demibold",
+    "fileName": "Lantinghei.ttc",
+    "version": "1.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Lantinghei TC Extralight",
+    "fileName": "Lantinghei.ttc",
+    "version": "1.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Lantinghei TC Heavy",
+    "fileName": "Lantinghei.ttc",
+    "version": "1.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Lao MN",
+    "fileName": "Lao MN.ttc",
+    "version": "7.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Lao MN Bold",
+    "fileName": "Lao MN.ttc",
+    "version": "7.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Lao Sangam MN",
+    "fileName": "Lao Sangam MN.ttf",
+    "version": "7.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Libian SC Regular",
+    "fileName": "Libian.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Malayalam MN",
+    "fileName": "Malayalam MN.ttc",
+    "version": "7.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Malayalam MN Bold",
+    "fileName": "Malayalam MN.ttc",
+    "version": "7.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Malayalam Sangam MN",
+    "fileName": "Malayalam Sangam MN.ttc",
+    "version": "7.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Malayalam Sangam MN Bold",
+    "fileName": "Malayalam Sangam MN.ttc",
+    "version": "7.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Marion Regular",
+    "fileName": "Marion.ttc",
+    "version": "8.0d4e4"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Marion Italic",
+    "fileName": "Marion.ttc",
+    "version": "8.0d4e4"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Marion Bold",
+    "fileName": "Marion.ttc",
+    "version": "8.0d4e4"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Microsoft Sans Serif",
+    "fileName": "Microsoft Sans Serif.ttf",
+    "version": "Version 5.00.1x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Diwan Mishafi",
+    "fileName": "Mishafi.ttc",
+    "version": "9.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Mshtakan Bold",
+    "fileName": "MshtakanBold.ttf",
+    "version": "6.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Mshtakan BoldOblique",
+    "fileName": "MshtakanBoldOblique.ttf",
+    "version": "6.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Mshtakan Oblique",
+    "fileName": "MshtakanOblique.ttf",
+    "version": "6.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Mshtakan",
+    "fileName": "MshtakanRegular.ttf",
+    "version": "6.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Muna",
+    "fileName": "Muna.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Muna Bold",
+    "fileName": "Muna.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Muna Black",
+    "fileName": "Muna.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Myanmar MN",
+    "fileName": "Myanmar MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Myanmar MN Bold",
+    "fileName": "Myanmar MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Myanmar Sangam MN",
+    "fileName": "Myanmar Sangam MN.ttf",
+    "version": "7.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Nadeem",
+    "fileName": "Nadeem.ttf",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "NanumGothic",
+    "fileName": "NanumGothic.ttc",
+    "version": "8.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "NanumGothic Bold",
+    "fileName": "NanumGothic.ttc",
+    "version": "8.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "NanumGothic ExtraBold",
+    "fileName": "NanumGothic.ttc",
+    "version": "8.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "NanumMyeongjo",
+    "fileName": "NanumMyeongjo.ttc",
+    "version": "8.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "NanumMyeongjo Bold",
+    "fileName": "NanumMyeongjo.ttc",
+    "version": "8.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "NanumMyeongjo ExtraBold",
+    "fileName": "NanumMyeongjo.ttc",
+    "version": "8.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Nanum Brush Script",
+    "fileName": "NanumScript.ttc",
+    "version": "8.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Nanum Pen Script",
+    "fileName": "NanumScript.ttc",
+    "version": "8.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "New Peninim MT",
+    "fileName": "NewPeninimMT.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "New Peninim MT Inclined",
+    "fileName": "NewPeninimMT.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "New Peninim MT Bold Inclined",
+    "fileName": "NewPeninimMT.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "New Peninim MT Bold",
+    "fileName": "NewPeninimMT.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "GB18030 Bitmap",
+    "fileName": "NISC18030.ttf",
+    "version": "6.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Oriya MN",
+    "fileName": "Oriya MN.ttc",
+    "version": "7.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Oriya MN Bold",
+    "fileName": "Oriya MN.ttc",
+    "version": "7.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Oriya Sangam MN",
+    "fileName": "Oriya Sangam MN.ttc",
+    "version": "7.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Oriya Sangam MN Bold",
+    "fileName": "Oriya Sangam MN.ttc",
+    "version": "7.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Osaka",
+    "fileName": "Osaka.ttf",
+    "version": "6.1d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Osaka-Mono",
+    "fileName": "OsakaMono.ttf",
+    "version": "6.1d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Papyrus",
+    "fileName": "Papyrus.ttc",
+    "version": "6.1d10e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Papyrus Condensed",
+    "fileName": "Papyrus.ttc",
+    "version": "6.1d10e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PCMyungjo Regular",
+    "fileName": "PCmyoungjo.ttf",
+    "version": "7.0d1e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PilGi Regular",
+    "fileName": "Pilgiche.ttf",
+    "version": "6.1d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Plantagenet Cherokee",
+    "fileName": "PlantagenetCherokee.ttf",
+    "version": "7.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Mono Bold",
+    "fileName": "PTMono.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Mono",
+    "fileName": "PTMono.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Sans",
+    "fileName": "PTSans.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Sans Italic",
+    "fileName": "PTSans.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Sans Narrow Bold",
+    "fileName": "PTSans.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Sans Narrow",
+    "fileName": "PTSans.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Sans Caption Bold",
+    "fileName": "PTSans.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Sans Caption",
+    "fileName": "PTSans.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Sans Bold Italic",
+    "fileName": "PTSans.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Sans Bold",
+    "fileName": "PTSans.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Serif",
+    "fileName": "PTSerif.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Serif Italic",
+    "fileName": "PTSerif.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Serif Bold Italic",
+    "fileName": "PTSerif.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Serif Bold",
+    "fileName": "PTSerif.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Serif Caption",
+    "fileName": "PTSerifCaption.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "PT Serif Caption Italic",
+    "fileName": "PTSerifCaption.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Raanana",
+    "fileName": "Raanana.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Raanana Bold",
+    "fileName": "Raanana.ttc",
+    "version": "9.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Sana",
+    "fileName": "Sana.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Sathu",
+    "fileName": "Sathu.ttf",
+    "version": "10.9d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Savoye LET Plain:1.0",
+    "fileName": "Savoye LET.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Savoye LET Plain CC.:1.0",
+    "fileName": "Savoye LET.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Seravek",
+    "fileName": "Seravek.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Seravek Italic",
+    "fileName": "Seravek.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Seravek Medium Italic",
+    "fileName": "Seravek.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Seravek Medium",
+    "fileName": "Seravek.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Seravek Light Italic",
+    "fileName": "Seravek.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Seravek Light",
+    "fileName": "Seravek.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Seravek ExtraLight Italic",
+    "fileName": "Seravek.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Seravek ExtraLight",
+    "fileName": "Seravek.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Seravek Bold Italic",
+    "fileName": "Seravek.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Seravek Bold",
+    "fileName": "Seravek.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Silom",
+    "fileName": "Silom.ttf",
+    "version": "10.9d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Sinhala MN",
+    "fileName": "Sinhala MN.ttc",
+    "version": "7.0d7e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Sinhala MN Bold",
+    "fileName": "Sinhala MN.ttc",
+    "version": "7.0d7e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Sinhala Sangam MN",
+    "fileName": "Sinhala Sangam MN.ttc",
+    "version": "7.0d7e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Sinhala Sangam MN Bold",
+    "fileName": "Sinhala Sangam MN.ttc",
+    "version": "7.0d7e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Skia Regular",
+    "fileName": "Skia.ttf",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Snell Roundhand",
+    "fileName": "SnellRoundhand.ttc",
+    "version": "9.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Snell Roundhand Bold",
+    "fileName": "SnellRoundhand.ttc",
+    "version": "9.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Snell Roundhand Black",
+    "fileName": "SnellRoundhand.ttc",
+    "version": "9.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Songti SC Black",
+    "fileName": "Songti.ttc",
+    "version": "9.0d12"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Songti SC Bold",
+    "fileName": "Songti.ttc",
+    "version": "9.0d12"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Songti TC Bold",
+    "fileName": "Songti.ttc",
+    "version": "9.0d12"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Songti SC Light",
+    "fileName": "Songti.ttc",
+    "version": "9.0d12"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STSong",
+    "fileName": "Songti.ttc",
+    "version": "9.0d12"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Songti TC Light",
+    "fileName": "Songti.ttc",
+    "version": "9.0d12"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Songti SC Regular",
+    "fileName": "Songti.ttc",
+    "version": "9.0d12"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Songti TC Regular",
+    "fileName": "Songti.ttc",
+    "version": "9.0d12"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXGeneral-Regular",
+    "fileName": "STIXGeneral.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXGeneral-Bold",
+    "fileName": "STIXGeneralBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXGeneral-BoldItalic",
+    "fileName": "STIXGeneralBolIta.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXGeneral-Italic",
+    "fileName": "STIXGeneralItalic.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXIntegralsD-Bold",
+    "fileName": "STIXIntDBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXIntegralsD-Regular",
+    "fileName": "STIXIntDReg.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXIntegralsSm-Bold",
+    "fileName": "STIXIntSmBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXIntegralsSm-Regular",
+    "fileName": "STIXIntSmReg.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXIntegralsUp-Bold",
+    "fileName": "STIXIntUpBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXIntegralsUpD-Bold",
+    "fileName": "STIXIntUpDBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXIntegralsUpD-Regular",
+    "fileName": "STIXIntUpDReg.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXIntegralsUp-Regular",
+    "fileName": "STIXIntUpReg.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXIntegralsUpSm-Bold",
+    "fileName": "STIXIntUpSmBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXIntegralsUpSm-Regular",
+    "fileName": "STIXIntUpSmReg.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXNonUnicode-Regular",
+    "fileName": "STIXNonUni.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXNonUnicode-Bold",
+    "fileName": "STIXNonUniBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXNonUnicode-BoldItalic",
+    "fileName": "STIXNonUniBolIta.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXNonUnicode-Italic",
+    "fileName": "STIXNonUniIta.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXSizeFiveSym-Regular",
+    "fileName": "STIXSizFiveSymReg.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXSizeFourSym-Bold",
+    "fileName": "STIXSizFourSymBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXSizeFourSym-Regular",
+    "fileName": "STIXSizFourSymReg.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXSizeOneSym-Bold",
+    "fileName": "STIXSizOneSymBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXSizeOneSym-Regular",
+    "fileName": "STIXSizOneSymReg.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXSizeThreeSym-Bold",
+    "fileName": "STIXSizThreeSymBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXSizeThreeSym-Regular",
+    "fileName": "STIXSizThreeSymReg.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXSizeTwoSym-Bold",
+    "fileName": "STIXSizTwoSymBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXSizeTwoSym-Regular",
+    "fileName": "STIXSizTwoSymReg.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXVariants-Regular",
+    "fileName": "STIXVar.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STIXVariants-Bold",
+    "fileName": "STIXVarBol.otf",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Superclarendon Regular",
+    "fileName": "SuperClarendon.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Superclarendon Italic",
+    "fileName": "SuperClarendon.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Superclarendon Light Italic",
+    "fileName": "SuperClarendon.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Superclarendon Light",
+    "fileName": "SuperClarendon.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Superclarendon Bold Italic",
+    "fileName": "SuperClarendon.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Superclarendon Bold",
+    "fileName": "SuperClarendon.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Superclarendon Black Italic",
+    "fileName": "SuperClarendon.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Superclarendon Black",
+    "fileName": "SuperClarendon.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Tahoma Negreta",
+    "fileName": "Tahoma Bold.ttf",
+    "version": "Version 5.01.1x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Tahoma",
+    "fileName": "Tahoma.ttf",
+    "version": "Version 5.01.2x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Tamil MN",
+    "fileName": "Tamil MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Tamil MN Bold",
+    "fileName": "Tamil MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Tamil Sangam MN",
+    "fileName": "Tamil Sangam MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Tamil Sangam MN Bold",
+    "fileName": "Tamil Sangam MN.ttc",
+    "version": "7.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Telugu MN",
+    "fileName": "Telugu MN.ttc",
+    "version": "7.0d5e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Telugu MN Bold",
+    "fileName": "Telugu MN.ttc",
+    "version": "7.0d5e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Telugu Sangam MN",
+    "fileName": "Telugu Sangam MN.ttc",
+    "version": "7.0d5e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Telugu Sangam MN Bold",
+    "fileName": "Telugu Sangam MN.ttc",
+    "version": "7.0d5e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Times New Roman Bold Italic",
+    "fileName": "Times New Roman Bold Italic.ttf",
+    "version": "Version 5.00.3x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Times New Roman Bold",
+    "fileName": "Times New Roman Bold.ttf",
+    "version": "Version 5.01.3x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Times New Roman Italic",
+    "fileName": "Times New Roman Italic.ttf",
+    "version": "Version 5.00.3x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Times New Roman",
+    "fileName": "Times New Roman.ttf",
+    "version": "Version 5.01.3x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Trebuchet MS Bold Italic",
+    "fileName": "Trebuchet MS Bold Italic.ttf",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Trebuchet MS Bold",
+    "fileName": "Trebuchet MS Bold.ttf",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Trebuchet MS Italic",
+    "fileName": "Trebuchet MS Italic.ttf",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Trebuchet MS",
+    "fileName": "Trebuchet MS.ttf",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Verdana Bold Italic",
+    "fileName": "Verdana Bold Italic.ttf",
+    "version": "Version 5.01x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Verdana Bold",
+    "fileName": "Verdana Bold.ttf",
+    "version": "Version 5.01x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Verdana Italic",
+    "fileName": "Verdana Italic.ttf",
+    "version": "Version 5.01x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Verdana",
+    "fileName": "Verdana.ttf",
+    "version": "Version 5.01x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Waseem",
+    "fileName": "Waseem.ttc",
+    "version": "9.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Waseem Light",
+    "fileName": "Waseem.ttc",
+    "version": "9.0d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Wawati SC Regular",
+    "fileName": "WawaSC-Regular.otf",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Wawati TC Regular",
+    "fileName": "WawaTC-Regular.otf",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Webdings",
+    "fileName": "Webdings.ttf",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Weibei SC Bold",
+    "fileName": "WeibeiSC-Bold.otf",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Weibei TC Bold",
+    "fileName": "WeibeiTC-Bold.otf",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Wingdings 2",
+    "fileName": "Wingdings 2.ttf",
+    "version": "Version 1.55x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Wingdings 3",
+    "fileName": "Wingdings 3.ttf",
+    "version": "Version 1.55x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Wingdings",
+    "fileName": "Wingdings.ttf",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Xingkai SC Bold",
+    "fileName": "Xingkai.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Xingkai SC Light",
+    "fileName": "Xingkai.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "YuGothic Bold",
+    "fileName": "Yu Gothic Bold.otf",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "YuGothic Medium",
+    "fileName": "Yu Gothic Medium.otf",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "YuMincho Demibold",
+    "fileName": "Yu Mincho Demibold.otf",
+    "version": "Version 1.000;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "YuMincho Medium",
+    "fileName": "Yu Mincho Medium.otf",
+    "version": "Version 1.000;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Yuanti SC Bold",
+    "fileName": "Yuanti.ttc",
+    "version": "9.0d1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Yuanti SC Light",
+    "fileName": "Yuanti.ttc",
+    "version": "9.0d1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Yuanti SC Regular",
+    "fileName": "Yuanti.ttc",
+    "version": "9.0d1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Yuppy SC Regular",
+    "fileName": "YuppySC-Regular.otf",
+    "version": "1.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Yuppy TC Regular",
+    "fileName": "YuppyTC-Regular.otf",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Zapfino",
+    "fileName": "Zapfino.ttf",
+    "version": "8.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Maru Gothic Pro W4",
+    "fileName": "ヒラギノ丸ゴ Pro W4.otf",
+    "version": "7.11"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Maru Gothic ProN W4",
+    "fileName": "ヒラギノ丸ゴ ProN W4.otf",
+    "version": "Version 8.10"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Mincho Pro W3",
+    "fileName": "ヒラギノ明朝 Pro W3.otf",
+    "version": "7.11"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Mincho Pro W6",
+    "fileName": "ヒラギノ明朝 Pro W6.otf",
+    "version": "7.11"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Kaku Gothic Pro W3",
+    "fileName": "ヒラギノ角ゴ Pro W3.otf",
+    "version": "7.11"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Kaku Gothic Pro W6",
+    "fileName": "ヒラギノ角ゴ Pro W6.otf",
+    "version": "7.11"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Kaku Gothic Std W8",
+    "fileName": "ヒラギノ角ゴ Std W8.otf",
+    "version": "7.1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Kaku Gothic StdN W8",
+    "fileName": "ヒラギノ角ゴ StdN W8.otf",
+    "version": "Version 8.10"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "LiSong Pro",
+    "fileName": "儷宋 Pro.ttf",
+    "version": "6.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "LiHei Pro",
+    "fileName": "儷黑 Pro.ttf",
+    "version": "6.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STFangsong",
+    "fileName": "华文仿宋.ttf",
+    "version": "8.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STXihei",
+    "fileName": "华文细黑.ttf",
+    "version": "6.1d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "STHeiti",
+    "fileName": "华文黑体.ttf",
+    "version": "6.1d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple Braille Outline 6 Dot",
+    "fileName": "Apple Braille Outline 6 Dot.ttf",
+    "version": "1.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple Braille Outline 8 Dot",
+    "fileName": "Apple Braille Outline 8 Dot.ttf",
+    "version": "1.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple Braille Pinpoint 6 Dot",
+    "fileName": "Apple Braille Pinpoint 6 Dot.ttf",
+    "version": "1.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple Braille Pinpoint 8 Dot",
+    "fileName": "Apple Braille Pinpoint 8 Dot.ttf",
+    "version": "1.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple Braille",
+    "fileName": "Apple Braille.ttf",
+    "version": "1.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple Color Emoji",
+    "fileName": "Apple Color Emoji.ttf",
+    "version": "8.0d7e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple Symbols",
+    "fileName": "Apple Symbols.ttf",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple SD Gothic Neo Bold",
+    "fileName": "AppleSDGothicNeo-Bold.otf",
+    "version": "9.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Apple SD Gothic Neo Regular",
+    "fileName": "AppleSDGothicNeo-Regular.otf",
+    "version": "9.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": ".Aqua Kana",
+    "fileName": "AquaKana.ttc",
+    "version": "7.1d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": ".Aqua Kana Bold",
+    "fileName": "AquaKana.ttc",
+    "version": "7.1d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Bold",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Bold Italic",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Demi Bold",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Demi Bold Italic",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Italic",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Medium",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Medium Italic",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Regular",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Heavy",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Heavy Italic",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Ultra Light",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Condensed Ultra Light Italic",
+    "fileName": "Avenir Next Condensed.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Bold",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Bold Italic",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Demi Bold",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Demi Bold Italic",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Italic",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Medium",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Medium Italic",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Regular",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Heavy",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Heavy Italic",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Ultra Light",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Next Ultra Light Italic",
+    "fileName": "Avenir Next.ttc",
+    "version": "8.0d5e5"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Book",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Book Oblique",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Black",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Black Oblique",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Heavy",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Heavy Oblique",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Light",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Light Oblique",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Medium",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Medium Oblique",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Oblique",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Avenir Roman",
+    "fileName": "Avenir.ttc",
+    "version": "8.0d5e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Courier",
+    "fileName": "Courier.dfont",
+    "version": "7.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Courier Bold",
+    "fileName": "Courier.dfont",
+    "version": "7.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Courier Oblique",
+    "fileName": "Courier.dfont",
+    "version": "7.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Courier Bold Oblique",
+    "fileName": "Courier.dfont",
+    "version": "7.0d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Geeza Pro Bold",
+    "fileName": "Geeza Pro Bold.ttf",
+    "version": "10.9d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Geeza Pro",
+    "fileName": "Geeza Pro.ttf",
+    "version": "10.9d2e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Geneva",
+    "fileName": "Geneva.dfont",
+    "version": "9.0d1e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": ".Helvetica LT MM",
+    "fileName": "HelveLTMM",
+    "version": "1.006"
+  },
+  {
+    "fontFamily": null,
+    "fontName": ".Helvetica LT MM",
+    "fileName": "Helvetica LT MM",
+    "version": "1.006"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica",
+    "fileName": "Helvetica.dfont",
+    "version": "9.0d3e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Bold",
+    "fileName": "Helvetica.dfont",
+    "version": "9.0d3e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Oblique",
+    "fileName": "Helvetica.dfont",
+    "version": "9.0d3e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Bold Oblique",
+    "fileName": "Helvetica.dfont",
+    "version": "9.0d3e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Light",
+    "fileName": "Helvetica.dfont",
+    "version": "9.0d3e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Light Oblique",
+    "fileName": "Helvetica.dfont",
+    "version": "9.0d3e2"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue Bold",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue Italic",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue Bold Italic",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue Condensed Bold",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue UltraLight",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue UltraLight Italic",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue Light",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue Light Italic",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue Condensed Black",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue Medium",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue Medium Italic",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue Thin",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Helvetica Neue Thin Italic",
+    "fileName": "HelveticaNeue.dfont",
+    "version": "9.0d57e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": ".Helvetica Neue Desk UI",
+    "fileName": "HelveticaNeueDeskUI.ttc",
+    "version": "9.0d55e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": ".Helvetica Neue Desk UI Italic",
+    "fileName": "HelveticaNeueDeskUI.ttc",
+    "version": "9.0d55e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": ".Helvetica Neue Desk UI Bold",
+    "fileName": "HelveticaNeueDeskUI.ttc",
+    "version": "9.0d55e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": ".Helvetica Neue Desk UI Bold Italic",
+    "fileName": "HelveticaNeueDeskUI.ttc",
+    "version": "9.0d55e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": ".Keyboard",
+    "fileName": "Keyboard.ttf",
+    "version": "9.0d6e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "LastResort",
+    "fileName": "LastResort.ttf",
+    "version": "6.2d1e1 (Unicode version 6.2.0)"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Lucida Grande",
+    "fileName": "LucidaGrande.ttc",
+    "version": "9.0d11e0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Lucida Grande Bold",
+    "fileName": "LucidaGrande.ttc",
+    "version": "9.0d11e0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "System Font Regular",
+    "fileName": "LucidaGrande.ttc",
+    "version": "9.0d11e0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "System Font Bold",
+    "fileName": "LucidaGrande.ttc",
+    "version": "9.0d11e0"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Marker Felt Thin",
+    "fileName": "MarkerFelt.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Marker Felt Wide",
+    "fileName": "MarkerFelt.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Menlo Regular",
+    "fileName": "Menlo.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Menlo Bold",
+    "fileName": "Menlo.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Menlo Italic",
+    "fileName": "Menlo.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Menlo Bold Italic",
+    "fileName": "Menlo.ttc",
+    "version": "8.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Monaco",
+    "fileName": "Monaco.dfont",
+    "version": "7.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Noteworthy Light",
+    "fileName": "Noteworthy.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Noteworthy Bold",
+    "fileName": "Noteworthy.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Optima Regular",
+    "fileName": "Optima.ttc",
+    "version": "6.1d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Optima Bold",
+    "fileName": "Optima.ttc",
+    "version": "6.1d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Optima Italic",
+    "fileName": "Optima.ttc",
+    "version": "6.1d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Optima Bold Italic",
+    "fileName": "Optima.ttc",
+    "version": "6.1d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Optima ExtraBlack",
+    "fileName": "Optima.ttc",
+    "version": "6.1d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Palatino",
+    "fileName": "Palatino.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Palatino Italic",
+    "fileName": "Palatino.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Palatino Bold",
+    "fileName": "Palatino.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Palatino Bold Italic",
+    "fileName": "Palatino.ttc",
+    "version": "9.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Heiti TC Light",
+    "fileName": "STHeiti Light.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Heiti SC Light",
+    "fileName": "STHeiti Light.ttc",
+    "version": "9.0d5e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Heiti TC Medium",
+    "fileName": "STHeiti Medium.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Heiti SC Medium",
+    "fileName": "STHeiti Medium.ttc",
+    "version": "9.0d4e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Symbol",
+    "fileName": "Symbol.ttf",
+    "version": "6.1d7e3"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Thonburi",
+    "fileName": "Thonburi.ttc",
+    "version": "10.9d11e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Thonburi Bold",
+    "fileName": "Thonburi.ttc",
+    "version": "10.9d11e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Thonburi Light",
+    "fileName": "Thonburi.ttc",
+    "version": "10.9d11e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": ".Times LT MM",
+    "fileName": "Times LT MM",
+    "version": "1.006"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Times Roman",
+    "fileName": "Times.dfont",
+    "version": "7.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Times Bold",
+    "fileName": "Times.dfont",
+    "version": "7.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Times Italic",
+    "fileName": "Times.dfont",
+    "version": "7.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Times Bold Italic",
+    "fileName": "Times.dfont",
+    "version": "7.0d1e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": ".Times LT MM",
+    "fileName": "TimesLTMM",
+    "version": "1.006"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Zapf Dingbats",
+    "fileName": "ZapfDingbats.ttf",
+    "version": "6.1d3e1"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Mincho ProN W3",
+    "fileName": "ヒラギノ明朝 ProN W3.otf",
+    "version": "Version 8.10"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Mincho ProN W6",
+    "fileName": "ヒラギノ明朝 ProN W6.otf",
+    "version": "Version 8.10"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Kaku Gothic ProN W3",
+    "fileName": "ヒラギノ角ゴ ProN W3.otf",
+    "version": "Version 8.10"
+  },
+  {
+    "fontFamily": null,
+    "fontName": "Hiragino Kaku Gothic ProN W6",
+    "fileName": "ヒラギノ角ゴ ProN W6.otf",
+    "version": "Version 8.10"
+  }
+]

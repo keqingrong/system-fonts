@@ -1,0 +1,1544 @@
+[
+  {
+    "fontFamily": "Aharoni Bold",
+    "fontName": "Aharoni Bold",
+    "fileName": "ahronbd.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "Andalus",
+    "fontName": "Andalus",
+    "fileName": "andlso.ttf",
+    "version": "5.92"
+  },
+  {
+    "fontFamily": "Angsana New",
+    "fontName": "Angsana New",
+    "fileName": "angsa.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Angsana New",
+    "fontName": "Angsana New Italic",
+    "fileName": "angsai.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Angsana New",
+    "fontName": "Angsana New Bold",
+    "fileName": "angsab.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Angsana New",
+    "fontName": "Angsana New Bold Italic",
+    "fileName": "angsaz.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "AngsanaUPC",
+    "fontName": "AngsanaUPC",
+    "fileName": "angsau.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "AngsanaUPC",
+    "fontName": "AngsanaUPC Italic",
+    "fileName": "angsaui.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "AngsanaUPC",
+    "fontName": "AngsanaUPC Bold",
+    "fileName": "angsaub.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "AngsanaUPC",
+    "fontName": "AngsanaUPC Bold Italic",
+    "fileName": "angsauz.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Aparajita",
+    "fontName": "Aparajita",
+    "fileName": "aparaj.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Aparajita",
+    "fontName": "Aparajita Italic",
+    "fileName": "aparaji.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Aparajita",
+    "fontName": "Aparajita Bold",
+    "fileName": "aparajb.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Aparajita",
+    "fontName": "Aparajita Bold Italic",
+    "fileName": "aparajbi.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Arabic Typesetting",
+    "fontName": "Arabic Typesetting",
+    "fileName": "arabtype.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Arial",
+    "fontName": "Arial",
+    "fileName": "arial.ttf",
+    "version": "5.22"
+  },
+  {
+    "fontFamily": "Arial",
+    "fontName": "Arial Italic",
+    "fileName": "ariali.ttf",
+    "version": "5.22"
+  },
+  {
+    "fontFamily": "Arial",
+    "fontName": "Arial Bold",
+    "fileName": "arialbd.ttf",
+    "version": "5.22"
+  },
+  {
+    "fontFamily": "Arial",
+    "fontName": "Arial Bold Italic",
+    "fileName": "arialbi.ttf",
+    "version": "5.22"
+  },
+  {
+    "fontFamily": "Arial Black",
+    "fontName": "Arial Black",
+    "fileName": "ariblk.ttf",
+    "version": "5.06"
+  },
+  {
+    "fontFamily": "Batang",
+    "fontName": "Batang",
+    "fileName": "batang.ttc",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Batang",
+    "fontName": "BatangChe",
+    "fileName": "batang.ttc",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Browallia New",
+    "fontName": "Browallia New",
+    "fileName": "browa.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Browallia New",
+    "fontName": "Browallia New Italic",
+    "fileName": "browai.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Browallia New",
+    "fontName": "Browallia New Bold",
+    "fileName": "browab.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Browallia New",
+    "fontName": "Browallia New Bold Italic",
+    "fileName": "browaz.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "BrowalliaUPC",
+    "fontName": "BrowalliaUPC",
+    "fileName": "browau.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "BrowalliaUPC",
+    "fontName": "BrowalliaUPC Italic",
+    "fileName": "browaui.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "BrowalliaUPC",
+    "fontName": "BrowalliaUPC Bold",
+    "fileName": "browaub.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "BrowalliaUPC",
+    "fontName": "BrowalliaUPC Bold Italic",
+    "fileName": "browauz.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Calibri",
+    "fontName": "Calibri",
+    "fileName": "calibri.ttf",
+    "version": "5.75"
+  },
+  {
+    "fontFamily": "Calibri",
+    "fontName": "Calibri Italic",
+    "fileName": "calibrii.ttf",
+    "version": "5.75"
+  },
+  {
+    "fontFamily": "Calibri",
+    "fontName": "Calibri Bold",
+    "fileName": "calibrib.ttf",
+    "version": "5.75"
+  },
+  {
+    "fontFamily": "Calibri",
+    "fontName": "Calibri Bold Italic",
+    "fileName": "calibriz.ttf",
+    "version": "5.75"
+  },
+  {
+    "fontFamily": "Cambria",
+    "fontName": "Cambria",
+    "fileName": "cambria.ttc",
+    "version": "5.97"
+  },
+  {
+    "fontFamily": "Cambria",
+    "fontName": "Cambria Italic",
+    "fileName": "cambriai.ttf",
+    "version": "5.97"
+  },
+  {
+    "fontFamily": "Cambria",
+    "fontName": "Cambria Bold",
+    "fileName": "cambriab.ttf",
+    "version": "5.97"
+  },
+  {
+    "fontFamily": "Cambria",
+    "fontName": "Cambria Bold Italic",
+    "fileName": "cambriaz.ttf",
+    "version": "5.97"
+  },
+  {
+    "fontFamily": "Cambria Math",
+    "fontName": "Cambria Math",
+    "fileName": "cambria.ttc",
+    "version": "5.97"
+  },
+  {
+    "fontFamily": "Candara",
+    "fontName": "Candara",
+    "fileName": "candara.ttf",
+    "version": "5.61"
+  },
+  {
+    "fontFamily": "Candara",
+    "fontName": "Candara Italic",
+    "fileName": "candarai.ttf",
+    "version": "5.61"
+  },
+  {
+    "fontFamily": "Candara",
+    "fontName": "Candara Bold",
+    "fileName": "candarab.ttf",
+    "version": "5.61"
+  },
+  {
+    "fontFamily": "Candara",
+    "fontName": "Candara Bold Italic",
+    "fileName": "candaraz.ttf",
+    "version": "5.61"
+  },
+  {
+    "fontFamily": "Comic Sans MS",
+    "fontName": "Comic Sans MS",
+    "fileName": "comic.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Comic Sans MS",
+    "fontName": "Comic Sans MS Bold",
+    "fileName": "comicbd.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Consolas",
+    "fontName": "Consolas",
+    "fileName": "consola.ttf",
+    "version": "5.24"
+  },
+  {
+    "fontFamily": "Consolas",
+    "fontName": "Consolas Italic",
+    "fileName": "consolai.ttf",
+    "version": "5.24"
+  },
+  {
+    "fontFamily": "Consolas",
+    "fontName": "Consolas Bold",
+    "fileName": "consolab.ttf",
+    "version": "5.24"
+  },
+  {
+    "fontFamily": "Consolas",
+    "fontName": "Consolas Bold Italic",
+    "fileName": "consolaz.ttf",
+    "version": "5.24"
+  },
+  {
+    "fontFamily": "Constantia",
+    "fontName": "Constantia",
+    "fileName": "constan.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Constantia",
+    "fontName": "Constantia Italic",
+    "fileName": "constani.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Constantia",
+    "fontName": "Constantia Bold",
+    "fileName": "constanb.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Constantia",
+    "fontName": "Constantia Bold Italic",
+    "fileName": "constanz.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Corbel",
+    "fontName": "Corbel",
+    "fileName": "corbel.ttf",
+    "version": "5.61"
+  },
+  {
+    "fontFamily": "Corbel",
+    "fontName": "Corbel Italic",
+    "fileName": "corbeli.ttf",
+    "version": "5.61"
+  },
+  {
+    "fontFamily": "Corbel",
+    "fontName": "Corbel Bold",
+    "fileName": "corbelb.ttf",
+    "version": "5.61"
+  },
+  {
+    "fontFamily": "Corbel",
+    "fontName": "Corbel Bold Italic",
+    "fileName": "corbelz.ttf",
+    "version": "5.61"
+  },
+  {
+    "fontFamily": "Cordia New",
+    "fontName": "Cordia New",
+    "fileName": "cordia.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Cordia New",
+    "fontName": "Cordia New Italic",
+    "fileName": "cordiai.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Cordia New",
+    "fontName": "Cordia New Bold",
+    "fileName": "cordiab.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Cordia New",
+    "fontName": "Cordia New Bold Italic",
+    "fileName": "cordiaz.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "CordiaUPC",
+    "fontName": "CordiaUPC",
+    "fileName": "cordiau.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "CordiaUPC",
+    "fontName": "CordiaUPC Italic",
+    "fileName": "cordiaui.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "CordiaUPC",
+    "fontName": "CordiaUPC Bold",
+    "fileName": "cordiaub.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "CordiaUPC",
+    "fontName": "CordiaUPC Bold Italic",
+    "fileName": "cordiauz.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Courier New",
+    "fontName": "Courier New",
+    "fileName": "cour.ttf",
+    "version": "5.13"
+  },
+  {
+    "fontFamily": "Courier New",
+    "fontName": "Courier New Italic",
+    "fileName": "couri.ttf",
+    "version": "5.13"
+  },
+  {
+    "fontFamily": "Courier New",
+    "fontName": "Courier New Bold",
+    "fileName": "courbd.ttf",
+    "version": "5.13"
+  },
+  {
+    "fontFamily": "Courier New",
+    "fontName": "Courier New Bold Italic",
+    "fileName": "courbi.ttf",
+    "version": "5.13"
+  },
+  {
+    "fontFamily": "DaunPenh",
+    "fontName": "DaunPenh",
+    "fileName": "daunpenh.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "David",
+    "fontName": "David",
+    "fileName": "david.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "David",
+    "fontName": "David Bold",
+    "fileName": "davidbd.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "DFKai-SB",
+    "fontName": "DFKai-SB",
+    "fileName": "kaiu.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "DilleniaUPC",
+    "fontName": "DilleniaUPC",
+    "fileName": "upcdl.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "DilleniaUPC",
+    "fontName": "DilleniaUPC Italic",
+    "fileName": "upcdi.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "DilleniaUPC",
+    "fontName": "DilleniaUPC Bold",
+    "fileName": "upcdb.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "DilleniaUPC",
+    "fontName": "DilleniaUPC Bold Italic",
+    "fileName": "upcdbi.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "DokChampa",
+    "fontName": "DokChampa",
+    "fileName": "dokchamp.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Dotum",
+    "fontName": "Dotum",
+    "fileName": "gulim.ttc",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Dotum",
+    "fontName": "DotumChe",
+    "fileName": "gulim.ttc",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Ebrima",
+    "fontName": "Ebrima",
+    "fileName": "ebrima.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Ebrima",
+    "fontName": "Ebrima Bold",
+    "fileName": "ebrimabd.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Estrangelo Edessa",
+    "fontName": "Estrangelo Edessa",
+    "fileName": "estre.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "EucrosiaUPC",
+    "fontName": "EucrosiaUPC",
+    "fileName": "upcel.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "EucrosiaUPC",
+    "fontName": "EucrosiaUPC Italic",
+    "fileName": "upcei.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "EucrosiaUPC",
+    "fontName": "EucrosiaUPC Bold",
+    "fileName": "upceb.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "EucrosiaUPC",
+    "fontName": "EucrosiaUPC Bold Italic",
+    "fileName": "upcebi.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Euphemia",
+    "fontName": "Euphemia",
+    "fileName": "euphemia.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "FangSong",
+    "fontName": "FangSong",
+    "fileName": "simfang.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Franklin Gothic Medium",
+    "fontName": "Franklin Gothic Medium",
+    "fileName": "framd.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Franklin Gothic Medium",
+    "fontName": "Franklin Gothic Medium Italic",
+    "fileName": "framdit.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "FrankRuehl",
+    "fontName": "FrankRuehl",
+    "fileName": "frank.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "FreesiaUPC",
+    "fontName": "FreesiaUPC",
+    "fileName": "upcfl.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "FreesiaUPC",
+    "fontName": "FreesiaUPC Italic",
+    "fileName": "upcfi.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "FreesiaUPC",
+    "fontName": "FreesiaUPC Bold",
+    "fileName": "upcfb.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "FreesiaUPC",
+    "fontName": "FreesiaUPC Bold Italic",
+    "fileName": "upcfbi.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Gabriola",
+    "fontName": "Gabriola",
+    "fileName": "gabriola.ttf",
+    "version": "5.92"
+  },
+  {
+    "fontFamily": "Gautami",
+    "fontName": "Gautami",
+    "fileName": "gautami.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Gautami",
+    "fontName": "Gautami Bold",
+    "fileName": "gautamib.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Georgia",
+    "fontName": "Georgia",
+    "fileName": "georgia.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Georgia",
+    "fontName": "Georgia Italic",
+    "fileName": "georgiai.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Georgia",
+    "fontName": "Georgia Bold",
+    "fileName": "georgiab.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Georgia",
+    "fontName": "Georgia Bold Italic",
+    "fileName": "georgiaz.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Gisha",
+    "fontName": "Gisha",
+    "fileName": "gisha.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Gisha",
+    "fontName": "Gisha Bold",
+    "fileName": "gishabd.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Gulim",
+    "fontName": "Gulim",
+    "fileName": "gulim.ttc",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Gulim",
+    "fontName": "GulimChe",
+    "fileName": "gulim.ttc",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Gungsuh",
+    "fontName": "Gungsuh",
+    "fileName": "batang.ttc",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Gungsuh",
+    "fontName": "GungsuhChe",
+    "fileName": "batang.ttc",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Impact",
+    "fontName": "Impact",
+    "fileName": "impact.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "IrisUPC",
+    "fontName": "IrisUPC",
+    "fileName": "upcil.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "IrisUPC",
+    "fontName": "IrisUPC Italic",
+    "fileName": "upcii.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "IrisUPC",
+    "fontName": "IrisUPC Bold",
+    "fileName": "upcib.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "IrisUPC",
+    "fontName": "IrisUPC Bold Italic",
+    "fileName": "upcibi.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Iskoola Pota",
+    "fontName": "Iskoola Pota",
+    "fileName": "iskpota.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Iskoola Pota",
+    "fontName": "Iskoola Pota Bold",
+    "fileName": "iskpotab.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "JasmineUPC",
+    "fontName": "JasmineUPC",
+    "fileName": "upcjl.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "JasmineUPC",
+    "fontName": "JasmineUPC Italic",
+    "fileName": "upcji.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "JasmineUPC",
+    "fontName": "JasmineUPC Bold",
+    "fileName": "upcjb.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "JasmineUPC",
+    "fontName": "JasmineUPC Bold Italic",
+    "fileName": "upcjbi.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "KaiTi",
+    "fontName": "KaiTi",
+    "fileName": "simkai.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Kalinga",
+    "fontName": "Kalinga",
+    "fileName": "kalinga.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Kalinga",
+    "fontName": "Kalinga Bold",
+    "fileName": "kalingab.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Kartika",
+    "fontName": "Kartika",
+    "fileName": "kartika.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Kartika",
+    "fontName": "Kartika Bold",
+    "fileName": "kartikab.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Khmer UI",
+    "fontName": "Khmer UI",
+    "fileName": "khmerui.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Khmer UI",
+    "fontName": "Khmer UI Bold",
+    "fileName": "khmeruib.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "KodchiangUPC",
+    "fontName": "KodchiangUPC",
+    "fileName": "upckl.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "KodchiangUPC",
+    "fontName": "KodchiangUPC Italic",
+    "fileName": "upcki.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "KodchiangUPC",
+    "fontName": "KodchiangUPC Bold",
+    "fileName": "upckb.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "KodchiangUPC",
+    "fontName": "KodchiangUPC Bold Italic",
+    "fileName": "upckbi.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Kokila",
+    "fontName": "Kokila",
+    "fileName": "kokila.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Kokila",
+    "fontName": "Kokila Italic",
+    "fileName": "kokilai.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Kokila",
+    "fontName": "Kokila Bold",
+    "fileName": "kokilab.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Kokila",
+    "fontName": "Kokila Bold Italic",
+    "fileName": "kokilabi.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Lao UI",
+    "fontName": "Lao UI",
+    "fileName": "laoui.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Lao UI",
+    "fontName": "Lao UI Bold",
+    "fileName": "laouib.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Latha",
+    "fontName": "Latha",
+    "fileName": "latha.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Latha",
+    "fontName": "Latha Bold",
+    "fileName": "lathab.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Leelawadee",
+    "fontName": "Leelawadee",
+    "fileName": "leelawad.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Leelawadee",
+    "fontName": "Leelawadee Bold",
+    "fileName": "leelawdb.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Levenim MT",
+    "fontName": "Levenim MT",
+    "fileName": "lvnm.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "Levenim MT",
+    "fontName": "Levenim MT Bold",
+    "fileName": "lvnmbd.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "LilyUPC",
+    "fontName": "LilyUPC",
+    "fileName": "upcll.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "LilyUPC",
+    "fontName": "LilyUPC Italic",
+    "fileName": "upcli.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "LilyUPC",
+    "fontName": "LilyUPC Bold",
+    "fileName": "upclb.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "LilyUPC",
+    "fontName": "LilyUPC Bold Italic",
+    "fileName": "upclbi.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Lucida Sans Unicode",
+    "fontName": "Lucida Sans Unicode",
+    "fileName": "l_10646.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Malgun Gothic",
+    "fontName": "Malgun Gothic",
+    "fileName": "malgun.ttf",
+    "version": "6.11"
+  },
+  {
+    "fontFamily": "Malgun Gothic",
+    "fontName": "Malgun Gothic Bold",
+    "fileName": "malgunbd.ttf",
+    "version": "6.00"
+  },
+  {
+    "fontFamily": "Mangal",
+    "fontName": "Mangal",
+    "fileName": "mangal.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Mangal",
+    "fontName": "Mangal Bold",
+    "fileName": "mangalb.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Marlett",
+    "fontName": "Marlett",
+    "fileName": "marlett.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Meiryo",
+    "fontName": "Meiryo",
+    "fileName": "meiryo.ttc",
+    "version": "6.05"
+  },
+  {
+    "fontFamily": "Meiryo",
+    "fontName": "Meiryo Italic",
+    "fileName": "meiryo.ttc",
+    "version": "6.05"
+  },
+  {
+    "fontFamily": "Meiryo",
+    "fontName": "Meiryo Bold",
+    "fileName": "meiryob.ttc",
+    "version": "6.05"
+  },
+  {
+    "fontFamily": "Meiryo",
+    "fontName": "Meiryo Bold Italic",
+    "fileName": "meiryob.ttc",
+    "version": "6.05"
+  },
+  {
+    "fontFamily": "Meiryo UI",
+    "fontName": "Meiryo UI",
+    "fileName": "meiryo.ttc",
+    "version": "6.05"
+  },
+  {
+    "fontFamily": "Meiryo UI",
+    "fontName": "Meiryo UI Italic",
+    "fileName": "meiryo.ttc",
+    "version": "6.05"
+  },
+  {
+    "fontFamily": "Meiryo UI",
+    "fontName": "Meiryo UI Bold",
+    "fileName": "meiryob.ttc",
+    "version": "6.05"
+  },
+  {
+    "fontFamily": "Meiryo UI",
+    "fontName": "Meiryo UI Bold Italic",
+    "fileName": "meiryob.ttc",
+    "version": "6.05"
+  },
+  {
+    "fontFamily": "Microsoft Himalaya",
+    "fontName": "Microsoft Himalaya",
+    "fileName": "himalaya.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Microsoft JhengHei",
+    "fontName": "Microsoft JhengHei",
+    "fileName": "msjh.ttf",
+    "version": "6.02"
+  },
+  {
+    "fontFamily": "Microsoft JhengHei",
+    "fontName": "Microsoft JhengHei Bold",
+    "fileName": "msjhbd.ttf",
+    "version": "6.00"
+  },
+  {
+    "fontFamily": "Microsoft New Tai Lue",
+    "fontName": "Microsoft New Tai Lue",
+    "fileName": "ntailu.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Microsoft New Tai Lue",
+    "fontName": "Microsoft New Tai Lue Bold",
+    "fileName": "ntailub.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Microsoft PhagsPa",
+    "fontName": "Microsoft PhagsPa",
+    "fileName": "phagspa.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Microsoft PhagsPa",
+    "fontName": "Microsoft PhagsPa Bold",
+    "fileName": "phagspab.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Microsoft Sans Serif",
+    "fontName": "Microsoft Sans Serif",
+    "fileName": "micross.ttf",
+    "version": "5.22"
+  },
+  {
+    "fontFamily": "Microsoft Tai Le",
+    "fontName": "Microsoft Tai Le",
+    "fileName": "taile.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Microsoft Tai Le",
+    "fontName": "Microsoft Tai Le Bold",
+    "fileName": "taileb.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Microsoft Uighur",
+    "fontName": "Microsoft Uighur",
+    "fileName": "msuighur.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Microsoft YaHei",
+    "fontName": "Microsoft YaHei",
+    "fileName": "msyh.ttf",
+    "version": "6.02"
+  },
+  {
+    "fontFamily": "Microsoft YaHei",
+    "fontName": "Microsoft YaHei Bold",
+    "fileName": "msyhbd.ttf",
+    "version": "6.02"
+  },
+  {
+    "fontFamily": "Microsoft Yi Baiti",
+    "fontName": "Microsoft Yi Baiti",
+    "fileName": "msyi.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "MingLiU",
+    "fontName": "MingLiU",
+    "fileName": "mingliu.ttc",
+    "version": "7.00"
+  },
+  {
+    "fontFamily": "MingLiU",
+    "fontName": "PMingLiU",
+    "fileName": "mingliu.ttc",
+    "version": "7.00"
+  },
+  {
+    "fontFamily": "MingLiU",
+    "fontName": "PMingLiU-ExtB",
+    "fileName": "mingliub.ttc",
+    "version": "7.00"
+  },
+  {
+    "fontFamily": "MingLiU",
+    "fontName": "MingLiU_HKSCS",
+    "fileName": "mingliu.ttc",
+    "version": "7.00"
+  },
+  {
+    "fontFamily": "MingLiU-ExtB",
+    "fontName": "MingLiU-ExtB",
+    "fileName": "mingliub.ttc",
+    "version": "7.00"
+  },
+  {
+    "fontFamily": "MingLiU-ExtB",
+    "fontName": "MingLiU_HKSCS-ExtB",
+    "fileName": "mingliub.ttc",
+    "version": "7.00"
+  },
+  {
+    "fontFamily": "Miriam",
+    "fontName": "Miriam",
+    "fileName": "mriam.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "Miriam",
+    "fontName": "Miriam Fixed",
+    "fileName": "mriamc.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "Mongolian Baiti",
+    "fontName": "Mongolian Baiti",
+    "fileName": "monbaiti.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "MoolBoran",
+    "fontName": "MoolBoran",
+    "fileName": "moolbor.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "MS Gothic",
+    "fontName": "MS Gothic",
+    "fileName": "msgothic.ttc",
+    "version": "5.05"
+  },
+  {
+    "fontFamily": "MS Gothic",
+    "fontName": "MS PGothic",
+    "fileName": "msgothic.ttc",
+    "version": "5.05"
+  },
+  {
+    "fontFamily": "MS Gothic",
+    "fontName": "MS UI Gothic",
+    "fileName": "msgothic.ttc",
+    "version": "5.05"
+  },
+  {
+    "fontFamily": "MS Mincho",
+    "fontName": "MS Mincho",
+    "fileName": "msmincho.ttc",
+    "version": "5.05"
+  },
+  {
+    "fontFamily": "MS Mincho",
+    "fontName": "MS PMincho",
+    "fileName": "msmincho.ttc",
+    "version": "5.05"
+  },
+  {
+    "fontFamily": "MV Boli",
+    "fontName": "MV Boli",
+    "fileName": "mvboli.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Narkisim",
+    "fontName": "Narkisim",
+    "fileName": "nrkis.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "Nyala",
+    "fontName": "Nyala",
+    "fileName": "nyala.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Palatino Linotype",
+    "fontName": "Palatino Linotype",
+    "fileName": "pala.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Palatino Linotype",
+    "fontName": "Palatino Linotype Italic",
+    "fileName": "palai.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Palatino Linotype",
+    "fontName": "Palatino Linotype Bold",
+    "fileName": "palab.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Palatino Linotype",
+    "fontName": "Palatino Linotype Bold Italic",
+    "fileName": "palabi.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Plantagenet Cherokee",
+    "fontName": "Plantagenet Cherokee",
+    "fileName": "plantc.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Raavi",
+    "fontName": "Raavi",
+    "fileName": "raavi.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Raavi",
+    "fontName": "Raavi Bold",
+    "fileName": "raavib.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Rod",
+    "fontName": "Rod",
+    "fileName": "rod.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "Sakkal Majalla",
+    "fontName": "Sakkal Majalla",
+    "fileName": "majalla.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Sakkal Majalla",
+    "fontName": "Sakkal Majalla Bold",
+    "fileName": "majallab.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Segoe Print",
+    "fontName": "Segoe Print",
+    "fileName": "segoepr.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "Segoe Print",
+    "fontName": "Segoe Print Bold",
+    "fileName": "segoeprb.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "Segoe Script",
+    "fontName": "Segoe Script",
+    "fileName": "segoesc.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Segoe Script",
+    "fontName": "Segoe Script Bold",
+    "fileName": "segoescb.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Segoe UI",
+    "fontName": "Segoe UI Light",
+    "fileName": "segoeuil.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Segoe UI",
+    "fontName": "Segoe UI",
+    "fileName": "segoeui.ttf",
+    "version": "5.13"
+  },
+  {
+    "fontFamily": "Segoe UI",
+    "fontName": "Segoe UI Italic",
+    "fileName": "segoeuii.ttf",
+    "version": "5.13"
+  },
+  {
+    "fontFamily": "Segoe UI",
+    "fontName": "Segoe UI Semibold",
+    "fileName": "seguisb.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Segoe UI",
+    "fontName": "Segoe UI Bold",
+    "fileName": "segoeuib.ttf",
+    "version": "5.13"
+  },
+  {
+    "fontFamily": "Segoe UI",
+    "fontName": "Segoe UI Bold Italic",
+    "fileName": "segoeuiz.ttf",
+    "version": "5.13"
+  },
+  {
+    "fontFamily": "Segoe UI Symbol",
+    "fontName": "Segoe UI Symbol",
+    "fileName": "seguisym.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Shonar Bangla",
+    "fontName": "Shonar Bangla",
+    "fileName": "shonar.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Shonar Bangla",
+    "fontName": "Shonar Bangla Bold",
+    "fileName": "shonarb.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Shruti",
+    "fontName": "Shruti",
+    "fileName": "shruti.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Shruti",
+    "fontName": "Shruti Bold",
+    "fileName": "shrutib.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "SimHei",
+    "fontName": "SimHei",
+    "fileName": "simhei.ttf",
+    "version": "5.01"
+  },
+  {
+    "fontFamily": "Simplified Arabic",
+    "fontName": "Simplified Arabic",
+    "fileName": "simpo.ttf",
+    "version": "5.92"
+  },
+  {
+    "fontFamily": "Simplified Arabic",
+    "fontName": "Simplified Arabic Bold",
+    "fileName": "simpbdo.ttf",
+    "version": "5.92"
+  },
+  {
+    "fontFamily": "Simplified Arabic",
+    "fontName": "Simplified Arabic Fixed",
+    "fileName": "simpfxo.ttf",
+    "version": "5.92"
+  },
+  {
+    "fontFamily": "SimSun",
+    "fontName": "SimSun",
+    "fileName": "simsun.ttc",
+    "version": "5.03"
+  },
+  {
+    "fontFamily": "SimSun",
+    "fontName": "NSimSun",
+    "fileName": "simsun.ttc",
+    "version": "5.03"
+  },
+  {
+    "fontFamily": "SimSun-ExtB",
+    "fontName": "SimSun-ExtB",
+    "fileName": "simsunb.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Sylfaen",
+    "fontName": "Sylfaen",
+    "fileName": "sylfaen.ttf",
+    "version": "5.02"
+  },
+  {
+    "fontFamily": "Symbol",
+    "fontName": "Symbol",
+    "fileName": "symbol.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Tahoma",
+    "fontName": "Tahoma",
+    "fileName": "tahoma.ttf",
+    "version": "5.22"
+  },
+  {
+    "fontFamily": "Tahoma",
+    "fontName": "Tahoma Bold",
+    "fileName": "tahomabd.ttf",
+    "version": "5.22"
+  },
+  {
+    "fontFamily": "Times New Roman",
+    "fontName": "Times New Roman",
+    "fileName": "times.ttf",
+    "version": "5.22"
+  },
+  {
+    "fontFamily": "Times New Roman",
+    "fontName": "Times New Roman Italic",
+    "fileName": "timesi.ttf",
+    "version": "5.22"
+  },
+  {
+    "fontFamily": "Times New Roman",
+    "fontName": "Times New Roman Bold",
+    "fileName": "timesbd.ttf",
+    "version": "5.22"
+  },
+  {
+    "fontFamily": "Times New Roman",
+    "fontName": "Times New Roman Bold Italic",
+    "fileName": "timesbi.ttf",
+    "version": "5.22"
+  },
+  {
+    "fontFamily": "Traditional Arabic",
+    "fontName": "Traditional Arabic",
+    "fileName": "trado.ttf",
+    "version": "5.92"
+  },
+  {
+    "fontFamily": "Traditional Arabic",
+    "fontName": "Traditional Arabic Bold",
+    "fileName": "tradbdo.ttf",
+    "version": "5.92"
+  },
+  {
+    "fontFamily": "Trebuchet MS",
+    "fontName": "Trebuchet MS",
+    "fileName": "trebuc.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Trebuchet MS",
+    "fontName": "Trebuchet MS Italic",
+    "fileName": "trebucit.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Trebuchet MS",
+    "fontName": "Trebuchet MS Bold",
+    "fileName": "trebucbd.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Trebuchet MS",
+    "fontName": "Trebuchet MS Bold Italic",
+    "fileName": "trebucbi.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Tunga",
+    "fontName": "Tunga",
+    "fileName": "tunga.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Tunga",
+    "fontName": "Tunga Bold",
+    "fileName": "tungab.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Utsaah",
+    "fontName": "Utsaah",
+    "fileName": "utsaah.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Utsaah",
+    "fontName": "Utsaah Italic",
+    "fileName": "utsaahi.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Utsaah",
+    "fontName": "Utsaah Bold",
+    "fileName": "utsaahb.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Utsaah",
+    "fontName": "Utsaah Bold Italic",
+    "fileName": "utsaahbi.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Vani",
+    "fontName": "Vani",
+    "fileName": "vani.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Vani",
+    "fontName": "Vani Bold",
+    "fileName": "vanib.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Verdana",
+    "fontName": "Verdana",
+    "fileName": "verdana.ttf",
+    "version": "5.03"
+  },
+  {
+    "fontFamily": "Verdana",
+    "fontName": "Verdana Italic",
+    "fileName": "verdanai.ttf",
+    "version": "5.03"
+  },
+  {
+    "fontFamily": "Verdana",
+    "fontName": "Verdana Bold",
+    "fileName": "verdanab.ttf",
+    "version": "5.03"
+  },
+  {
+    "fontFamily": "Verdana",
+    "fontName": "Verdana Bold Italic",
+    "fileName": "verdanaz.ttf",
+    "version": "5.03"
+  },
+  {
+    "fontFamily": "Vijaya",
+    "fontName": "Vijaya",
+    "fileName": "vijaya.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Vijaya",
+    "fontName": "Vijaya Bold",
+    "fileName": "vijayab.ttf",
+    "version": "5.91"
+  },
+  {
+    "fontFamily": "Vrinda",
+    "fontName": "Vrinda",
+    "fileName": "vrinda.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Vrinda",
+    "fontName": "Vrinda Bold",
+    "fileName": "vrindab.ttf",
+    "version": "5.90"
+  },
+  {
+    "fontFamily": "Webdings",
+    "fontName": "Webdings",
+    "fileName": "webdings.ttf",
+    "version": "5.00"
+  },
+  {
+    "fontFamily": "Wingdings",
+    "fontName": "Wingdings",
+    "fileName": "wingding.ttf",
+    "version": "5.00"
+  }
+]

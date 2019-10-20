@@ -2,8 +2,7 @@
   "os": "macOS",
   "version": "10.14",
   "codename": "Mojave",
-  "fonts": [],
-  "source": {
+  "fonts": {
     "published-date": "2018-10-16",
     "preinstalled": [
       {

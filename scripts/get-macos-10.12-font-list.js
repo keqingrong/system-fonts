@@ -3,19 +3,10 @@ const path = require('path');
 const { writeJsonSync } = require('./utils');
 
 const fontListURLs = [
-  ['https://support.apple.com/en-us/HT210192', 'macOS Catalina'],
-  ['https://support.apple.com/en-us/HT208968', 'macOS Mojave'],
-  ['https://support.apple.com/en-us/HT207962', 'macOS High Sierra'],
-  ['https://support.apple.com/en-us/HT206872', 'macOS Sierra'],
-  // El Capitan
-  // Yosemite
-  ['https://support.apple.com/en-us/HT201375', 'OS X Mavericks'],
-  ['https://support.apple.com/en-us/HT201344', 'OS X Mountain Lion'],
-  // Lion
-  // Snow Leopard
-  ['https://support.apple.com/en-us/HT1642', 'OS X Leopard'],
-  ['https://support.apple.com/en-us/HT1538', 'OS X Tiger'],
-  ['https://support.apple.com/en-us/HT2444', 'OS X Panther'],
+  ['https://support.apple.com/en-us/HT210192', 'macOS 10.15 Catalina'],
+  ['https://support.apple.com/en-us/HT208968', 'macOS 10.14 Mojave'],
+  ['https://support.apple.com/en-us/HT207962', 'macOS 10.13 High Sierra'],
+  ['https://support.apple.com/en-us/HT206872', 'macOS 10.12 Sierra'],
 ];
 
 puppeteer.launch({
@@ -61,6 +52,7 @@ async function getFontListFromPage(page, url) {
       const $items = Array.from($list.querySelectorAll('li'));
       $items.forEach(($item) => {
         if ($item) {
+          // Al Bayan Bold 13.0d1e6
           fontList.push($item.innerText.trim());
         }
       })
@@ -73,6 +65,7 @@ async function getFontListFromPage(page, url) {
 
 /**
  * Normalize the font list
+ * "Al Bayan Bold 13.0d1e6" => { fontName: "Al Bayan Bold", version: "13.0d1e6" }
  * @param {string[]} fonts
  * @returns {Object[]}
  */
@@ -98,6 +91,7 @@ function normalize(fonts) {
       version = fullFontName.split(' ').pop();
       fontName = fullFontName.replace(version, '').trim();
     }
+    // TODO: "STIX Two Math 2.00 b137" => "STIX Two Math", "2.00 b137"
     formattedFontList.push({
       fontFamily: null,
       fontName: fontName,

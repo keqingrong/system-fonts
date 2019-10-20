@@ -2,8 +2,7 @@
   "os": "macOS",
   "version": "10.12",
   "codename": "Sierra",
-  "fonts": [],
-  "source": {
+  "fonts": {
     "published-date": "2018-09-25",
     "preinstalled": [
       {

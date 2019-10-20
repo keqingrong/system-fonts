@@ -2,8 +2,7 @@
   "os": "macOS",
   "version": "10.13",
   "codename": "High Sierra",
-  "fonts": [],
-  "source": {
+  "fonts": {
     "published-date": "2018-09-26",
     "preinstalled": [
       {
