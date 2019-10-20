@@ -1,5 +1,15 @@
 # system-fonts
 
+[![npm version](https://img.shields.io/npm/v/@keqingrong/system-fonts.svg)](https://www.npmjs.com/package/@keqingrong/system-fonts)
+
+> Which fonts can I use?
+
+## Installation
+
+```sh
+$ npm install @keqingrong/system-fonts
+```
+
 ## TODO
 
 - [ ] Fonts included with Microsoft Windows
@@ -29,3 +39,7 @@
 - [ ] Fonts included with Android
 - [ ] Fonts included with iOS
 - [ ] A website like caniuse.com and iosfonts.com
+
+## License
+
+MIT © Qingrong Ke

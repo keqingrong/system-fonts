@@ -1,7 +1,10 @@
 {
-  "name": "system-fonts",
-  "version": "0.0.0",
-  "description": "",
+  "name": "@keqingrong/system-fonts",
+  "version": "0.1.0",
+  "description": "Which fonts can I use?",
+  "files": [
+    "data"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,7 +12,16 @@
     "type": "git",
     "url": "git+https://github.com/keqingrong/system-fonts.git"
   },
-  "keywords": [],
+  "keywords": [
+    "font",
+    "typeface",
+    "system-fonts",
+    "windows",
+    "macos",
+    "ios",
+    "android",
+    "linux"
+  ],
   "author": "Qingrong Ke <keqingrong@outlook.com> (https://keqingrong.github.io/)",
   "license": "MIT",
   "devDependencies": {
