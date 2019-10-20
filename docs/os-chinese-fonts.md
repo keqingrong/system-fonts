@@ -1,11 +1,10 @@
-
 # 操作系统内置的中文字体
 
 ## Android
 
 - Droid Sans Fallback，社区从该字体衍生出文泉驿微米黑
-- Noto Sans CJK (2014年7月16日发布)，中文部分即“思源黑体”，从 5.0 Lollipop (2014年10月15日发布) 开始内置，只包含 Regular 字重
-- Noto Serif CJK (2017年4月5日发布)，中文部分即“思源宋体”，从 9.0 Pie (2018年8月7日发布) 开始内置，只包含 Regular 字重
+- Noto Sans CJK (2014年7月16日发布)，中文部分即思源黑体，从 5.0 Lollipop (2014年10月15日发布) 开始内置，只包含 Regular 字重
+- Noto Serif CJK (2017年4月5日发布)，中文部分即思源宋体，从 9.0 Pie (2018年8月7日发布) 开始内置，只包含 Regular 字重
 
 ### 小米 MIUI
 
@@ -25,18 +24,22 @@
 
 ## Windows
 
-- 宋体，即“中易宋体 (SimSun)”，另外，从 Windows Vista 开始增加 Unicode 扩展 B 区字体 (SimSun-ExtB)
-- 新宋体，即“中易新宋体 (NSimSun)”，从 Windows Vista 开始内置，和中易宋体的区别在于字体信息被标记为等宽字体
-- 黑体，即“中易黑体 (SimHei)”
-- 楷体，即“中易楷体 (KaiTi)”
-- 仿宋，即“中易仿宋 (FangSong)”
-- 方正等线体 (DengXian)，从 Windows 10 开始内置
-- 细明体 (MingLiU)
-- 新细明体 (PMingLiU)，和细明体的区别在于将 ASCII 字符从等宽字体改为比例字体
+- 宋体，即中易宋体 (SimSun)，从 Windows 95 开始内置，在 Windows XP SP3 中会额外安装宋体-PUA (SimSun-PUA)（包含在 simsun.ttc 文件中），Windows Vista 后增加 Unicode 扩展 B 区字体 SimSun-ExtB
+- 新宋体，即中易新宋体 (NSimSun)，从 Windows Vista 开始内置，和普通中易宋体的区别在于其字体信息被标记为等宽字体（中易宋体被标记为比例字体）
+- 黑体，即中易黑体 (SimHei)，从 Windows 95 开始内置
+- 楷体_GB2312，即长城楷体 (KaiTi_GB2312)，仅 Windows 95/98/XP 等旧版本 Windows 内置
+- 仿宋_GB2312，即长城仿宋 (FangSong_GB2312)，仅 Windows 95/98/XP 等旧版本 Windows 内置
+- 楷体，即中易楷体 (KaiTi)，从 Windows Vista 开始内置，在 Windows 10 中需要手动下载
+- 仿宋，即中易仿宋 (FangSong)，从 Windows Vista 开始内置，在 Windows 10 中需要手动下载
+- 等线，即方正等线体 (DengXian)，从 Windows 10 开始内置
+- 细明体 (MingLiU)、细明体_HKSCS (MingLiU_HKSCS)
+- 新细明体 (PMingLiU)，从 Windows Vista 开始内置，和细明体的区别在于将 ASCII 字符从等宽字体改为比例字体（Proportional Font）
 - 标楷体 (DFKai-SB)，从 Windows 95 开始跟随繁体中文版的 Windows 安装
 - 微软雅黑 (Microsoft YaHei) 、微软正黑 (Microsoft JhengHei)，从 Windows Vista 开始内置
 - 微软雅黑 UI (Microsoft YaHei UI)、微软正黑 UI (Microsoft JhengHei UI)，从 Windows 8 开始内置，和微软雅黑、微软正黑的行距、部分字形略有差异
 - 开发中的新字体，代号 Noble Scarlet
+
+注意：其中楷体_GB2312和仿宋_GB2312虽然字体文件名为 **simkai.ttf** 和 **simfang.ttf**，但并非像 **simsun.ttc**、**simhei.ttf** 一样出自北京中易中标电子信息技术有限公司，而是由中国长城计算机集团公司开发（`sim-*` 表示 Simplified 简体）。
 
 ## OS X & macOS
 
