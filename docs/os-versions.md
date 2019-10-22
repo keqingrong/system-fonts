@@ -4,8 +4,8 @@
 
 | OS Version     | NT version | Year  |
 | -------------- | ---------- | ----- |
-| Windows 1.0    | 1.01	      | 1985  |
-| Windows 2.0    | 2.03	      | 1987  |
+| Windows 1.0    | 1.01       | 1985  |
+| Windows 2.0    | 2.03       | 1987  |
 | Windows 2.1    | 2.11       | 1988  |
 | Windows 3.0    | 3.0        | 1990  |
 | Windows 3.1    | 3.1        | 1992  |
@@ -26,23 +26,23 @@
 
 ## OS X & macOS
 
-| OS Version    | Codename      | Darwin version | Year  |
-| ------------- | ------------- | -------------- | ----- |
-| Mac OS X 10.1 | Puma          | 5              | 2001  |
-| Mac OS X 10.2 | Jaguar        | 6              | 2002  |
-| Mac OS X 10.3 | Panther       | 7              | 2003  |
-| Mac OS X 10.4 | Tiger         | 8              | 2004  |
-| Mac OS X 10.5 | Leopard       | 9              | 2006  |
-| Mac OS X 10.6 | Snow Leopard  | 10             | 2008  |
-| Mac OS X 10.7 | Lion          | 11             | 2010  |
-| Mac OS X 10.8 | Mountain Lion | 12             | 2012  |
-| Mac OS X 10.9 | Mavericks     | 13             | 2013  |
-| Mac OS X 10.10 | Yosemite     | 14             | 2014  |
-| Mac OS X 10.11 | El Capitan   | 15             | 2015  |
-| macOS 10.12   | Sierra        | 16             | 2016  |
-| macOS 10.13   | High Sierra   | 17             | 2017  |
-| macOS 10.14   | Mojave        | 18             | 2018  |
-| macOS 10.15   | Catalina      | 19             | 2019  |
+| OS Version     | Codename      | Darwin version | Year  |
+| -------------- | ------------- | -------------- | ----- |
+| Mac OS X 10.1  | Puma          | 5              | 2001  |
+| Mac OS X 10.2  | Jaguar        | 6              | 2002  |
+| Mac OS X 10.3  | Panther       | 7              | 2003  |
+| Mac OS X 10.4  | Tiger         | 8              | 2004  |
+| Mac OS X 10.5  | Leopard       | 9              | 2006  |
+| Mac OS X 10.6  | Snow Leopard  | 10             | 2008  |
+| Mac OS X 10.7  | Lion          | 11             | 2010  |
+| Mac OS X 10.8  | Mountain Lion | 12             | 2012  |
+| Mac OS X 10.9  | Mavericks     | 13             | 2013  |
+| Mac OS X 10.10 | Yosemite      | 14             | 2014  |
+| Mac OS X 10.11 | El Capitan    | 15             | 2015  |
+| macOS 10.12    | Sierra        | 16             | 2016  |
+| macOS 10.13    | High Sierra   | 17             | 2017  |
+| macOS 10.14    | Mojave        | 18             | 2018  |
+| macOS 10.15    | Catalina      | 19             | 2019  |
 
 ## iOS
 
@@ -74,7 +74,7 @@
 | Android 2.2   | Froyo         | 8         | 2010  |
 | Android 2.3   | Gingerbread   | 9-10      | 2011  |
 | Android 3.x   | Honeycomb     | 11-13     | 2011  |
-| Android 4.0   | Ice Cream Sandwich | 14-15 | 2011  |
+| Android 4.0   | Ice Cream Sandwich | 14-15 | 2011 |
 | Android 4.1   | Jelly Bean    | 16        | 2012  |
 | Android 4.2   | Jelly Bean    | 17        | 2012  |
 | Android 4.3   | Jelly Bean    | 18        | 2013  |
@@ -86,7 +86,7 @@
 | Android 7.1   | Nougat        | 25        | 2016  |
 | Android 8.0   | Oreo          | 26        | 2017  |
 | Android 8.1   | Oreo          | 27        | 2017  |
-| Android 9.0   | Pie           | 28        | 2018  | 
+| Android 9.0   | Pie           | 28        | 2018  |
 | Android 10    | Q             | 29        | 2019  |
 
 ## References

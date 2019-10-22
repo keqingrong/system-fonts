@@ -17,7 +17,7 @@
 - 微软雅黑 UI (Microsoft YaHei UI)、微软正黑 UI (Microsoft JhengHei UI)，从 Windows 8 开始内置，和微软雅黑、微软正黑的行距、部分字形略有差异
 - 开发中的新字体，代号 Noble Scarlet
 
-注意：其中楷体_GB2312和仿宋_GB2312虽然字体文件名为 **simkai.ttf** 和 **simfang.ttf**，但并非像 **simsun.ttc**、**simhei.ttf** 一样出自北京中易中标电子信息技术有限公司，而是由中国长城计算机集团公司开发（`sim-*` 表示 Simplified 简体）。
+注意：其中楷体_GB2312和仿宋_GB2312虽然字体文件名为 **simkai.ttf** 和 **simfang.ttf**，但并非像 **simsun.ttc**、**simhei.ttf** 一样出自北京中易中标电子信息技术有限公司，而是由 GreatWall Co.（疑似中国长城计算机集团公司）开发。早期 Microsoft Office 版本内置的隶书（LiSu，**simli.ttf**）和幼圆（YouYuan，**simyou.ttf**）版权属于 Stone Co.（疑似北京四通利方信息技术有限公司）。`sim-*` 表示 Simplified 简体。
 
 ## OS X & macOS
 
