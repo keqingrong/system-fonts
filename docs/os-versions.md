@@ -12,6 +12,7 @@
 | Windows 3.2    | 3.2        | 1993  |
 | Windows 95     | 4.0        | 1995  |
 | Windows 98     | 4.1        | 1998  |
+| Windows 98 SE  | 4.10       | 1998  |
 | Windows Me     | 4.90       | 2000  |
 | Windows 2000   | 5.0        | 2000  |
 | Windows XP     | 5.1        | 2001  |
