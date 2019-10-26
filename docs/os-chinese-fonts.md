@@ -21,6 +21,8 @@
 
 早期 Microsoft Office 版本内置的隶书（LiSu，**simli.ttf**）和幼圆（YouYuan，**simyou.ttf**）版权属于 Stone Co.（疑似北京四通利方信息技术有限公司）。`sim-*` 表示 Simplified 简体。
 
+对于 Windows XP 以及更早版本的 Windows 系统，不同语言版本内置的字体不同，仅简体中文版默认包含宋黑楷仿字体。
+
 ## OS X & macOS
 
 - Hei (Hei Regular、SIL-Hei-Med-Jian)
