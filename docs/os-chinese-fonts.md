@@ -2,7 +2,7 @@
 
 ## Windows
 
-- 宋体，即中易宋体 (SimSun)，从 Windows 95 开始内置，在 Windows XP SP3 中会额外安装宋体-PUA (SimSun-PUA)（包含在 simsun.ttc 文件中），Windows Vista 后增加 Unicode 扩展 B 区字体 SimSun-ExtB
+- 宋体，即中易宋体 (SimSun)，从 Windows 95 开始内置；在 Windows XP SP3 中会额外安装宋体-PUA (SimSun-PUA)（包含在 simsun.ttc 文件中）；微软曾经为 Windows 2000 和 XP 提供 GB18030 支持包，增加 SimSun18030.ttc 字体文件，即 SimSun-18030；Windows Vista 后增加 Unicode 扩展 B 区字体 SimSun-ExtB
 - 新宋体，即中易新宋体 (NSimSun)，从 Windows XP 开始内置，和普通中易宋体的区别在于其字体信息被标记为等宽字体（中易宋体被标记为比例字体）
 - 黑体，即中易黑体 (SimHei)，从 Windows 95 开始内置
 - 楷体_GB2312，即长城楷体 (KaiTi_GB2312)，仅 Windows 95/98/XP 等旧版本 Windows 内置
@@ -26,7 +26,7 @@
 - Hei (Hei Regular、SIL-Hei-Med-Jian)
 - Kai (Kai Regular、SIL-Kai-Reg-Jian)
 - 标楷体 (DFKaiShu-SB)
-- GB18030 Bitmap
+- GB18030 Bitmap，点阵字体
 - 华文宋体 (STSong)，华文黑体 (STHeiti)，华文细黑 (STXihei)，华文楷体 (STKaiti)，华文仿宋 (STFangsong)
 - 苹果俪细宋 (Apple LiSung Light)、苹果俪中黑 (Apple LiGothic Medium)
 - 俪宋 Pro (LiSong Pro)，俪黑 Pro (LiHei Pro)，即华康俪宋和华康俪黑

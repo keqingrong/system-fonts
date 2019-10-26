@@ -1,0 +1,21 @@
+# 操作系统内置的韩文字体
+
+## Windows
+
+- Batang (韩语：바탕) 宋体
+- BatangChe (韩语：바탕체)
+- Gungsuh (韩语：궁서) 手写体
+- GungsuhChe (韩语：궁서체)
+- Gulim (韩语：굴림) 圆体
+- GulimChe (韩语：굴림체)
+- Dotum (韩语：돋움) 黑体
+- DotumChe (韩语：돋움체)
+- Malgun Gothic (韩语：맑은고딕)，在 Windows Vista 时预装
+
+## 参考链接
+
+- [Batang & BatangChe - Microsoft Typography](https://docs.microsoft.com/en-us/typography/font-list/batang)
+- [Gungsuh & GungsuhChe - Microsoft Typography](https://docs.microsoft.com/en-us/typography/font-list/gungsuh)
+- [Gulim & GulimChe - Microsoft Typography](https://docs.microsoft.com/en-us/typography/font-list/gulim)
+- [Dotum & DotumChe - Microsoft Typography](https://docs.microsoft.com/en-us/typography/font-list/dotum)
+- [Malgun Gothic - Microsoft Typography](https://docs.microsoft.com/en-us/typography/font-list/malgun-gothic)

@@ -4,7 +4,7 @@
 
 - MS Gothic (日语：MS ゴシック，中译为“微软哥特体”)，在 Windows 3.1 时预装
 - MS PGothic (日语：MS Pゴシック)，在 Windows 95 时预装
-- MS UI Gothic，在Windows 98以后预装。
+- MS UI Gothic，在 Windows 98以后预装。
 - MS Mincho (日语：MS 明朝)
 - MS PMincho
 - Yu Gothic (日语：游ゴシック，中译为“游黑体”)
@@ -17,5 +17,3 @@
 - BIZ UDMincho (日语：BIZ UD明朝)
 - BIZ UDPMincho
 - UD Digi Kyokasho (日语：UD デジタル 教科書体，中译为“UD 数字教科书体”)
-
-
