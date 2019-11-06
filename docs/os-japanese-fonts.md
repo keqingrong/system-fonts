@@ -1,12 +1,12 @@
 # 操作系统内置的日文字体
 
-日文字体的“角ゴシック（Kaku Gothic）”对应中文字体的黑体，“丸ゴシック（Maru Gothic）”对应中文字体的圆体，“明朝（Mincho）”对应中文字体的宋体，“教科書体（Kyokasho）”属于中文语境下的楷体。
+“ゴシック（Gothic）”即“哥特体”，日文字体的“角ゴシック（Kaku Gothic）”对应中文字体的黑体，“丸ゴシック（Maru Gothic）”对应中文字体的圆体，“明朝（Mincho）”对应中文字体的宋体，“教科書体（Kyokasho）”属于中文语境下的楷体。
 
 ## Windows
 
 - MS Gothic (日文：MS ゴシック，中译为“微软哥特体”)，在 Windows 3.1 时预装
 - MS PGothic (日文：MS Pゴシック)，在 Windows 95 时预装
-- MS UI Gothic，在 Windows 98以后预装。
+- MS UI Gothic，在 Windows 98 以后预装。
 - MS Mincho (日文：MS 明朝)
 - MS PMincho
 - Yu Gothic (日文：游ゴシック，中译为“游黑体”)
