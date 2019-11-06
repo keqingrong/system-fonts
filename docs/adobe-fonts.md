@@ -2,15 +2,14 @@
 
 ## Adobe Acrobat Reader 内置的字体
 
+不同语言、不同平台上内置的字体不同。
+
 - Adobe Pi Std
 - Courier Std
 - Minion Pro
 - Myriad Pro
 - Adobe 宋体 Std L (AdobeSongStd-Light)
 - Adobe 黑体 Std R (AdobeHeitiStd-Regular)
-
-### 待确认
-
 - Adobe 仿宋 Std R (AdobeFangsongStd-Regular)
 - Adobe 楷体 Std R (AdobeKaitiStd-Regular)
 - Adobe 明體 Std L (AdobeMingStd-Light)

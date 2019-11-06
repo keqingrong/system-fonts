@@ -35,7 +35,8 @@
 - 宋体-简 (Songti SC)、宋体-繁 (Songti TC)，新版华文宋体，从 OS X 10.6 Snow Leopard 开始内置
 - 黑体-简 (Heiti SC)、黑体-繁 (Heiti TC)，新版华文黑体，从 OS X 10.6 Snow Leopard 开始内置
 - 楷体-简 (Kaiti SC)、楷体-繁(Kaiti TC)，新版华文楷体，从 OS X 10.6 Snow Leopard 开始内置
-- 冬青黑体简体中文 (Hiragino Sans GB)，从 OS X 10.6 Snow Leopard 开始内置
+- ヒラギノ角ゴ 簡体中文 (Hiragino Sans GB，中文名称：冬青黑体简体中文)，从 OS X 10.6 Snow Leopard 开始内置
+- ヒラギノ角ゴ 繁体中文 (Hiragino Sans CNS，中文名称：冬青黑体繁体中文)，首次出现于 OS X 10.6 Snow Leopard 开发预览版，macOS 10.12 Sierra 开始内置
 - 兰亭黑-简 (Lantinghei SC)、兰亭黑-繁 (Lantinghei TC) ，从 OS X 10.8 Mountain Lion 开始内置
 - 苹方-简 (PingFang SC)、苹方-繁 (PingFang TC)、苹方-港 (PingFang HK)，从 OS X 10.11 El Capitan 开始内置
 
@@ -61,7 +62,8 @@
 
 ### 小米 MIUI
 
-- 小米兰亭，包含 Thin、Light、Regular、Bold 四个字重
+- 小米兰亭，随 MIUI 8 发布，包含 Thin、Light、Regular、Bold 4个字重
+- 小米兰亭Pro，随 MIUI 11 发布，可变字体，包含10个字重
 
 ### 华为 EMUI
 
