@@ -4,6 +4,11 @@
 
 - Arial
 - Segoe UI
+- Georgia
+- Tahoma
+- Times New Roman
+- Trebuchet MS
+- Verdana
 
 ## OS X & macOS
 
@@ -43,6 +48,15 @@
 - Fira Sans
 - Fira Sans Condensed
 - Fira Mono
+
+## KDE (like Gentoo)
+
+- Oxygen
+- Oxygen Mono
+
+## GNOME (like Fedora)
+
+- Cantarell
 
 ## 参考链接
 

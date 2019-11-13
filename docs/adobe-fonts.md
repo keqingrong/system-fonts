@@ -8,8 +8,8 @@
 - Courier Std
 - Minion Pro
 - Myriad Pro
-- Adobe 宋体 Std L (AdobeSongStd-Light)
-- Adobe 黑体 Std R (AdobeHeitiStd-Regular)
+- Adobe 宋体 Std L (AdobeSongStd-Light)，由 Minion 和华文宋体合成
+- Adobe 黑体 Std R (AdobeHeitiStd-Regular)，由 Myriad 和华文黑体合成
 - Adobe 仿宋 Std R (AdobeFangsongStd-Regular)
 - Adobe 楷体 Std R (AdobeKaitiStd-Regular)
 - Adobe 明體 Std L (AdobeMingStd-Light)

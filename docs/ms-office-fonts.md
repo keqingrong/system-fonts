@@ -1,6 +1,8 @@
 # Microsoft Office 内置的字体
 
-早年国内用户安装的“番茄花园”、“雨林木风”等版本 Windows XP、Windows 7 盗版系统中通常内置 MS Office 2003/2007，使得一部分用户误以为隶书（LiSu，**simli.ttf**）、幼圆（YouYuan，**simyou.ttf**）和华文系列字体是 Windows 系统字体。与此同时，Windows 10 从 v1903 开始支持将用户安装的字体安装到独立的文件夹中，即 `%USERPROFILE%\AppData\Local\Microsoft\Windows\Fonts`，如果安装字体时选择“Install for all users”，则安装到 `C:\Windows\Fonts`，即 `%WINDIR%\Fonts`。
+早年国内用户安装的“番茄花园”、“雨林木风”等版本 Windows XP、Windows 7 盗版系统中通常内置 MS Office 2003、2007，使得一部分用户误以为隶书（LiSu，**simli.ttf**）、幼圆（YouYuan，**simyou.ttf**）和华文、方正系列字体是 Windows 系统字体。
+
+注：Windows 10 从 v1903 开始，不再默认将用户安装的字体文件放到 `C:\Windows\Fonts` 目录，而是放到到独立的 `C:\Users\<username>\AppData\Local\Microsoft\Windows\Fonts` 目录中，如果安装字体时选择“Install for all users”保持不变。
 
 Office 365 版本的字体文件不随 Office 直接安装，采用从服务端动态下载的模式。
 
