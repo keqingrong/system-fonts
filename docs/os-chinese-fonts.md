@@ -34,15 +34,27 @@
 - 俪宋 Pro (LiSong Pro)，俪黑 Pro (LiHei Pro)，即华康俪宋和华康俪黑
 - 宋体-简 (Songti SC)、宋体-繁 (Songti TC)，新版华文宋体，从 OS X 10.6 Snow Leopard 开始内置
 - 黑体-简 (Heiti SC)、黑体-繁 (Heiti TC)，新版华文黑体，从 OS X 10.6 Snow Leopard 开始内置
-- 楷体-简 (Kaiti SC)、楷体-繁(Kaiti TC)，新版华文楷体，从 OS X 10.6 Snow Leopard 开始内置
+- 楷体-简 (Kaiti SC)、楷体-繁 (Kaiti TC)，新版华文楷体，从 OS X 10.6 Snow Leopard 开始内置
 - ヒラギノ角ゴ 簡体中文 (Hiragino Sans GB，中文名称：冬青黑体简体中文)，从 OS X 10.6 Snow Leopard 开始内置
 - ヒラギノ角ゴ 繁体中文 (Hiragino Sans CNS，中文名称：冬青黑体繁体中文)，首次出现于 OS X 10.6 Snow Leopard 开发预览版，macOS 10.12 Sierra 开始内置
-- 兰亭黑-简 (Lantinghei SC)、兰亭黑-繁 (Lantinghei TC) ，从 OS X 10.8 Mountain Lion 开始内置
+- 雅痞-简 (Yuppy SC)、雅痞-繁 (Yuppy TC)，蒙纳, 从 OS X 10.8 Mountain Lion 开始内置
+- 兰亭黑-简 (Lantinghei SC)、兰亭黑-繁 (Lantinghei TC)，方正, 从 OS X 10.9 Mavericks 开始内置
+- 行楷-简 (Xingkai SC)、行楷-繁 (Xingkai TC)，华文，从 OS X 10.9 Mavericks 开始内置
+- 圆体-简 (Yuanti SC)、圆体-繁 (Yuanti TC)，华文, 从 OS X 10.9 Mavericks 开始内置
+- 报隶-简 (Baoli SC)、报隶-繁 (Baoli TC)，华文, 从 OS X 10.9 Mavericks 开始内置
+- 隶变-简 (Libian SC)、隶变-繁 (Libian TC)，华文, 从 OS X 10.9 Mavericks 开始内置
+- 魏碑-简 (Weibei SC)、魏碑-繁 (Weibei TC)，文鼎, 从 OS X 10.9 Mavericks 开始内置
+- 娃娃体-简 (Wawati SC)、娃娃体-繁 (Wawati TC)，华康, 从 OS X 10.9 Mavericks 开始内置
+- 翩翩体-简 (HanziPen SC)、翩翩体-繁 (HanziPen TC)，华康, 从 OS X 10.9 Mavericks 开始内置
+- 手札体-简 (Hannotate SC)、手札体-繁 (Hannotate TC)，华康, 从 OS X 10.9 Mavericks 开始内置
 - 苹方-简 (PingFang SC)、苹方-繁 (PingFang TC)、苹方-港 (PingFang HK)，从 OS X 10.11 El Capitan 开始内置
+- 凌慧体-简 (LingWai SC)、凌慧体-繁 (LingWai TC)，蒙纳，从 macOS 10.12 Sierra 开始内置
+
+注：其中简体和繁体版本发布的时间可能并不一致。
 
 ## iOS
 
-- 华文黑体，即黑体-简 (Heiti SC)和黑体-繁 (Heiti TC)
+- 华文黑体，即黑体-简 (Heiti SC)、黑体-繁 (Heiti TC)
 - 苹方，从 iOS 9 开始内置
 
 ## GNU/Linux
@@ -60,22 +72,27 @@
 - Noto Sans CJK (2014年7月16日发布)，中文部分即思源黑体，从 5.0 Lollipop (2014年10月15日发布) 开始内置，只包含 Regular 字重
 - Noto Serif CJK (2017年4月5日发布)，中文部分即思源宋体，从 9.0 Pie (2018年8月7日发布) 开始内置，只包含 Regular 字重
 
-### 小米 MIUI
+### MIUI (小米, 红米)
 
-- 小米兰亭，随 MIUI 8 发布，包含 Thin、Light、Regular、Bold 4个字重
-- 小米兰亭Pro，随 MIUI 11 发布，可变字体，包含10个字重
+- 小米兰亭，随 MIUI 8 发布，包含 Thin、Light、Regular、Bold 4个字重，由方正字库制作
+- 小米兰亭Pro，随 MIUI 11 发布，可变字体，包含10个字重，由方正字库制作
 
-### 华为 EMUI
+### EMUI (华为, 荣耀)
 
-- Huawei Font
+- Huawei Font, 由蒙纳制作
 
-### vivo Funtouch OS
+### Funtouch OS (vivo)
 
+- vivo type，由方正字库制作
 - 汉仪旗黑
 
-### OPPO ColorOS
+### ColorOS (OPPO, Realme)
 
-- OPPO Sans，其中中文部分由汉仪字库制作
+- OPPO Sans，由汉仪字库制作
+
+### Flyme (魅族)
+
+- Flyme, 基于思源黑体
 
 ## 参考链接
 
@@ -86,5 +103,6 @@
 - [如何评价 Windows 10 17025 测试版开始出现的「新版微软雅黑」？ - 知乎](https://www.zhihu.com/question/67196637)
 - [「俪黑」有什么版本？有简体版本吗？ - 知乎](https://www.zhihu.com/question/19705760)
 - [OS X 提供了哪些中文黑体？ - 知乎](https://www.zhihu.com/question/20158887)
+- [OS X Mountain Lion 和 iOS 6 的自带字体有何变化？OS X 新增的 8 款中文字体是哪些？ - 知乎](https://www.zhihu.com/question/20291055)
 - [OS X 的默认中文字体是什么？ - 知乎](https://www.zhihu.com/question/19693837)
 - [如何看待小米联合方正发布「小米兰亭」？ - 知乎](https://www.zhihu.com/question/45967799)

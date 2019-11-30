@@ -13,6 +13,8 @@
 ## OS X & macOS
 
 - Lucida Grande
+- Avenir
+- Avenir Next
 - Helvetica
 - Helvetica Neue
 - San Francisco
