@@ -37,20 +37,20 @@
 - 楷体-简 (Kaiti SC)、楷体-繁 (Kaiti TC)，新版华文楷体，从 OS X 10.6 Snow Leopard 开始内置
 - ヒラギノ角ゴ 簡体中文 (Hiragino Sans GB，中文名称：冬青黑体简体中文)，从 OS X 10.6 Snow Leopard 开始内置
 - ヒラギノ角ゴ 繁体中文 (Hiragino Sans CNS，中文名称：冬青黑体繁体中文)，首次出现于 OS X 10.6 Snow Leopard 开发预览版，macOS 10.12 Sierra 开始内置
-- 雅痞-简 (Yuppy SC)、雅痞-繁 (Yuppy TC)，蒙纳, 从 OS X 10.8 Mountain Lion 开始内置
-- 兰亭黑-简 (Lantinghei SC)、兰亭黑-繁 (Lantinghei TC)，方正, 从 OS X 10.9 Mavericks 开始内置
+- 雅痞-简 (Yuppy SC)、雅痞-繁 (Yuppy TC)，蒙纳，从 OS X 10.8 Mountain Lion 开始内置
+- 兰亭黑-简 (Lantinghei SC)、兰亭黑-繁 (Lantinghei TC)，方正，从 OS X 10.9 Mavericks 开始内置
 - 行楷-简 (Xingkai SC)、行楷-繁 (Xingkai TC)，华文，从 OS X 10.9 Mavericks 开始内置
-- 圆体-简 (Yuanti SC)、圆体-繁 (Yuanti TC)，华文, 从 OS X 10.9 Mavericks 开始内置
-- 报隶-简 (Baoli SC)、报隶-繁 (Baoli TC)，华文, 从 OS X 10.9 Mavericks 开始内置
-- 隶变-简 (Libian SC)、隶变-繁 (Libian TC)，华文, 从 OS X 10.9 Mavericks 开始内置
-- 魏碑-简 (Weibei SC)、魏碑-繁 (Weibei TC)，文鼎, 从 OS X 10.9 Mavericks 开始内置
-- 娃娃体-简 (Wawati SC)、娃娃体-繁 (Wawati TC)，华康, 从 OS X 10.9 Mavericks 开始内置
-- 翩翩体-简 (HanziPen SC)、翩翩体-繁 (HanziPen TC)，华康, 从 OS X 10.9 Mavericks 开始内置
-- 手札体-简 (Hannotate SC)、手札体-繁 (Hannotate TC)，华康, 从 OS X 10.9 Mavericks 开始内置
+- 圆体-简 (Yuanti SC)、圆体-繁 (Yuanti TC)，华文，从 OS X 10.9 Mavericks 开始内置
+- 报隶-简 (Baoli SC)、报隶-繁 (Baoli TC)，华文，从 OS X 10.9 Mavericks 开始内置
+- 隶变-简 (Libian SC)、隶变-繁 (Libian TC)，华文，从 OS X 10.9 Mavericks 开始内置
+- 魏碑-简 (Weibei SC)、魏碑-繁 (Weibei TC)，文鼎，从 OS X 10.9 Mavericks 开始内置
+- 娃娃体-简 (Wawati SC)、娃娃体-繁 (Wawati TC)，华康，从 OS X 10.9 Mavericks 开始内置
+- 翩翩体-简 (HanziPen SC)、翩翩体-繁 (HanziPen TC)，华康，从 OS X 10.9 Mavericks 开始内置
+- 手札体-简 (Hannotate SC)、手札体-繁 (Hannotate TC)，华康，从 OS X 10.9 Mavericks 开始内置
 - 苹方-简 (PingFang SC)、苹方-繁 (PingFang TC)、苹方-港 (PingFang HK)，从 OS X 10.11 El Capitan 开始内置
 - 凌慧体-简 (LingWai SC)、凌慧体-繁 (LingWai TC)，蒙纳，从 macOS 10.12 Sierra 开始内置
 
-注：其中简体和繁体版本发布的时间可能并不一致。
+注意：其中简体和繁体版本发布的时间可能并不一致。
 
 ## iOS
 
