@@ -65,6 +65,13 @@
 | iOS 13        | 2019  |
 | iOS 14        | 2020  |
 
+## iPadOS
+
+| OS Version    | Year  |
+| ------------- | ----- |
+| iPadOS 13     | 2019  |
+| iPadOS 14     | 2020  |
+
 ## Android
 
 | OS Version    | Codename      | API level | Year  |
