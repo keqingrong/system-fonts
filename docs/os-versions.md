@@ -44,6 +44,7 @@
 | macOS 10.13    | High Sierra   | 17             | 2017  |
 | macOS 10.14    | Mojave        | 18             | 2018  |
 | macOS 10.15    | Catalina      | 19             | 2019  |
+| macOS 11       | Big Sur       | 20             | 2020  |
 
 ## iOS
 
@@ -62,6 +63,7 @@
 | iOS 11        | 2017  |
 | iOS 12        | 2018  |
 | iOS 13        | 2019  |
+| iOS 14        | 2020  |
 
 ## Android
 
@@ -88,7 +90,8 @@
 | Android 8.0   | Oreo          | 26        | 2017  |
 | Android 8.1   | Oreo          | 27        | 2017  |
 | Android 9.0   | Pie           | 28        | 2018  |
-| Android 10    | Q             | 29        | 2019  |
+| Android 10    | Android10 (Q) | 29        | 2019  |
+| Android 11    | Android11     | 30        | 2020  |
 
 ## References
 
