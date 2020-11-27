@@ -44,7 +44,7 @@
 | macOS 10.13    | High Sierra   | 17             | 2017  |
 | macOS 10.14    | Mojave        | 18             | 2018  |
 | macOS 10.15    | Catalina      | 19             | 2019  |
-| macOS 11       | Big Sur       | 20             | 2020  |
+| macOS 11.0     | Big Sur       | 20             | 2020  |
 
 ## iOS
 

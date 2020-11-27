@@ -7,6 +7,7 @@ const fontListURLs = [
   ['https://support.apple.com/en-us/HT208968', 'macOS 10.14 Mojave'],
   ['https://support.apple.com/en-us/HT207962', 'macOS 10.13 High Sierra'],
   ['https://support.apple.com/en-us/HT206872', 'macOS 10.12 Sierra'],
+  ['https://support.apple.com/en-us/HT211240', 'macOS 11 Big Sur'],
 ];
 
 puppeteer.launch({
