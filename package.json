@@ -1,6 +1,6 @@
 {
   "name": "@keqingrong/system-fonts",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Which fonts can I use?",
   "files": [
     "data"

@@ -23,6 +23,7 @@ $ npm install @keqingrong/system-fonts
   - [ ] Windows 98
   - [ ] Windows 95
 - [ ] Fonts included with macOS
+  - [x] macOS 11.0 Big Sur
   - [x] macOS 10.15 Catalina
   - [x] macOS 10.14 Mojave
   - [x] macOS 10.13 High Sierra
