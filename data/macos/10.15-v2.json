@@ -1,14 +1,20 @@
 {
-  "os": "iOS",
-  "version": "13",
-  "codename": null,
+  "os": "macOS",
+  "version": "10.15",
+  "codename": "Catalina",
   "fonts": {
     "preinstalled": [
       {
         "fontFamily": null,
-        "fontName": "Academy Engraved LET Plain:1.0",
+        "fontName": "Al Bayan Bold",
         "fileName": null,
-        "version": "13.0d1e2"
+        "version": "13.0d1e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Al Bayan Plain",
+        "fileName": null,
+        "version": "13.0d1e6"
       },
       {
         "fontFamily": null,
@@ -21,6 +27,12 @@
         "fontName": "Al Nile Bold",
         "fileName": null,
         "version": "13.0d2e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Al Tarikh Regular",
+        "fileName": null,
+        "version": "13.0d2e1"
       },
       {
         "fontFamily": null,
@@ -66,6 +78,48 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Andale Mono",
+        "fileName": null,
+        "version": "Version 2.00x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Apple Braille",
+        "fileName": null,
+        "version": "13.0d2e27"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Apple Braille Outline 6 Dot",
+        "fileName": null,
+        "version": "13.0d2e27"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Apple Braille Outline 8 Dot",
+        "fileName": null,
+        "version": "13.0d2e27"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Apple Braille Pinpoint 6 Dot",
+        "fileName": null,
+        "version": "13.0d2e27"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Apple Braille Pinpoint 8 Dot",
+        "fileName": null,
+        "version": "13.0d2e27"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Apple Chancery",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Apple Color Emoji",
         "fileName": null,
         "version": "15.0d4e3"
@@ -73,6 +127,12 @@
       {
         "fontFamily": null,
         "fontName": "Apple SD Gothic Neo Bold",
+        "fileName": null,
+        "version": "13.0d1e9"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Apple SD Gothic Neo Heavy",
         "fileName": null,
         "version": "13.0d1e9"
       },
@@ -114,15 +174,39 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Apple SD Gothic Neo ExtraBold",
+        "fileName": null,
+        "version": "13.0d1e9"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Apple Symbols",
         "fileName": null,
         "version": "15.0d1e2"
       },
       {
         "fontFamily": null,
+        "fontName": "AppleGothic Regular",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "AppleMyungjo Regular",
+        "fileName": null,
+        "version": "13.0d1e6"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Arial",
         "fileName": null,
         "version": "Version 5.01.2x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Arial Black",
+        "fileName": null,
+        "version": "Version 5.00.1x"
       },
       {
         "fontFamily": null,
@@ -156,15 +240,63 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Arial Hebrew Scholar",
+        "fileName": null,
+        "version": "13.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Arial Hebrew Scholar Bold",
+        "fileName": null,
+        "version": "13.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Arial Hebrew Scholar Light",
+        "fileName": null,
+        "version": "13.0d1e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Arial Italic",
         "fileName": null,
         "version": "Version 5.00.2x"
       },
       {
         "fontFamily": null,
+        "fontName": "Arial Narrow",
+        "fileName": null,
+        "version": "Version 2.38.1x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Arial Narrow Bold",
+        "fileName": null,
+        "version": "Version 2.38.1x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Arial Narrow Bold Italic",
+        "fileName": null,
+        "version": "Version 2.38.1x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Arial Narrow Italic",
+        "fileName": null,
+        "version": "Version 2.38.1x"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Arial Rounded MT Bold",
         "fileName": null,
         "version": "Version 1.51x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Arial Unicode MS",
+        "fileName": null,
+        "version": "Version 1.01x"
       },
       {
         "fontFamily": null,
@@ -384,6 +516,42 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Ayuthaya",
+        "fileName": null,
+        "version": "13.0d1e7"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Baghdad Regular",
+        "fileName": null,
+        "version": "13.0d1e5"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bangla MN",
+        "fileName": null,
+        "version": "14.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bangla MN Bold",
+        "fileName": null,
+        "version": "14.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bangla Sangam MN",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bangla Sangam MN Bold",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Baskerville",
         "fileName": null,
         "version": "13.0d1e10"
@@ -417,6 +585,18 @@
         "fontName": "Baskerville SemiBold Italic",
         "fileName": null,
         "version": "13.0d1e10"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Beirut Regular",
+        "fileName": null,
+        "version": "13.0d1e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Big Caslon Medium",
+        "fileName": null,
+        "version": "13.0d1e11"
       },
       {
         "fontFamily": null,
@@ -471,6 +651,24 @@
         "fontName": "Bradley Hand Bold",
         "fileName": null,
         "version": "14.0d0e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Brush Script MT Italic",
+        "fileName": null,
+        "version": "Version 1.52x-1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Chalkboard",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Chalkboard Bold",
+        "fileName": null,
+        "version": "13.0d1e2"
       },
       {
         "fontFamily": null,
@@ -576,6 +774,18 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Corsiva Hebrew",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Corsiva Hebrew Bold",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Courier",
         "fileName": null,
         "version": "13.0d1e1"
@@ -666,6 +876,24 @@
       },
       {
         "fontFamily": null,
+        "fontName": "DecoType Naskh Regular",
+        "fileName": null,
+        "version": "14.0d0e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Devanagari MT",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Devanagari MT Bold",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Devanagari Sangam MN",
         "fileName": null,
         "version": "14.0d1e12"
@@ -696,6 +924,18 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Diwan Kufi Regular",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Diwan Thuluth Regular",
+        "fileName": null,
+        "version": "13.0d1e5"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Euphemia UCAS",
         "fileName": null,
         "version": "13.0d1e2"
@@ -717,6 +957,12 @@
         "fontName": "Farah Regular",
         "fileName": null,
         "version": "13.0d2e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Farisi Regular",
+        "fileName": null,
+        "version": "13.0d1e3"
       },
       {
         "fontFamily": null,
@@ -750,6 +996,12 @@
       },
       {
         "fontFamily": null,
+        "fontName": "GB18030 Bitmap",
+        "fileName": null,
+        "version": "13.0d1e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Galvji",
         "fileName": null,
         "version": "14.0d1e3"
@@ -757,6 +1009,18 @@
       {
         "fontFamily": null,
         "fontName": "Galvji Bold",
+        "fileName": null,
+        "version": "14.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Galvji Bold Oblique",
+        "fileName": null,
+        "version": "14.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Galvji Oblique",
         "fileName": null,
         "version": "14.0d1e3"
       },
@@ -771,6 +1035,12 @@
         "fontName": "Geeza Pro Regular",
         "fileName": null,
         "version": "14.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Geneva",
+        "fileName": null,
+        "version": "13.0d2e1"
       },
       {
         "fontFamily": null,
@@ -849,6 +1119,84 @@
         "fontName": "Gill Sans UltraBold",
         "fileName": null,
         "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Gujarati MT",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Gujarati MT Bold",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Gujarati Sangam MN",
+        "fileName": null,
+        "version": "14.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Gujarati Sangam MN Bold",
+        "fileName": null,
+        "version": "14.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Gurmukhi MN",
+        "fileName": null,
+        "version": "14.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Gurmukhi MN Bold",
+        "fileName": null,
+        "version": "14.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Gurmukhi MT",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Gurmukhi Sangam MN",
+        "fileName": null,
+        "version": "14.0d3e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Gurmukhi Sangam MN Bold",
+        "fileName": null,
+        "version": "14.0d3e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Heiti SC Light",
+        "fileName": null,
+        "version": "13.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Heiti SC Medium",
+        "fileName": null,
+        "version": "13.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Heiti TC Light",
+        "fileName": null,
+        "version": "13.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Heiti TC Medium",
+        "fileName": null,
+        "version": "13.0d1e1"
       },
       {
         "fontFamily": null,
@@ -972,6 +1320,12 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Herculanum",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Hiragino Maru Gothic ProN W4",
         "fileName": null,
         "version": "15.0d1e2"
@@ -990,9 +1344,51 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Hiragino Sans GB W3",
+        "fileName": null,
+        "version": "13.0d2e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Hiragino Sans GB W6",
+        "fileName": null,
+        "version": "13.0d2e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Hiragino Sans W0",
+        "fileName": null,
+        "version": "13.0d2e7"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Hiragino Sans W1",
+        "fileName": null,
+        "version": "13.0d2e7"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Hiragino Sans W2",
+        "fileName": null,
+        "version": "13.0d2e7"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Hiragino Sans W3",
         "fileName": null,
         "version": "15.0d1e5"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Hiragino Sans W4",
+        "fileName": null,
+        "version": "13.0d2e7"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Hiragino Sans W5",
+        "fileName": null,
+        "version": "13.0d2e7"
       },
       {
         "fontFamily": null,
@@ -1005,6 +1401,18 @@
         "fontName": "Hiragino Sans W7",
         "fileName": null,
         "version": "15.0d1e5"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Hiragino Sans W8",
+        "fileName": null,
+        "version": "13.0d2e7"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Hiragino Sans W9",
+        "fileName": null,
+        "version": "13.0d2e7"
       },
       {
         "fontFamily": null,
@@ -1032,6 +1440,90 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Hoefler Text Ornaments",
+        "fileName": null,
+        "version": "13.0d2e20"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "ITF Devanagari Bold",
+        "fileName": null,
+        "version": "14.0d3e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "ITF Devanagari Book",
+        "fileName": null,
+        "version": "14.0d3e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "ITF Devanagari Demi",
+        "fileName": null,
+        "version": "14.0d3e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "ITF Devanagari Light",
+        "fileName": null,
+        "version": "14.0d3e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "ITF Devanagari Marathi Bold",
+        "fileName": null,
+        "version": "14.0d3e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "ITF Devanagari Marathi Book",
+        "fileName": null,
+        "version": "14.0d3e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "ITF Devanagari Marathi Demi",
+        "fileName": null,
+        "version": "14.0d3e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "ITF Devanagari Marathi Light",
+        "fileName": null,
+        "version": "14.0d3e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "ITF Devanagari Marathi Medium",
+        "fileName": null,
+        "version": "14.0d3e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "ITF Devanagari Medium",
+        "fileName": null,
+        "version": "14.0d3e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Impact",
+        "fileName": null,
+        "version": "Version 5.00x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "InaiMathi",
+        "fileName": null,
+        "version": "13.0d1e5"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "InaiMathi Bold",
+        "fileName": null,
+        "version": "13.0d1e5"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Kailasa Bold",
         "fileName": null,
         "version": "13.0d1e3"
@@ -1041,6 +1533,18 @@
         "fontName": "Kailasa Regular",
         "fileName": null,
         "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Kannada MN",
+        "fileName": null,
+        "version": "14.0d1e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Kannada MN Bold",
+        "fileName": null,
+        "version": "14.0d1e6"
       },
       {
         "fontFamily": null,
@@ -1056,9 +1560,27 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Kefa Bold",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Kefa Regular",
         "fileName": null,
         "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Khmer MN",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Khmer MN Bold",
+        "fileName": null,
+        "version": "14.0d1e1"
       },
       {
         "fontFamily": null,
@@ -1074,7 +1596,19 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Kohinoor Bangla Bold",
+        "fileName": null,
+        "version": "14.0d2e3"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Kohinoor Bangla Light",
+        "fileName": null,
+        "version": "14.0d2e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Kohinoor Bangla Medium",
         "fileName": null,
         "version": "14.0d2e3"
       },
@@ -1086,7 +1620,19 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Kohinoor Devanagari Bold",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Kohinoor Devanagari Light",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Kohinoor Devanagari Medium",
         "fileName": null,
         "version": "14.0d4e1"
       },
@@ -1128,6 +1674,12 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Kohinoor Telugu Bold",
+        "fileName": null,
+        "version": "14.0d1e3"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Kohinoor Telugu Light",
         "fileName": null,
         "version": "14.0d1e3"
@@ -1140,7 +1692,73 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Kohinoor Telugu Semibold",
+        "fileName": null,
+        "version": "14.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Kokonor Regular",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Krungthep",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "KufiStandardGK Regular",
+        "fileName": null,
+        "version": "13.0d1e11"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Lao MN",
+        "fileName": null,
+        "version": "14.0d1e9"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Lao MN Bold",
+        "fileName": null,
+        "version": "14.0d1e9"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Lao Sangam MN",
+        "fileName": null,
+        "version": "14.0d1e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Lucida Grande",
+        "fileName": null,
+        "version": "15.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Lucida Grande Bold",
+        "fileName": null,
+        "version": "15.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Luminari",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Malayalam MN",
+        "fileName": null,
+        "version": "14.0d1e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Malayalam MN Bold",
         "fileName": null,
         "version": "14.0d1e6"
       },
@@ -1194,9 +1812,111 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Microsoft Sans Serif",
+        "fileName": null,
+        "version": "Version 5.00.1x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Mishafi Gold Regular",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Mishafi Regular",
         "fileName": null,
         "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Monaco",
+        "fileName": null,
+        "version": "15.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Mshtakan",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Mshtakan Bold",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Mshtakan BoldOblique",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Mshtakan Oblique",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "MuktaMahee Bold",
+        "fileName": null,
+        "version": "14.0d1e18"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "MuktaMahee Light",
+        "fileName": null,
+        "version": "14.0d1e18"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "MuktaMahee Medium",
+        "fileName": null,
+        "version": "14.0d1e18"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "MuktaMahee Regular",
+        "fileName": null,
+        "version": "14.0d1e18"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "MuktaMahee SemiBold",
+        "fileName": null,
+        "version": "14.0d1e18"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Muna Black",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Muna Bold",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Muna Regular",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Myanmar MN",
+        "fileName": null,
+        "version": "14.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Myanmar MN Bold",
+        "fileName": null,
+        "version": "14.0d1e2"
       },
       {
         "fontFamily": null,
@@ -1209,6 +1929,36 @@
         "fontName": "Myanmar Sangam MN Bold",
         "fileName": null,
         "version": "14.0d1e8"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Nadeem Regular",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "New Peninim MT",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "New Peninim MT Bold",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "New Peninim MT Bold Inclined",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "New Peninim MT Inclined",
+        "fileName": null,
+        "version": "13.0d1e4"
       },
       {
         "fontFamily": null,
@@ -1236,7 +1986,31 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Noto Sans Javanese Regular",
+        "fileName": null,
+        "version": "Version 2.000"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Kannada Black",
+        "fileName": null,
+        "version": "14.0d1e7"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Noto Sans Kannada Bold",
+        "fileName": null,
+        "version": "14.0d1e7"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Kannada ExtraBold",
+        "fileName": null,
+        "version": "14.0d1e7"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Kannada ExtraLight",
         "fileName": null,
         "version": "14.0d1e7"
       },
@@ -1248,13 +2022,49 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Noto Sans Kannada Medium",
+        "fileName": null,
+        "version": "14.0d1e7"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Noto Sans Kannada Regular",
         "fileName": null,
         "version": "14.0d1e7"
       },
       {
         "fontFamily": null,
+        "fontName": "Noto Sans Kannada SemiBold",
+        "fileName": null,
+        "version": "14.0d1e7"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Kannada Thin",
+        "fileName": null,
+        "version": "14.0d1e7"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Myanmar Black",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Noto Sans Myanmar Bold",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Myanmar ExtraBold",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Myanmar ExtraLight",
         "fileName": null,
         "version": "14.0d4e1"
       },
@@ -1266,7 +2076,25 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Noto Sans Myanmar Medium",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Noto Sans Myanmar Regular",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Myanmar SemiBold",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Myanmar Thin",
         "fileName": null,
         "version": "14.0d4e1"
       },
@@ -1314,6 +2142,126 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Oriya MN",
+        "fileName": null,
+        "version": "14.0d1e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Oriya MN Bold",
+        "fileName": null,
+        "version": "14.0d1e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Oriya Sangam MN",
+        "fileName": null,
+        "version": "14.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Oriya Sangam MN Bold",
+        "fileName": null,
+        "version": "14.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Mono",
+        "fileName": null,
+        "version": "13.0d2e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Mono Bold",
+        "fileName": null,
+        "version": "13.0d2e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Sans",
+        "fileName": null,
+        "version": "13.0d3e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Sans Bold",
+        "fileName": null,
+        "version": "13.0d3e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Sans Bold Italic",
+        "fileName": null,
+        "version": "13.0d3e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Sans Caption",
+        "fileName": null,
+        "version": "13.0d3e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Sans Caption Bold",
+        "fileName": null,
+        "version": "13.0d3e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Sans Italic",
+        "fileName": null,
+        "version": "13.0d3e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Sans Narrow",
+        "fileName": null,
+        "version": "13.0d3e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Sans Narrow Bold",
+        "fileName": null,
+        "version": "13.0d3e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Serif",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Serif Bold",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Serif Bold Italic",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Serif Caption",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Serif Caption Italic",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "PT Serif Italic",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Palatino",
         "fileName": null,
         "version": "15.0d2e2"
@@ -1350,7 +2298,13 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Party LET Plain",
+        "fontName": "Phosphate Inline",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Phosphate Solid",
         "fileName": null,
         "version": "13.0d1e2"
       },
@@ -1464,6 +2418,24 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Plantagenet Cherokee",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Raanana",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Raanana Bold",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Rockwell",
         "fileName": null,
         "version": "13.0d2e1"
@@ -1488,9 +2460,255 @@
       },
       {
         "fontFamily": null,
+        "fontName": "STIXGeneral-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXGeneral-BoldItalic",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXGeneral-Italic",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXGeneral-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXIntegralsD-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXIntegralsD-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXIntegralsSm-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXIntegralsSm-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXIntegralsUp-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXIntegralsUp-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXIntegralsUpD-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXIntegralsUpD-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXIntegralsUpSm-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXIntegralsUpSm-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXNonUnicode-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXNonUnicode-BoldItalic",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXNonUnicode-Italic",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXNonUnicode-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXSizeFiveSym-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXSizeFourSym-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXSizeFourSym-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXSizeOneSym-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXSizeOneSym-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXSizeThreeSym-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXSizeThreeSym-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXSizeTwoSym-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXSizeTwoSym-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXVariants-Bold",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STIXVariants-Regular",
+        "fileName": null,
+        "version": "Version 1.1.0"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "STSong",
+        "fileName": null,
+        "version": "13.0d3e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Sana Regular",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Sathu",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Savoye LET Plain:1.0",
         "fileName": null,
         "version": "13.0d2e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Shree Devanagari 714",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Shree Devanagari 714 Bold",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Shree Devanagari 714 Bold Italic",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Shree Devanagari 714 Italic",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "SignPainter-HouseScript",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "SignPainter-HouseScript Semibold",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Silom",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Sinhala MN",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Sinhala MN Bold",
+        "fileName": null,
+        "version": "14.0d1e1"
       },
       {
         "fontFamily": null,
@@ -1503,6 +2721,66 @@
         "fontName": "Sinhala Sangam MN Bold",
         "fileName": null,
         "version": "14.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Skia Black",
+        "fileName": null,
+        "version": "13.0d1e54"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Skia Black Condensed",
+        "fileName": null,
+        "version": "13.0d1e54"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Skia Black Extended",
+        "fileName": null,
+        "version": "13.0d1e54"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Skia Bold",
+        "fileName": null,
+        "version": "13.0d1e54"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Skia Condensed",
+        "fileName": null,
+        "version": "13.0d1e54"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Skia Extended",
+        "fileName": null,
+        "version": "13.0d1e54"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Skia Light",
+        "fileName": null,
+        "version": "13.0d1e54"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Skia Light Condensed",
+        "fileName": null,
+        "version": "13.0d1e54"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Skia Light Extended",
+        "fileName": null,
+        "version": "13.0d1e54"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Skia Regular",
+        "fileName": null,
+        "version": "13.0d1e54"
       },
       {
         "fontFamily": null,
@@ -1524,9 +2802,111 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Songti SC Black",
+        "fileName": null,
+        "version": "14.0d0e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Songti SC Bold",
+        "fileName": null,
+        "version": "14.0d0e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Songti SC Light",
+        "fileName": null,
+        "version": "14.0d0e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Songti SC Regular",
+        "fileName": null,
+        "version": "14.0d0e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Songti TC Bold",
+        "fileName": null,
+        "version": "14.0d0e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Songti TC Light",
+        "fileName": null,
+        "version": "14.0d0e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Songti TC Regular",
+        "fileName": null,
+        "version": "14.0d0e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Sukhumvit Set Bold",
+        "fileName": null,
+        "version": "13.0d1e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Sukhumvit Set Light",
+        "fileName": null,
+        "version": "13.0d1e"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Sukhumvit Set Medium",
+        "fileName": null,
+        "version": "13.0d1e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Sukhumvit Set Semi Bold",
+        "fileName": null,
+        "version": "13.0d1e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Sukhumvit Set Text",
+        "fileName": null,
+        "version": "13.0d1e6"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Sukhumvit Set Thin",
+        "fileName": null,
+        "version": "13.0d1e6"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Symbol",
         "fileName": null,
         "version": "13.0d2e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Tahoma",
+        "fileName": null,
+        "version": "Version 5.01.2x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Tahoma Bold",
+        "fileName": null,
+        "version": "Version 5.01.1x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Tamil MN",
+        "fileName": null,
+        "version": "14.0d1e7"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Tamil MN Bold",
+        "fileName": null,
+        "version": "14.0d1e7"
       },
       {
         "fontFamily": null,
@@ -1539,6 +2919,30 @@
         "fontName": "Tamil Sangam MN Bold",
         "fileName": null,
         "version": "14.0d1e15"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Telugu MN",
+        "fileName": null,
+        "version": "14.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Telugu MN Bold",
+        "fileName": null,
+        "version": "14.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Telugu Sangam MN",
+        "fileName": null,
+        "version": "14.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Telugu Sangam MN Bold",
+        "fileName": null,
+        "version": "14.0d1e4"
       },
       {
         "fontFamily": null,
@@ -1557,6 +2961,24 @@
         "fontName": "Thonburi Light",
         "fileName": null,
         "version": "13.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Times Bold",
+        "fileName": null,
+        "version": "15.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Times Bold Italic",
+        "fileName": null,
+        "version": "15.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Times Italic",
+        "fileName": null,
+        "version": "15.0d2e1"
       },
       {
         "fontFamily": null,
@@ -1581,6 +3003,18 @@
         "fontName": "Times New Roman Italic",
         "fileName": null,
         "version": "Version 5.00.3x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Times Roman",
+        "fileName": null,
+        "version": "15.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Trattatello",
+        "fileName": null,
+        "version": "13.0d2e2"
       },
       {
         "fontFamily": null,
@@ -1632,6 +3066,42 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Waseem Light",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Waseem Regular",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Webdings",
+        "fileName": null,
+        "version": "Version 5.00x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Wingdings",
+        "fileName": null,
+        "version": "Version 5.00x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Wingdings 2",
+        "fileName": null,
+        "version": "Version 1.55x"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Wingdings 3",
+        "fileName": null,
+        "version": "Version 1.55x"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Zapf Dingbats",
         "fileName": null,
         "version": "13.0d1e2"
@@ -1644,6 +3114,48 @@
       }
     ],
     "document": [
+      {
+        "fontFamily": null,
+        "fontName": "Academy Engraved LET Plain:1.0",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Al Firat Regular",
+        "fileName": null,
+        "version": "13.0d2e10"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Al Khalil Bold",
+        "fileName": null,
+        "version": "13.0d2e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Al Khalil Regular",
+        "fileName": null,
+        "version": "13.0d2e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Al Rafidain Al Fanni",
+        "fileName": null,
+        "version": "13.0d2e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Al Rafidain Regular",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Algiers Regular",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
       {
         "fontFamily": null,
         "fontName": "Asphalt Medium",
@@ -1682,9 +3194,159 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Bebas Neue",
+        "fontName": "Bank Gothic Light",
         "fileName": null,
-        "version": "13.0d1e1"
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bank Gothic Medium",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Basra Bold",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Basra Regular",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Blackmoor LET Plain:2.0",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "BlairMdITC TT Medium",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bodoni 72 Bold",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bodoni 72 Book",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bodoni 72 Book Italic",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bodoni 72 Oldstyle Bold",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bodoni 72 Oldstyle Book",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bodoni 72 Oldstyle Book Italic",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bodoni 72 Smallcaps Book",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bodoni Ornaments",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Book Antiqua",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Book Antiqua Bold",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Book Antiqua Bold Italic",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Book Antiqua Italic",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bookman Old Style",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bookman Old Style Bold",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bookman Old Style Bold Italic",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bookman Old Style Italic",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bordeaux Roman Bold LET Plain",
+        "fileName": null,
+        "version": "13.0d3e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Bradley Hand Bold",
+        "fileName": null,
+        "version": "14.0d0e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Braganza",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Capitals",
+        "fileName": null,
+        "version": "13.0d1e2"
       },
       {
         "fontFamily": null,
@@ -1712,9 +3374,81 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Century Gothic",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Century Gothic Bold",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Century Gothic Bold Italic",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Century Gothic Italic",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Century Schoolbook",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Century Schoolbook Bold",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Century Schoolbook Bold Italic",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Century Schoolbook Italic",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Charcoal CY",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Dear Joe Four",
+        "fileName": null,
+        "version": "13.0d2e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Dear Joe Four Small",
+        "fileName": null,
+        "version": "13.0d2e4"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Dear Joe Four Small Semibold",
         "fileName": null,
         "version": "13.0d2e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Dijla Regular",
+        "fileName": null,
+        "version": "13.0d2e1"
       },
       {
         "fontFamily": null,
@@ -1742,6 +3476,90 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Forgotten Futurist Bold",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Forgotten Futurist Bold Italic",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Forgotten Futurist Italic",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Forgotten Futurist Regular",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Forgotten Futurist Shadow",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Garamond",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Garamond Bold",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Garamond Bold Italic",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Garamond Italic",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Geneva CY",
+        "fileName": null,
+        "version": "13.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Helvetica CY Bold",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Helvetica CY BoldOblique",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Helvetica CY Oblique",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Helvetica CY Plain",
+        "fileName": null,
+        "version": "13.0d1e2"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Hiragino Kaku Gothic Pro W3",
         "fileName": null,
         "version": "15.0d1e5"
@@ -1766,6 +3584,18 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Hiragino Kaku Gothic Std W8",
+        "fileName": null,
+        "version": "15.0d1e5"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Hiragino Kaku Gothic StdN W8",
+        "fileName": null,
+        "version": "15.0d1e5"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Hiragino Maru Gothic Pro W4",
         "fileName": null,
         "version": "15.0d1e2"
@@ -1781,6 +3611,24 @@
         "fontName": "Hiragino Mincho Pro W6",
         "fileName": null,
         "version": "15.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Hopper Script Regular",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Iowan Old Style Black",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Iowan Old Style Black Italic",
+        "fileName": null,
+        "version": "14.0d1e1"
       },
       {
         "fontFamily": null,
@@ -1808,9 +3656,39 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Iowan Old Style Titling",
+        "fileName": null,
+        "version": "14.0d1e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Jazz LET Plain:1.0",
+        "fileName": null,
+        "version": "13.0d1e3"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Journal Sans New Inline",
         "fileName": null,
         "version": "13.0d4e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Koufi Abjadi Regular",
+        "fileName": null,
+        "version": "13.0d1e5"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Laimoon Regular",
+        "fileName": null,
+        "version": "13.0d1e5"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Lantinghei TC Extralight",
+        "fileName": null,
+        "version": "13.0d2e1"
       },
       {
         "fontFamily": null,
@@ -1832,7 +3710,37 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Mona Lisa Solid ITC TT",
+        "fileName": null,
+        "version": "13.0d3e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Nisan Regular",
+        "fileName": null,
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Armenian Black",
+        "fileName": null,
+        "version": "15.0d1e2"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Noto Sans Armenian Bold",
+        "fileName": null,
+        "version": "15.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Armenian ExtraBold",
+        "fileName": null,
+        "version": "15.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Armenian ExtraLight",
         "fileName": null,
         "version": "15.0d1e2"
       },
@@ -1844,7 +3752,31 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Noto Sans Armenian Medium",
+        "fileName": null,
+        "version": "15.0d1e2"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Noto Sans Armenian Regular",
+        "fileName": null,
+        "version": "15.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Avestan Regular",
+        "fileName": null,
+        "version": "Version 2.000"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Armenian SemiBold",
+        "fileName": null,
+        "version": "15.0d1e2"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Armenian Thin",
         "fileName": null,
         "version": "15.0d1e2"
       },
@@ -2210,7 +4142,25 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Noto Sans Zawgyi Black",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Noto Sans Zawgyi Bold",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Zawgyi ExtraBold",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Zawgyi ExtraLight",
         "fileName": null,
         "version": "14.0d4e1"
       },
@@ -2222,7 +4172,25 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Noto Sans Zawgyi Medium",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "Noto Sans Zawgyi Regular",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Zawgyi SemiBold",
+        "fileName": null,
+        "version": "14.0d4e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Noto Sans Zawgyi Thin",
         "fileName": null,
         "version": "14.0d4e1"
       },
@@ -2234,177 +4202,33 @@
       },
       {
         "fontFamily": null,
-        "fontName": "STIXGeneral-Bold",
+        "fontName": "Party LET Plain",
         "fileName": null,
-        "version": "Version 1.1.0"
+        "version": "13.0d1e2"
       },
       {
         "fontFamily": null,
-        "fontName": "STIXGeneral-BoldItalic",
+        "fontName": "PortagoITC TT",
         "fileName": null,
-        "version": "Version 1.1.0"
+        "version": "13.0d1e4"
       },
       {
         "fontFamily": null,
-        "fontName": "STIXGeneral-Italic",
+        "fontName": "Princetown LET",
         "fileName": null,
-        "version": "Version 1.1.0"
+        "version": "13.0d1e2"
       },
       {
         "fontFamily": null,
-        "fontName": "STIXGeneral-Regular",
+        "fontName": "Raya Regular",
         "fileName": null,
-        "version": "Version 1.1.0"
+        "version": "13.0d1e4"
       },
       {
         "fontFamily": null,
-        "fontName": "STIXIntegralsD-Bold",
+        "fontName": "Santa Fe LET Plain:1.0",
         "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXIntegralsD-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXIntegralsSm-Bold",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXIntegralsSm-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXIntegralsUp-Bold",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXIntegralsUp-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXIntegralsUpD-Bold",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXIntegralsUpD-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXIntegralsUpSm-Bold",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXIntegralsUpSm-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXNonUnicode-Bold",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXNonUnicode-BoldItalic",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXNonUnicode-Italic",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXNonUnicode-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXSizeFiveSym-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXSizeFourSym-Bold",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXSizeFourSym-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXSizeOneSym-Bold",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXSizeOneSym-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXSizeThreeSym-Bold",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXSizeThreeSym-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXSizeTwoSym-Bold",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXSizeTwoSym-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXVariants-Bold",
-        "fileName": null,
-        "version": "Version 1.1.0"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "STIXVariants-Regular",
-        "fileName": null,
-        "version": "Version 1.1.0"
+        "version": "13.0d1e3"
       },
       {
         "fontFamily": null,
@@ -2474,9 +4298,27 @@
       },
       {
         "fontFamily": null,
-        "fontName": "SignPainter-HouseScript Semibold",
+        "fontName": "Somer Regular",
         "fileName": null,
-        "version": "14.0d1e1"
+        "version": "13.0d1e4"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Stone Sans ITC TT Bold",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Stone Sans Sem ITC TT Semi",
+        "fileName": null,
+        "version": "13.0d2e1"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Stone Sans Sem ITC TT SemiIta",
+        "fileName": null,
+        "version": "13.0d2e1"
       },
       {
         "fontFamily": null,
@@ -2528,108 +4370,66 @@
       },
       {
         "fontFamily": null,
+        "fontName": "Synchro LET",
+        "fileName": null,
+        "version": "13.0d4e1"
+      },
+      {
+        "fontFamily": null,
         "fontName": "The Hand Serif Semibold",
         "fileName": null,
         "version": "13.1d1e1"
-      }
-    ],
-    "downloadable": [
-      {
-        "fontFamily": null,
-        "fontName": "Al Bayan Bold",
-        "fileName": null,
-        "version": "13.0d1e6"
       },
       {
         "fontFamily": null,
-        "fontName": "Al Bayan Plain",
+        "fontName": "Tw Cen MT",
         "fileName": null,
-        "version": "13.0d1e6"
+        "version": "13.0d1e2"
       },
       {
         "fontFamily": null,
-        "fontName": "Al Firat Regular",
+        "fontName": "Tw Cen MT Bold",
         "fileName": null,
-        "version": "13.0d2e10"
+        "version": "13.0d1e2"
       },
       {
         "fontFamily": null,
-        "fontName": "Al Khalil Bold",
+        "fontName": "Tw Cen MT Bold Italic",
         "fileName": null,
-        "version": "13.0d2e3"
+        "version": "13.0d1e2"
       },
       {
         "fontFamily": null,
-        "fontName": "Al Khalil Regular",
+        "fontName": "Tw Cen MT Italic",
         "fileName": null,
-        "version": "13.0d2e3"
+        "version": "13.0d1e2"
       },
       {
         "fontFamily": null,
-        "fontName": "Al Rafidain Al Fanni",
+        "fontName": "Type Embellishments One LET Plain:1.0",
         "fileName": null,
-        "version": "13.0d2e2"
+        "version": "13.0d2e7"
       },
       {
         "fontFamily": null,
-        "fontName": "Al Rafidain Regular",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Al Tarikh Regular",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Algiers Regular",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Andale Mono",
-        "fileName": null,
-        "version": "Version 2.00x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Apple Braille",
-        "fileName": null,
-        "version": "13.0d2e27"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Apple Braille Outline 6 Dot",
-        "fileName": null,
-        "version": "13.0d2e27"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Apple Braille Outline 8 Dot",
-        "fileName": null,
-        "version": "13.0d2e27"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Apple Braille Pinpoint 6 Dot",
-        "fileName": null,
-        "version": "13.0d2e27"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Apple Braille Pinpoint 8 Dot",
-        "fileName": null,
-        "version": "13.0d2e27"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Apple Chancery",
+        "fontName": "Yaziji Regular",
         "fileName": null,
         "version": "13.0d1e4"
       },
+      {
+        "fontFamily": null,
+        "fontName": "Zawra Bold",
+        "fileName": null,
+        "version": "13.0d1e5"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Zawra Heavy",
+        "fileName": null,
+        "version": "13.0d1e5"
+      }
+    ],
+    "downloadable": [
       {
         "fontFamily": null,
         "fontName": "Apple LiGothic Medium",
@@ -2641,90 +4441,6 @@
         "fontName": "Apple LiSung Light",
         "fileName": null,
         "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Apple SD Gothic Neo Heavy",
-        "fileName": null,
-        "version": "13.0d1e9"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Apple SD GothicNeo ExtraBold",
-        "fileName": null,
-        "version": "13.0d1e9"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Apple Symbols",
-        "fileName": null,
-        "version": "13.0d1e7"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "AppleMyungjo Regular",
-        "fileName": null,
-        "version": "13.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Arial Black",
-        "fileName": null,
-        "version": "Version 5.00.1x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Arial Hebrew Scholar",
-        "fileName": null,
-        "version": "13.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Arial Hebrew Scholar Bold",
-        "fileName": null,
-        "version": "13.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Arial Hebrew Scholar Light",
-        "fileName": null,
-        "version": "13.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Arial Narrow",
-        "fileName": null,
-        "version": "Version 2.38.1x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Arial Narrow Bold",
-        "fileName": null,
-        "version": "Version 2.38.1x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Arial Narrow Bold Italic",
-        "fileName": null,
-        "version": "Version 2.38.1x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Arial Narrow Italic",
-        "fileName": null,
-        "version": "Version 2.38.1x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Arial Unicode MS",
-        "fileName": null,
-        "version": "Version 1.01x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Ayuthaya",
-        "fileName": null,
-        "version": "13.0d1e7"
       },
       {
         "fontFamily": null,
@@ -2767,12 +4483,6 @@
         "fontName": "BM YEONSUNG OTF",
         "fileName": null,
         "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Baghdad Regular",
-        "fileName": null,
-        "version": "13.0d1e5"
       },
       {
         "fontFamily": null,
@@ -2836,42 +4546,6 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Bangla MN",
-        "fileName": null,
-        "version": "14.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Bangla MN Bold",
-        "fileName": null,
-        "version": "14.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Bangla Sangam MN",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Bangla Sangam MN Bold",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Bank Gothic Light",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Bank Gothic Medium",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
         "fontName": "Baoli SC Regular",
         "fileName": null,
         "version": "13.0d3e1"
@@ -2884,351 +4558,9 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Basra Bold",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Basra Regular",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Beirut Regular",
-        "fileName": null,
-        "version": "13.0d1e6"
-      },
-      {
-        "fontFamily": null,
         "fontName": "BiauKai",
         "fileName": null,
         "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Big Caslon Medium",
-        "fileName": null,
-        "version": "13.0d1e11"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Blackmoor LET Plain:2.0",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "BlairMdITC TT Medium",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Book Antiqua",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Book Antiqua Bold",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Book Antiqua Bold Italic",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Book Antiqua Italic",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Bookman Old Style",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Bookman Old Style Bold",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Bookman Old Style Bold Italic",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Bookman Old Style Italic",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Bordeaux Roman Bold LET Plain",
-        "fileName": null,
-        "version": "13.0d3e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Braganza",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Brush Script MT Italic",
-        "fileName": null,
-        "version": "Version 1.52x-1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Cambay Devanagari Bold",
-        "fileName": null,
-        "version": "Version 1.095"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Cambay Devanagari Bold Oblique",
-        "fileName": null,
-        "version": "Version 1.005"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Cambay Devanagari Oblique",
-        "fileName": null,
-        "version": "Version 1.018"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Cambay Devanagari Regular",
-        "fileName": null,
-        "version": "Version 1.180"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Capitals",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Century Gothic",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Century Gothic Bold",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Century Gothic Bold Italic",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Century Gothic Italic",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Century Schoolbook",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Century Schoolbook Bold",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Century Schoolbook Bold Italic",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Century Schoolbook Italic",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Chalkboard",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Chalkboard Bold",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Charcoal CY",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Comic Sans MS",
-        "fileName": null,
-        "version": "Version 5.00x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Comic Sans MS Bold",
-        "fileName": null,
-        "version": "Version 5.00x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Corsiva Hebrew",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Corsiva Hebrew Bold",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Dear Joe Four",
-        "fileName": null,
-        "version": "13.0d2e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Dear Joe Four Small",
-        "fileName": null,
-        "version": "13.0d2e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "DecoType Naskh Regular",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Devanagari MT",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Devanagari MT Bold",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Dijla Regular",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Diwan Kufi Regular",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Diwan Thuluth Regular",
-        "fileName": null,
-        "version": "13.0d1e5"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Farisi Regular",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Forgotten Futurist Bold",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Forgotten Futurist Bold Italic",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Forgotten Futurist Italic",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Forgotten Futurist Regular",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Forgotten Futurist Shadow",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Garamond",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Garamond Bold",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Garamond Bold Italic",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Garamond Italic",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Geneva",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Geneva CY",
-        "fileName": null,
-        "version": "13.0d1e1"
       },
       {
         "fontFamily": null,
@@ -3238,51 +4570,9 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Gujarati MT",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Gujarati MT Bold",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Gujarati Sangam MN",
-        "fileName": null,
-        "version": "14.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Gujarati Sangam MN Bold",
-        "fileName": null,
-        "version": "14.0d2e1"
-      },
-      {
-        "fontFamily": null,
         "fontName": "GungSeo Regular",
         "fileName": null,
         "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Gurmukhi MT",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Gurmukhi Sangam MN",
-        "fileName": null,
-        "version": "14.0d3e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Gurmukhi Sangam MN Bold",
-        "fileName": null,
-        "version": "14.0d3e1"
       },
       {
         "fontFamily": null,
@@ -3346,72 +4636,6 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Heiti SC Light",
-        "fileName": null,
-        "version": "13.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Heiti SC Medium",
-        "fileName": null,
-        "version": "13.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Heiti TC Light",
-        "fileName": null,
-        "version": "13.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Heiti TC Medium",
-        "fileName": null,
-        "version": "13.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Helvetica CY Bold",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Helvetica CY BoldOblique",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Helvetica CY Oblique",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Helvetica CY Plain",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Herculanum",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Hiragino Kaku Gothic Std W8",
-        "fileName": null,
-        "version": "15.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Hiragino Kaku Gothic StdN W8",
-        "fileName": null,
-        "version": "15.0d1e6"
-      },
-      {
-        "fontFamily": null,
         "fontName": "Hiragino Sans CNS W3",
         "fileName": null,
         "version": "13.0d2e3"
@@ -3424,171 +4648,15 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Hiragino Sans GB W3",
+        "fontName": "Jaini",
         "fileName": null,
-        "version": "13.0d2e3"
+        "version": "Version 1.001"
       },
       {
         "fontFamily": null,
-        "fontName": "Hiragino Sans GB W6",
+        "fontName": "Jaini Purva",
         "fileName": null,
-        "version": "13.0d2e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Hiragino Sans W0",
-        "fileName": null,
-        "version": "15.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Hiragino Sans W1",
-        "fileName": null,
-        "version": "15.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Hiragino Sans W2",
-        "fileName": null,
-        "version": "15.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Hiragino Sans W4",
-        "fileName": null,
-        "version": "15.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Hiragino Sans W5",
-        "fileName": null,
-        "version": "15.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Hiragino Sans W8",
-        "fileName": null,
-        "version": "15.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Hiragino Sans W9",
-        "fileName": null,
-        "version": "15.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Hoefler Text Ornaments",
-        "fileName": null,
-        "version": "14.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Hopper Script Regular",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "ITF Devanagari Bold",
-        "fileName": null,
-        "version": "14.0d3e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "ITF Devanagari Book",
-        "fileName": null,
-        "version": "14.0d3e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "ITF Devanagari Demi",
-        "fileName": null,
-        "version": "14.0d3e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "ITF Devanagari Light",
-        "fileName": null,
-        "version": "14.0d3e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "ITF Devanagari Marathi Bold",
-        "fileName": null,
-        "version": "14.0d3e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "ITF Devanagari Marathi Book",
-        "fileName": null,
-        "version": "14.0d3e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "ITF Devanagari Marathi Demi",
-        "fileName": null,
-        "version": "14.0d3e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "ITF Devanagari Marathi Light",
-        "fileName": null,
-        "version": "14.0d3e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "ITF Devanagari Marathi Medium",
-        "fileName": null,
-        "version": "14.0d3e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "ITF Devanagari Medium",
-        "fileName": null,
-        "version": "14.0d3e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Impact",
-        "fileName": null,
-        "version": "Version 5.00x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "InaiMathi",
-        "fileName": null,
-        "version": "13.0d1e5"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "InaiMathi Bold",
-        "fileName": null,
-        "version": "13.0d1e5"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Iowan Old Style Black",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Iowan Old Style Black Italic",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Iowan Old Style Titling",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Jazz LET Plain:1.0",
-        "fileName": null,
-        "version": "13.0d1e3"
+        "version": "Version 1.001"
       },
       {
         "fontFamily": null,
@@ -3634,45 +4702,45 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Kannada MN",
+        "fontName": "Kai Regular",
         "fileName": null,
-        "version": "14.0d1e6"
+        "version": "13.0d1e2"
       },
       {
         "fontFamily": null,
-        "fontName": "Kannada MN Bold",
+        "fontName": "Kaiti SC Black",
         "fileName": null,
-        "version": "14.0d1e6"
+        "version": "13.0d2e2"
       },
       {
         "fontFamily": null,
-        "fontName": "Kannada Sangam MN",
+        "fontName": "Kaiti SC Bold",
         "fileName": null,
-        "version": "14.0d2e4"
+        "version": "13.0d2e2"
       },
       {
         "fontFamily": null,
-        "fontName": "Kannada Sangam MN Bold",
+        "fontName": "Kaiti SC Regular",
         "fileName": null,
-        "version": "14.0d2e4"
+        "version": "13.0d2e2"
       },
       {
         "fontFamily": null,
-        "fontName": "Kefa Bold",
+        "fontName": "Kaiti TC Black",
         "fileName": null,
-        "version": "13.0d1e3"
+        "version": "13.0d2e2"
       },
       {
         "fontFamily": null,
-        "fontName": "Khmer MN",
+        "fontName": "Kaiti TC Bold",
         "fileName": null,
-        "version": "14.0d1e1"
+        "version": "13.0d2e2"
       },
       {
         "fontFamily": null,
-        "fontName": "Khmer MN Bold",
+        "fontName": "Kaiti TC Regular",
         "fileName": null,
-        "version": "14.0d1e1"
+        "version": "13.0d2e2"
       },
       {
         "fontFamily": null,
@@ -3685,66 +4753,6 @@
         "fontName": "Klee Medium",
         "fileName": null,
         "version": "15.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Kohinoor Bangla Bold",
-        "fileName": null,
-        "version": "14.0d2e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Kohinoor Bangla Medium",
-        "fileName": null,
-        "version": "14.0d2e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Kohinoor Devanagari Bold",
-        "fileName": null,
-        "version": "14.0d5e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Kohinoor Devanagari Medium",
-        "fileName": null,
-        "version": "14.0d5e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Kohinoor Telugu Bold",
-        "fileName": null,
-        "version": "14.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Kohinoor Telugu Semibold",
-        "fileName": null,
-        "version": "14.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Kokonor Regular",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Koufi Abjadi Regular",
-        "fileName": null,
-        "version": "13.0d1e5"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Krungthep",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "KufiStandardGK Regular",
-        "fileName": null,
-        "version": "13.0d1e11"
       },
       {
         "fontFamily": null,
@@ -3778,12 +4786,6 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Laimoon Regular",
-        "fileName": null,
-        "version": "13.0d1e5"
-      },
-      {
-        "fontFamily": null,
         "fontName": "Lantinghei SC Demibold",
         "fileName": null,
         "version": "13.0d2e1"
@@ -3808,27 +4810,9 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Lantinghei TC Extralight",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
         "fontName": "Lantinghei TC Heavy",
         "fileName": null,
         "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Lao MN",
-        "fileName": null,
-        "version": "14.0d1e9"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Lao MN Bold",
-        "fileName": null,
-        "version": "14.0d1e9"
       },
       {
         "fontFamily": null,
@@ -3868,24 +4852,6 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Lucida Grande",
-        "fileName": null,
-        "version": "15.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Lucida Grande Bold",
-        "fileName": null,
-        "version": "15.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Luminari",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
         "fontName": "Maku Bold",
         "fileName": null,
         "version": "14.0d2e2"
@@ -3898,69 +4864,9 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Malayalam MN",
-        "fileName": null,
-        "version": "14.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Malayalam MN Bold",
-        "fileName": null,
-        "version": "14.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Microsoft Sans Serif",
-        "fileName": null,
-        "version": "Version 5.00.1x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Mishafi Gold Regular",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
         "fontName": "Modak",
         "fileName": null,
         "version": "Version 1.155"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Mona Lisa Solid ITC TT",
-        "fileName": null,
-        "version": "13.0d3e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Monaco",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Mshtakan",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Mshtakan Bold",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Mshtakan BoldOblique",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Mshtakan Oblique",
-        "fileName": null,
-        "version": "14.0d1e1"
       },
       {
         "fontFamily": null,
@@ -4096,36 +5002,6 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Muna Black",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Muna Bold",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Muna Regular",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Myanmar MN",
-        "fileName": null,
-        "version": "14.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Myanmar MN Bold",
-        "fileName": null,
-        "version": "14.0d1e2"
-      },
-      {
-        "fontFamily": null,
         "fontName": "Myriad Arabic",
         "fileName": null,
         "version": "13.0d1e1"
@@ -4186,12 +5062,6 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Nadeem Regular",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
         "fontName": "Nanum Brush Script",
         "fileName": null,
         "version": "13.0d1e3"
@@ -4237,36 +5107,6 @@
         "fontName": "NanumMyeongjo ExtraBold",
         "fileName": null,
         "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "New Peninim MT",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "New Peninim MT Bold",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "New Peninim MT Bold Inclined",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "New Peninim MT Inclined",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Nisan Regular",
-        "fileName": null,
-        "version": "13.0d1e4"
       },
       {
         "fontFamily": null,
@@ -4321,30 +5161,6 @@
         "fontName": "Noto Serif Kannada Thin",
         "fileName": null,
         "version": "Version 2.001"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Oriya MN",
-        "fileName": null,
-        "version": "14.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Oriya MN Bold",
-        "fileName": null,
-        "version": "14.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Oriya Sangam MN",
-        "fileName": null,
-        "version": "14.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Oriya Sangam MN Bold",
-        "fileName": null,
-        "version": "14.0d1e2"
       },
       {
         "fontFamily": null,
@@ -4414,153 +5230,9 @@
       },
       {
         "fontFamily": null,
-        "fontName": "PT Mono",
-        "fileName": null,
-        "version": "13.0d2e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Mono Bold",
-        "fileName": null,
-        "version": "13.0d2e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Sans",
-        "fileName": null,
-        "version": "13.0d3e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Sans Bold",
-        "fileName": null,
-        "version": "13.0d3e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Sans Bold Italic",
-        "fileName": null,
-        "version": "13.0d3e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Sans Caption",
-        "fileName": null,
-        "version": "13.0d3e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Sans Caption Bold",
-        "fileName": null,
-        "version": "13.0d3e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Sans Italic",
-        "fileName": null,
-        "version": "13.0d3e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Sans Narrow",
-        "fileName": null,
-        "version": "13.0d3e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Sans Narrow Bold",
-        "fileName": null,
-        "version": "13.0d3e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Serif",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Serif Bold",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Serif Bold Italic",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Serif Caption",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Serif Caption Italic",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PT Serif Italic",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Phosphate Inline",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Phosphate Solid",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
         "fontName": "PilGi Regular",
         "fileName": null,
         "version": "13.0d2e5"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Plantagenet Cherokee",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "PortagoITC TT",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Princetown LET",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Raanana",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Raanana Bold",
-        "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Raya Regular",
-        "fileName": null,
-        "version": "13.0d1e4"
       },
       {
         "fontFamily": null,
@@ -4612,81 +5284,21 @@
       },
       {
         "fontFamily": null,
-        "fontName": "STSong",
-        "fileName": null,
-        "version": "14.0d0e1"
-      },
-      {
-        "fontFamily": null,
         "fontName": "STXihei",
         "fileName": null,
         "version": "13.0d1e6"
       },
       {
         "fontFamily": null,
-        "fontName": "Sana Regular",
+        "fontName": "Shobhika Bold",
         "fileName": null,
-        "version": "13.0d1e4"
+        "version": "Version 1.040"
       },
       {
         "fontFamily": null,
-        "fontName": "Santa Fe LET Plain:1.0",
+        "fontName": "Shobhika Regular",
         "fileName": null,
-        "version": "13.0d1e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Sathu",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "SchoolHouse Cursive B",
-        "fileName": null,
-        "version": "13.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "SchoolHouse Printed A",
-        "fileName": null,
-        "version": "13.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Shree Devanagari 714",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Shree Devanagari 714 Bold",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Shree Devanagari 714 Bold Italic",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Shree Devanagari 714 Italic",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "SignPainter-HouseScript",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Silom",
-        "fileName": null,
-        "version": "14.0d1e1"
+        "version": "Version 1.040"
       },
       {
         "fontFamily": null,
@@ -4696,255 +5308,51 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Sinhala MN",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Sinhala MN Bold",
-        "fileName": null,
-        "version": "14.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Skia Black",
-        "fileName": null,
-        "version": "13.0d1e54"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Skia Black Condensed",
-        "fileName": null,
-        "version": "13.0d1e54"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Skia Black Extended",
-        "fileName": null,
-        "version": "13.0d1e54"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Skia Bold",
-        "fileName": null,
-        "version": "13.0d1e54"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Skia Condensed",
-        "fileName": null,
-        "version": "13.0d1e54"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Skia Extended",
-        "fileName": null,
-        "version": "13.0d1e54"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Skia Light",
-        "fileName": null,
-        "version": "13.0d1e54"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Skia Light Condensed",
-        "fileName": null,
-        "version": "13.0d1e54"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Skia Light Extended",
-        "fileName": null,
-        "version": "13.0d1e54"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Skia Regular",
-        "fileName": null,
-        "version": "13.0d1e54"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Somer Regular",
-        "fileName": null,
-        "version": "13.0d1e4"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Songti SC Black",
-        "fileName": null,
-        "version": "14.0d0e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Songti SC Bold",
-        "fileName": null,
-        "version": "14.0d0e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Songti SC Light",
-        "fileName": null,
-        "version": "14.0d0e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Songti SC Regular",
-        "fileName": null,
-        "version": "14.0d0e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Songti TC Bold",
-        "fileName": null,
-        "version": "14.0d0e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Songti TC Light",
-        "fileName": null,
-        "version": "14.0d0e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Songti TC Regular",
-        "fileName": null,
-        "version": "14.0d0e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Stone Sans ITC TT Bold",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Stone Sans Sem ITC TT Semi",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Stone Sans Sem ITC TT SemiIta",
-        "fileName": null,
-        "version": "13.0d2e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Sukhumvit Set Bold",
-        "fileName": null,
-        "version": "13.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Sukhumvit Set Light",
-        "fileName": null,
-        "version": "13.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Sukhumvit Set Medium",
-        "fileName": null,
-        "version": "13.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Sukhumvit Set Semi Bold",
-        "fileName": null,
-        "version": "13.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Sukhumvit Set Text",
-        "fileName": null,
-        "version": "13.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Sukhumvit Set Thin",
-        "fileName": null,
-        "version": "13.0d1e6"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Synchro LET",
-        "fileName": null,
-        "version": "13.0d4e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Tahoma",
-        "fileName": null,
-        "version": "Version 5.01.2x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Tahoma Bold",
-        "fileName": null,
-        "version": "Version 5.01.1x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Tamil MN",
-        "fileName": null,
-        "version": "14.0d1e7"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Tamil MN Bold",
-        "fileName": null,
-        "version": "14.0d1e7"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Telugu MN",
-        "fileName": null,
-        "version": "14.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Telugu MN Bold",
-        "fileName": null,
-        "version": "14.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Telugu Sangam MN",
+        "fontName": "Tiro Bangla",
         "fileName": null,
         "version": "14.0d1e4"
       },
       {
         "fontFamily": null,
-        "fontName": "Telugu Sangam MN Bold",
+        "fontName": "Tiro Gurmukhi",
+        "fileName": null,
+        "version": "14.0d1e3"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Tiro Hindi",
+        "fileName": null,
+        "version": "14.0d1e11"
+      },
+      {
+        "fontFamily": null,
+        "fontName": "Tiro Kannada",
         "fileName": null,
         "version": "14.0d1e4"
       },
       {
         "fontFamily": null,
-        "fontName": "Times Bold",
+        "fontName": "Tiro Marathi",
         "fileName": null,
-        "version": "15.0d2e1"
+        "version": "14.0d1e6"
       },
       {
         "fontFamily": null,
-        "fontName": "Times Bold Italic",
+        "fontName": "Tiro Sanskrit",
         "fileName": null,
-        "version": "15.0d2e1"
+        "version": "14.0d1e3"
       },
       {
         "fontFamily": null,
-        "fontName": "Times Italic",
+        "fontName": "Tiro Tamil",
         "fileName": null,
-        "version": "15.0d2e1"
+        "version": "14.0d1e3"
       },
       {
         "fontFamily": null,
-        "fontName": "Times Roman",
+        "fontName": "Tiro Telugu",
         "fileName": null,
-        "version": "15.0d2e1"
+        "version": "14.0d1e3"
       },
       {
         "fontFamily": null,
@@ -4978,12 +5386,6 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Trattatello",
-        "fileName": null,
-        "version": "13.0d2e2"
-      },
-      {
-        "fontFamily": null,
         "fontName": "Tsukushi A Round Gothic Bold",
         "fileName": null,
         "version": "15.0d1e1"
@@ -5008,48 +5410,6 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Tw Cen MT",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Tw Cen MT Bold",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Tw Cen MT Bold Italic",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Tw Cen MT Italic",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Type Embellishments One LET Plain:1.0",
-        "fileName": null,
-        "version": "13.0d2e7"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Waseem Light",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Waseem Regular",
-        "fileName": null,
-        "version": "13.0d1e2"
-      },
-      {
-        "fontFamily": null,
         "fontName": "Wawati SC Regular",
         "fileName": null,
         "version": "13.0d1e2"
@@ -5062,12 +5422,6 @@
       },
       {
         "fontFamily": null,
-        "fontName": "Webdings",
-        "fileName": null,
-        "version": "Version 5.00x"
-      },
-      {
-        "fontFamily": null,
         "fontName": "Weibei SC Bold",
         "fileName": null,
         "version": "13.0d2e2"
@@ -5077,24 +5431,6 @@
         "fontName": "Weibei TC Bold",
         "fileName": null,
         "version": "13.0d2e2"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Wingdings",
-        "fileName": null,
-        "version": "Version 5.00x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Wingdings 2",
-        "fileName": null,
-        "version": "Version 1.55x"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Wingdings 3",
-        "fileName": null,
-        "version": "Version 1.55x"
       },
       {
         "fontFamily": null,
@@ -5119,12 +5455,6 @@
         "fontName": "Xingkai TC Light",
         "fileName": null,
         "version": "13.0d3e3"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Yaziji Regular",
-        "fileName": null,
-        "version": "13.0d1e4"
       },
       {
         "fontFamily": null,
@@ -5245,18 +5575,6 @@
         "fontName": "Yuppy TC Regular",
         "fileName": null,
         "version": "13.0d1e1"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Zawra Bold",
-        "fileName": null,
-        "version": "13.0d1e5"
-      },
-      {
-        "fontFamily": null,
-        "fontName": "Zawra Heavy",
-        "fileName": null,
-        "version": "13.0d1e5"
       }
     ]
   },
