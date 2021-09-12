@@ -1,18 +1,19 @@
+import ios13 from '@keqingrong/system-fonts/data/ios/13.json';
 import macos11 from '@keqingrong/system-fonts/data/macos/11.0.json';
-import macos10_15 from '@keqingrong/system-fonts/data/macos/10.15.json';
-import macos10_14 from '@keqingrong/system-fonts/data/macos/10.14.json';
-import macos10_13 from '@keqingrong/system-fonts/data/macos/10.13.json';
-import macos10_12 from '@keqingrong/system-fonts/data/macos/10.12.json';
-import macos10_9 from '@keqingrong/system-fonts/data/macos/10.9.json';
-import macos10_8 from '@keqingrong/system-fonts/data/macos/10.8.json';
-import macos10_5 from '@keqingrong/system-fonts/data/macos/10.5.json';
-import macos10_4 from '@keqingrong/system-fonts/data/macos/10.4.json';
-import macos10_3 from '@keqingrong/system-fonts/data/macos/10.3.json';
+// import macos10_15 from '@keqingrong/system-fonts/data/macos/10.15.json';
+// import macos10_14 from '@keqingrong/system-fonts/data/macos/10.14.json';
+// import macos10_13 from '@keqingrong/system-fonts/data/macos/10.13.json';
+// import macos10_12 from '@keqingrong/system-fonts/data/macos/10.12.json';
+// import macos10_9 from '@keqingrong/system-fonts/data/macos/10.9.json';
+// import macos10_8 from '@keqingrong/system-fonts/data/macos/10.8.json';
+// import macos10_5 from '@keqingrong/system-fonts/data/macos/10.5.json';
+// import macos10_4 from '@keqingrong/system-fonts/data/macos/10.4.json';
+// import macos10_3 from '@keqingrong/system-fonts/data/macos/10.3.json';
 import windows10 from '@keqingrong/system-fonts/data/windows/10.json';
-import windows81 from '@keqingrong/system-fonts/data/windows/81.json';
-import windows8 from '@keqingrong/system-fonts/data/windows/8.json';
-import windows7 from '@keqingrong/system-fonts/data/windows/7.json';
-import windowsVista from '@keqingrong/system-fonts/data/windows/vista.json';
+// import windows81 from '@keqingrong/system-fonts/data/windows/81.json';
+// import windows8 from '@keqingrong/system-fonts/data/windows/8.json';
+// import windows7 from '@keqingrong/system-fonts/data/windows/7.json';
+// import windowsVista from '@keqingrong/system-fonts/data/windows/vista.json';
 
 interface FontObject {
   /** Font family */
@@ -72,21 +73,22 @@ interface FontItem {
 
 function getFontList() {
   const assets: FontAssetObject[] = [
+    ios13,
     macos11,
-    macos10_15,
-    macos10_14,
-    macos10_13,
-    macos10_12,
-    macos10_9,
-    macos10_8,
-    macos10_5,
-    macos10_4,
-    macos10_3,
+    // macos10_15,
+    // macos10_14,
+    // macos10_13,
+    // macos10_12,
+    // macos10_9,
+    // macos10_8,
+    // macos10_5,
+    // macos10_4,
+    // macos10_3,
     windows10,
-    windows81,
-    windows8,
-    windows7,
-    windowsVista,
+    // windows81,
+    // windows8,
+    // windows7,
+    // windowsVista,
   ];
   const fontList: FontItem[] = [];
   assets.forEach((fontItem, fontItemIndex) => {

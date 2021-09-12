@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@keqingrong/system-fonts": "^0.3.0",
+    "@keqingrong/system-fonts": "^0.4.0",
     "antd": "^3.24.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
