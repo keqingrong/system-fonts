@@ -6,6 +6,7 @@
     "data"
   ],
   "scripts": {
+    "format": "prettier --write \"scripts/**/*.{js,json}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +26,7 @@
   "author": "Qingrong Ke <keqingrong@outlook.com> (https://keqingrong.github.io/)",
   "license": "MIT",
   "devDependencies": {
+    "prettier": "^2.4.0",
     "puppeteer": "^1.19.0"
   }
 }

@@ -10,30 +10,36 @@ const fontListURLs = [
   ['https://support.apple.com/en-us/HT211240', 'macOS 11 Big Sur'],
 ];
 
-puppeteer.launch({
-  headless: false,
-  ignoreHTTPSErrors: true,
-}).then(async browser => {
-  const page = await browser.newPage();
-  page.setJavaScriptEnabled(false);
-  console.log(`Open a new page...`);
+puppeteer
+  .launch({
+    headless: false,
+    ignoreHTTPSErrors: true,
+  })
+  .then(async browser => {
+    const page = await browser.newPage();
+    page.setJavaScriptEnabled(false);
+    console.log(`Open a new page...`);
 
-  for await (const urlItem of fontListURLs) {
-    const fileName = path.resolve(__dirname, `${urlItem[1].replace(/\s/g, '.')}.json`);
-    const fontList = await getFontListFromPage(page, urlItem[0]);
-    if (fontList.length > 0) {
-      const formattedFontList = normalize(fontList);
-      writeJsonSync(formattedFontList, fileName);
-      console.log(`"${urlItem[0]}" has saved as "${fileName}"`);
-    } else {
-      console.log(`"${urlItem[0]}" is empty, please check it...`);
+    for await (const urlItem of fontListURLs) {
+      const fileName = path.resolve(
+        __dirname,
+        `${urlItem[1].replace(/\s/g, '.')}.json`
+      );
+      const fontList = await getFontListFromPage(page, urlItem[0]);
+      if (fontList.length > 0) {
+        const formattedFontList = normalize(fontList);
+        writeJsonSync(formattedFontList, fileName);
+        console.log(`"${urlItem[0]}" has saved as "${fileName}"`);
+      } else {
+        console.log(`"${urlItem[0]}" is empty, please check it...`);
+      }
     }
-  }
 
-  await browser.close();
-}).catch((err) => {
-  console.error(err);
-})
+    await browser.close();
+  })
+  .catch(err => {
+    console.error(err);
+  });
 
 /**
  * Get a font list from a url
@@ -44,19 +50,21 @@ puppeteer.launch({
 async function getFontListFromPage(page, url) {
   await page.goto(url, {
     timeout: 30 * 1000,
-    waitUntil: 'domcontentloaded'
+    waitUntil: 'domcontentloaded',
   });
   const fonts = await page.evaluate(() => {
     const fontList = [];
-    const $lists = Array.from(document.querySelectorAll('.grid2col > div > ul'));
-    $lists.forEach(($list) => {
+    const $lists = Array.from(
+      document.querySelectorAll('.grid2col > div > ul')
+    );
+    $lists.forEach($list => {
       const $items = Array.from($list.querySelectorAll('li'));
-      $items.forEach(($item) => {
+      $items.forEach($item => {
         if ($item) {
           // Al Bayan Bold 13.0d1e6
           fontList.push($item.innerText.trim());
         }
-      })
+      });
     });
     return fontList;
   });
@@ -72,7 +80,7 @@ async function getFontListFromPage(page, url) {
  */
 function normalize(fonts) {
   const formattedFontList = [];
-  fonts.forEach((fullFontName) => {
+  fonts.forEach(fullFontName => {
     const versionTagIndex = fullFontName.toLowerCase().indexOf('version');
     const uhSuffixRegEx = /\suh$/i;
     let fontName = null;
@@ -84,7 +92,8 @@ function normalize(fonts) {
       version = fullFontName.slice(versionTagIndex);
     } else if (uhSuffixRegEx.test(fullFontName)) {
       // "Noto Sans Gothic 1.03 uh" => "Noto Sans Gothic", "1.03 uh"
-      version = fullFontName.replace(uhSuffixRegEx, '').split(' ').pop() + ' uh';
+      version =
+        fullFontName.replace(uhSuffixRegEx, '').split(' ').pop() + ' uh';
       fontName = fullFontName.replace(version, '').trim();
     } else {
       // "PingFang SC Semibold 13.0d1e3" => "PingFang SC Semibold", "13.0d1e3"
@@ -97,9 +106,9 @@ function normalize(fonts) {
       fontFamily: null,
       fontName: fontName,
       fileName: null,
-      version: version
-    })
-  })
+      version: version,
+    });
+  });
 
   return formattedFontList;
 }

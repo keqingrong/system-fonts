@@ -6,10 +6,11 @@ const fs = require('fs');
  * @param {string} fileName
  */
 function writeJsonSync(json, fileName) {
-  const data = JSON.stringify(json, null, 2);
+  const EOL = '\n';
+  const data = JSON.stringify(json, null, 2) + EOL;
   fs.writeFileSync(fileName, data, 'utf-8');
 }
 
 module.exports = {
-  writeJsonSync
-}
+  writeJsonSync,
+};
