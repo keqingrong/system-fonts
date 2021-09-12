@@ -13,6 +13,7 @@ $ npm install @keqingrong/system-fonts
 ## TODO
 
 - [ ] Fonts included with Microsoft Windows
+  - [ ] Windows 11
   - [x] Windows 10
   - [x] Windows 8.1
   - [x] Windows 8
@@ -23,6 +24,7 @@ $ npm install @keqingrong/system-fonts
   - [ ] Windows 98
   - [ ] Windows 95
 - [ ] Fonts included with macOS
+  - [ ] macOS 12.0 Monterey
   - [x] macOS 11.0 Big Sur
   - [x] macOS 10.15 Catalina
   - [x] macOS 10.14 Mojave
@@ -39,6 +41,9 @@ $ npm install @keqingrong/system-fonts
   - [x] OS X 10.3 Panther
 - [ ] Fonts included with Android
 - [ ] Fonts included with iOS
+  - [ ] iOS 15
+  - [ ] iOS 14
+  - [x] iOS 13
 - [ ] A website like caniuse.com and iosfonts.com
 
 ## License
