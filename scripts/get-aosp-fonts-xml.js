@@ -9,35 +9,35 @@ const pipeline = promisify(stream.pipeline);
 const fontsXmlURLs = [
   [
     'https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/android-s-beta-5/data/fonts/fonts.xml',
-    '12',
+    '12.0',
   ],
   [
     'https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/android11-release/data/fonts/fonts.xml',
-    '11',
+    '11.0',
   ],
   [
     'https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/android10-release/data/fonts/fonts.xml',
-    '10',
+    '10.0',
   ],
   [
     'https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/pie-release/data/fonts/fonts.xml',
-    '9',
+    '9.0',
   ],
   [
     'https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/oreo-release/data/fonts/fonts.xml',
-    '8',
+    '8.0',
   ],
   [
     'https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/nougat-release/data/fonts/fonts.xml',
-    '7',
+    '7.0',
   ],
   [
     'https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/marshmallow-release/data/fonts/fonts.xml',
-    '6',
+    '6.0',
   ],
   [
     'https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/lollipop-release/data/fonts/fonts.xml',
-    '5',
+    '5.0',
   ],
 ];
 

@@ -1,0 +1,327 @@
+{
+  "familyNames": [
+    {
+      "name": "sans-serif",
+      "fonts": [
+        {
+          "weight": "100",
+          "style": "normal",
+          "name": "Roboto-Thin.ttf"
+        },
+        {
+          "weight": "100",
+          "style": "italic",
+          "name": "Roboto-ThinItalic.ttf"
+        },
+        {
+          "weight": "300",
+          "style": "normal",
+          "name": "Roboto-Light.ttf"
+        },
+        {
+          "weight": "300",
+          "style": "italic",
+          "name": "Roboto-LightItalic.ttf"
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "Roboto-Regular.ttf"
+        },
+        {
+          "weight": "400",
+          "style": "italic",
+          "name": "Roboto-Italic.ttf"
+        },
+        {
+          "weight": "500",
+          "style": "normal",
+          "name": "Roboto-Medium.ttf"
+        },
+        {
+          "weight": "500",
+          "style": "italic",
+          "name": "Roboto-MediumItalic.ttf"
+        },
+        {
+          "weight": "900",
+          "style": "normal",
+          "name": "Roboto-Black.ttf"
+        },
+        {
+          "weight": "900",
+          "style": "italic",
+          "name": "Roboto-BlackItalic.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "Roboto-Bold.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "italic",
+          "name": "Roboto-BoldItalic.ttf"
+        }
+      ]
+    },
+    {
+      "name": "sans-serif-condensed",
+      "fonts": [
+        {
+          "weight": "300",
+          "style": "normal",
+          "name": "RobotoCondensed-Light.ttf"
+        },
+        {
+          "weight": "300",
+          "style": "italic",
+          "name": "RobotoCondensed-LightItalic.ttf"
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "RobotoCondensed-Regular.ttf"
+        },
+        {
+          "weight": "400",
+          "style": "italic",
+          "name": "RobotoCondensed-Italic.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "RobotoCondensed-Bold.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "italic",
+          "name": "RobotoCondensed-BoldItalic.ttf"
+        }
+      ]
+    },
+    {
+      "name": "serif",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSerif-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSerif-Bold.ttf"
+        },
+        {
+          "weight": "400",
+          "style": "italic",
+          "name": "NotoSerif-Italic.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "italic",
+          "name": "NotoSerif-BoldItalic.ttf"
+        }
+      ]
+    },
+    {
+      "name": "monospace",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "DroidSansMono.ttf"
+        }
+      ]
+    },
+    {
+      "name": "serif-monospace",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "CutiveMono.ttf"
+        }
+      ]
+    },
+    {
+      "name": "casual",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "ComingSoon.ttf"
+        }
+      ]
+    },
+    {
+      "name": "cursive",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "DancingScript-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "DancingScript-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "sans-serif-smallcaps",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "CarroisGothicSC-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "familyFallbacks": [
+    {
+      "lang": "zh-Hans",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansSC-Regular.otf"
+        }
+      ]
+    },
+    {
+      "lang": "zh-Hant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansTC-Regular.otf"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansJP-Regular.otf"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansKR-Regular.otf"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "MTLmr3m.ttf"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    {
+      "name": "sans-serif-thin",
+      "to": "sans-serif",
+      "weight": "100"
+    },
+    {
+      "name": "sans-serif-light",
+      "to": "sans-serif",
+      "weight": "300"
+    },
+    {
+      "name": "sans-serif-medium",
+      "to": "sans-serif",
+      "weight": "500"
+    },
+    {
+      "name": "sans-serif-black",
+      "to": "sans-serif",
+      "weight": "900"
+    },
+    {
+      "name": "arial",
+      "to": "sans-serif"
+    },
+    {
+      "name": "helvetica",
+      "to": "sans-serif"
+    },
+    {
+      "name": "tahoma",
+      "to": "sans-serif"
+    },
+    {
+      "name": "verdana",
+      "to": "sans-serif"
+    },
+    {
+      "name": "sans-serif-condensed-light",
+      "to": "sans-serif-condensed",
+      "weight": "300"
+    },
+    {
+      "name": "times",
+      "to": "serif"
+    },
+    {
+      "name": "times new roman",
+      "to": "serif"
+    },
+    {
+      "name": "palatino",
+      "to": "serif"
+    },
+    {
+      "name": "georgia",
+      "to": "serif"
+    },
+    {
+      "name": "baskerville",
+      "to": "serif"
+    },
+    {
+      "name": "goudy",
+      "to": "serif"
+    },
+    {
+      "name": "fantasy",
+      "to": "serif"
+    },
+    {
+      "name": "ITC Stone Serif",
+      "to": "serif"
+    },
+    {
+      "name": "sans-serif-monospace",
+      "to": "monospace"
+    },
+    {
+      "name": "monaco",
+      "to": "monospace"
+    },
+    {
+      "name": "courier",
+      "to": "serif-monospace"
+    },
+    {
+      "name": "courier new",
+      "to": "serif-monospace"
+    }
+  ]
+}

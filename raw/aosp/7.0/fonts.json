@@ -1,0 +1,1229 @@
+{
+  "familyNames": [
+    {
+      "name": "sans-serif",
+      "fonts": [
+        {
+          "weight": "100",
+          "style": "normal",
+          "name": "Roboto-Thin.ttf"
+        },
+        {
+          "weight": "100",
+          "style": "italic",
+          "name": "Roboto-ThinItalic.ttf"
+        },
+        {
+          "weight": "300",
+          "style": "normal",
+          "name": "Roboto-Light.ttf"
+        },
+        {
+          "weight": "300",
+          "style": "italic",
+          "name": "Roboto-LightItalic.ttf"
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "Roboto-Regular.ttf"
+        },
+        {
+          "weight": "400",
+          "style": "italic",
+          "name": "Roboto-Italic.ttf"
+        },
+        {
+          "weight": "500",
+          "style": "normal",
+          "name": "Roboto-Medium.ttf"
+        },
+        {
+          "weight": "500",
+          "style": "italic",
+          "name": "Roboto-MediumItalic.ttf"
+        },
+        {
+          "weight": "900",
+          "style": "normal",
+          "name": "Roboto-Black.ttf"
+        },
+        {
+          "weight": "900",
+          "style": "italic",
+          "name": "Roboto-BlackItalic.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "Roboto-Bold.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "italic",
+          "name": "Roboto-BoldItalic.ttf"
+        }
+      ]
+    },
+    {
+      "name": "sans-serif-condensed",
+      "fonts": [
+        {
+          "weight": "300",
+          "style": "normal",
+          "name": "RobotoCondensed-Light.ttf"
+        },
+        {
+          "weight": "300",
+          "style": "italic",
+          "name": "RobotoCondensed-LightItalic.ttf"
+        },
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "RobotoCondensed-Regular.ttf"
+        },
+        {
+          "weight": "400",
+          "style": "italic",
+          "name": "RobotoCondensed-Italic.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "RobotoCondensed-Bold.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "italic",
+          "name": "RobotoCondensed-BoldItalic.ttf"
+        }
+      ]
+    },
+    {
+      "name": "serif",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSerif-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSerif-Bold.ttf"
+        },
+        {
+          "weight": "400",
+          "style": "italic",
+          "name": "NotoSerif-Italic.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "italic",
+          "name": "NotoSerif-BoldItalic.ttf"
+        }
+      ]
+    },
+    {
+      "name": "monospace",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "DroidSansMono.ttf"
+        }
+      ]
+    },
+    {
+      "name": "serif-monospace",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "CutiveMono.ttf"
+        }
+      ]
+    },
+    {
+      "name": "casual",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "ComingSoon.ttf"
+        }
+      ]
+    },
+    {
+      "name": "cursive",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "DancingScript-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "DancingScript-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "sans-serif-smallcaps",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "CarroisGothicSC-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "familyFallbacks": [
+    {
+      "lang": "und-Arab",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoNaskhArabic-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoNaskhArabic-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Arab",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoNaskhArabicUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoNaskhArabicUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Ethi",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansEthiopic-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansEthiopic-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Hebr",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansHebrew-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansHebrew-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Thai",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansThai-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansThai-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Thai",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansThaiUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansThaiUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Armn",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansArmenian-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansArmenian-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Geor",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansGeorgian-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansGeorgian-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Deva",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansDevanagari-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansDevanagari-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Deva",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansDevanagariUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansDevanagariUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Gujr",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansGujarati-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansGujarati-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Gujr",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansGujaratiUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansGujaratiUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Guru",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansGurmukhi-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansGurmukhi-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Guru",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansGurmukhiUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansGurmukhiUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Taml",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansTamil-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansTamil-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Taml",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansTamilUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansTamilUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Mlym",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansMalayalam-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansMalayalam-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Mlym",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansMalayalamUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansMalayalamUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Beng",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansBengali-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansBengali-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Beng",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansBengaliUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansBengaliUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Telu",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansTelugu-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansTelugu-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Telu",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansTeluguUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansTeluguUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Knda",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansKannada-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansKannada-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Knda",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansKannadaUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansKannadaUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Orya",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansOriya-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansOriya-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Orya",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansOriyaUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansOriyaUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Sinh",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansSinhala-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansSinhala-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Khmr",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansKhmer-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansKhmer-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Khmr",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansKhmerUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansKhmerUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Laoo",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansLao-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansLao-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Laoo",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansLaoUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansLaoUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Mymr",
+      "variant": "elegant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansMyanmar-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansMyanmar-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Mymr",
+      "variant": "compact",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansMyanmarUI-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansMyanmarUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Thaa",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansThaana-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansThaana-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Cham",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansCham-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansCham-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Bali",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansBalinese-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Bamu",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansBamum-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Batk",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansBatak-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Bugi",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansBuginese-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Buhd",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansBuhid-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Cans",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansCanadianAboriginal-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Cher",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansCherokee-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Copt",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansCoptic-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Glag",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansGlagolitic-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Hano",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansHanunoo-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Java",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansJavanese-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Kali",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansKayahLi-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Lepc",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansLepcha-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Limb",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansLimbu-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Lisu",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansLisu-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Mand",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansMandaic-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Mtei",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansMeeteiMayek-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Talu",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansNewTaiLue-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Nkoo",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansNKo-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Olck",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansOlChiki-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Rjng",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansRejang-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Saur",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansSaurashtra-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Sund",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansSundanese-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Sylo",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansSylotiNagri-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Syre",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansSyriacEstrangela-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Tagb",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansTagbanwa-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Lana",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansTaiTham-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Tavt",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansTaiViet-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Tibt",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansTibetan-Regular.ttf"
+        },
+        {
+          "weight": "700",
+          "style": "normal",
+          "name": "NotoSansTibetan-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Tfng",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansTifinagh-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Vaii",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansVai-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Yiii",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansYi-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "zh-Hans",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "index": "2",
+          "name": "NotoSansCJK-Regular.ttc"
+        }
+      ]
+    },
+    {
+      "lang": "zh-Hant",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "index": "3",
+          "name": "NotoSansCJK-Regular.ttc"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "index": "0",
+          "name": "NotoSansCJK-Regular.ttc"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "index": "1",
+          "name": "NotoSansCJK-Regular.ttc"
+        }
+      ]
+    },
+    {
+      "lang": "und-Zsye",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoColorEmoji.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Tale",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansTaiLe-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "lang": "und-Mong",
+      "fonts": [
+        {
+          "weight": "400",
+          "style": "normal",
+          "name": "NotoSansMongolian-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    {
+      "name": "sans-serif-thin",
+      "to": "sans-serif",
+      "weight": "100"
+    },
+    {
+      "name": "sans-serif-light",
+      "to": "sans-serif",
+      "weight": "300"
+    },
+    {
+      "name": "sans-serif-medium",
+      "to": "sans-serif",
+      "weight": "500"
+    },
+    {
+      "name": "sans-serif-black",
+      "to": "sans-serif",
+      "weight": "900"
+    },
+    {
+      "name": "arial",
+      "to": "sans-serif"
+    },
+    {
+      "name": "helvetica",
+      "to": "sans-serif"
+    },
+    {
+      "name": "tahoma",
+      "to": "sans-serif"
+    },
+    {
+      "name": "verdana",
+      "to": "sans-serif"
+    },
+    {
+      "name": "sans-serif-condensed-light",
+      "to": "sans-serif-condensed",
+      "weight": "300"
+    },
+    {
+      "name": "times",
+      "to": "serif"
+    },
+    {
+      "name": "times new roman",
+      "to": "serif"
+    },
+    {
+      "name": "palatino",
+      "to": "serif"
+    },
+    {
+      "name": "georgia",
+      "to": "serif"
+    },
+    {
+      "name": "baskerville",
+      "to": "serif"
+    },
+    {
+      "name": "goudy",
+      "to": "serif"
+    },
+    {
+      "name": "fantasy",
+      "to": "serif"
+    },
+    {
+      "name": "ITC Stone Serif",
+      "to": "serif"
+    },
+    {
+      "name": "sans-serif-monospace",
+      "to": "monospace"
+    },
+    {
+      "name": "monaco",
+      "to": "monospace"
+    },
+    {
+      "name": "courier",
+      "to": "serif-monospace"
+    },
+    {
+      "name": "courier new",
+      "to": "serif-monospace"
+    }
+  ]
+}
