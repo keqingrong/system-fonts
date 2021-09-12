@@ -26,6 +26,8 @@
   "author": "Qingrong Ke <keqingrong@outlook.com> (https://keqingrong.github.io/)",
   "license": "MIT",
   "devDependencies": {
+    "fs-extra": "^10.0.0",
+    "got": "^11.8.2",
     "prettier": "^2.4.0",
     "puppeteer": "^1.19.0"
   }
