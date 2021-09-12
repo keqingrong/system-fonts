@@ -6,7 +6,7 @@
     "data"
   ],
   "scripts": {
-    "format": "prettier --write \"scripts/**/*.{js,json}\"",
+    "format": "prettier --write \"{scripts,data}/**/*.{js,json}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

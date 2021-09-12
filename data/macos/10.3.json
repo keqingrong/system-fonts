@@ -685,7 +685,5 @@
       }
     ]
   },
-  "references": [
-    "https://support.apple.com/en-us/HT2444"
-  ]
+  "references": ["https://support.apple.com/en-us/HT2444"]
 }

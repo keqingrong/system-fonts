@@ -709,7 +709,5 @@
       }
     ]
   },
-  "references": [
-    "https://support.apple.com/en-us/HT1538"
-  ]
+  "references": ["https://support.apple.com/en-us/HT1538"]
 }

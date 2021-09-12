@@ -5578,7 +5578,5 @@
       }
     ]
   },
-  "references": [
-    "https://developer.apple.com/fonts/system-fonts/"
-  ]
+  "references": ["https://developer.apple.com/fonts/system-fonts/"]
 }

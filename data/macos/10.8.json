@@ -1711,7 +1711,5 @@
       }
     ]
   },
-  "references": [
-    "https://support.apple.com/en-us/HT201344"
-  ]
+  "references": ["https://support.apple.com/en-us/HT201344"]
 }

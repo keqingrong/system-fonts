@@ -967,7 +967,5 @@
       }
     ]
   },
-  "references": [
-    "https://support.apple.com/en-us/HT1642"
-  ]
+  "references": ["https://support.apple.com/en-us/HT1642"]
 }
