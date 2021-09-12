@@ -10,6 +10,14 @@
 $ npm install @keqingrong/system-fonts
 ```
 
+## Usage
+
+```js
+import macOS_BigSur from '@keqingrong/system-fonts/data/macos/11.0.json';
+import windows_10 from '@keqingrong/system-fonts/data/windows/10.json';
+import iOS_13 from '@keqingrong/system-fonts/data/ios/13.json';
+```
+
 ## TODO
 
 - [ ] Fonts included with Microsoft Windows
@@ -40,6 +48,9 @@ $ npm install @keqingrong/system-fonts
   - [x] OS X 10.4 Tiger
   - [x] OS X 10.3 Panther
 - [ ] Fonts included with Android
+  - [ ] Android 5~12
+  - [ ] Android 4.4
+  - [ ] MIUI 12
 - [ ] Fonts included with iOS
   - [ ] iOS 15
   - [ ] iOS 14

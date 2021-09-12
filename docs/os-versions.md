@@ -22,6 +22,7 @@
 | Windows 8      | 6.2        | 2012  |
 | Windows 8.1    | 6.3        | 2013  |
 | Windows 10     | 10.0       | 2015  |
+| Windows 11     |            | 2021  |
 
 > Windows Server 不包含在以上的表格中。
 
@@ -45,6 +46,7 @@
 | macOS 10.14    | Mojave        | 18             | 2018  |
 | macOS 10.15    | Catalina      | 19             | 2019  |
 | macOS 11.0     | Big Sur       | 20             | 2020  |
+| macOS 12.0     | Monterey      | 21             | 2021  |
 
 ## iOS
 
@@ -64,6 +66,7 @@
 | iOS 12        | 2018  |
 | iOS 13        | 2019  |
 | iOS 14        | 2020  |
+| iOS 15        | 2021  |
 
 ## iPadOS
 
@@ -71,6 +74,7 @@
 | ------------- | ----- |
 | iPadOS 13     | 2019  |
 | iPadOS 14     | 2020  |
+| iPadOS 15     | 2021  |
 
 ## Android
 
@@ -99,6 +103,7 @@
 | Android 9.0   | Pie           | 28        | 2018  |
 | Android 10    | Android10 (Q) | 29        | 2019  |
 | Android 11    | Android11     | 30        | 2020  |
+| Android 12    | Android12 (S) | 31        | 2021  |
 
 ## References
 
