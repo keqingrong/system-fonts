@@ -3,14 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@keqingrong/system-fonts": "^0.2.0",
+    "@keqingrong/system-fonts": "^0.3.0",
+    "antd": "^3.24.2",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {
     "@types/jest": "24.0.19",
     "@types/node": "12.11.1",
     "@types/react": "16.9.9",
     "@types/react-dom": "16.9.2",
-    "antd": "^3.24.2",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
     "react-scripts": "3.2.0",
     "typescript": "3.6.4"
   },

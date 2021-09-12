@@ -1,3 +1,4 @@
+import macos11 from '@keqingrong/system-fonts/data/macos/11.0.json';
 import macos10_15 from '@keqingrong/system-fonts/data/macos/10.15.json';
 import macos10_14 from '@keqingrong/system-fonts/data/macos/10.14.json';
 import macos10_13 from '@keqingrong/system-fonts/data/macos/10.13.json';
@@ -13,80 +14,81 @@ import windows8 from '@keqingrong/system-fonts/data/windows/8.json';
 import windows7 from '@keqingrong/system-fonts/data/windows/7.json';
 import windowsVista from '@keqingrong/system-fonts/data/windows/vista.json';
 
-interface IFontObject {
+interface FontObject {
   /** Font family */
-  fontFamily: string;
+  fontFamily: string | null;
   /** Font name */
-  fontName: string;
+  fontName: string | null;
   /** Font file name */
-  fileName: string;
+  fileName: string | null;
   /** Font version */
-  version: string;
+  version: string | null;
 }
 
-interface IFontsObject {
+interface FontsObject {
   /** Date that the font list published */
   publishedDate?: string;
   /** Fonts that preinstalled in the OS */
-  preinstalled?: IFontObject[];
+  preinstalled?: FontObject[];
   /** Fonts available for document support in the OS */
-  document?: IFontObject[];
+  document?: FontObject[];
   /** Fonts available for download in the OS */
-  downloadable?: IFontObject[];
+  downloadable?: FontObject[];
   /** References */
   references?: string[];
 }
 
-interface IFontAssetObject {
+interface FontAssetObject {
   /** System type */
   os: string;
   /** System version */
-  version: string;
+  version: string | null;
   /** System codename */
-  codename: string;
+  codename: string | null;
   /** Fonts included in the system */
-  fonts: IFontsObject;
+  fonts: FontsObject;
 }
 
-interface IFontItem {
+interface FontItem {
   /** Unique key */
   key?: any;
   /** System type */
   os: string;
   /** System version */
-  osVersion: string;
+  osVersion: string | null;
   /** System codename */
-  osCodename: string;
+  osCodename: string | null;
   /** System full name */
   osFullName: string;
   /** Font family */
-  fontFamily: string;
+  fontFamily: string | null;
   /** Font name */
-  fontName: string;
+  fontName: string | null;
   /** Font file name */
-  fileName: string;
+  fileName: string | null;
   /** Font version */
-  version: string;
+  version: string | null;
 }
 
 function getFontList() {
-  const assets: IFontAssetObject[] = [
-    macos10_15 as any,
-    macos10_14 as any,
-    macos10_13 as any,
-    macos10_12 as any,
-    macos10_9 as any,
-    macos10_8 as any,
-    macos10_5 as any,
-    macos10_4 as any,
-    macos10_3 as any,
-    windows10 as any,
-    windows81 as any,
-    windows8 as any,
-    windows7 as any,
-    windowsVista as any,
+  const assets: FontAssetObject[] = [
+    macos11,
+    macos10_15,
+    macos10_14,
+    macos10_13,
+    macos10_12,
+    macos10_9,
+    macos10_8,
+    macos10_5,
+    macos10_4,
+    macos10_3,
+    windows10,
+    windows81,
+    windows8,
+    windows7,
+    windowsVista,
   ];
-  const fontList: IFontItem[] = [];
+  const fontList: FontItem[] = [];
   assets.forEach((fontItem, fontItemIndex) => {
     if (Object.keys(fontItem.fonts).length > 0) {
       const fontsObject = fontItem.fonts;
@@ -96,11 +98,13 @@ function getFontList() {
         ...getFontItems(fontsObject.downloadable),
       ].forEach((item, index) => {
         fontList.push({
-          // key: `${fontItemIndex}-${index}`,
+          key: `${fontItemIndex}-${index}`,
           os: fontItem.os,
           osVersion: fontItem.version,
           osCodename: fontItem.codename,
-          osFullName: `${fontItem.os || ''} ${fontItem.version || ''} ${fontItem.codename || ''}`.trim(),
+          osFullName: `${fontItem.os || ''} ${fontItem.version || ''} ${
+            fontItem.codename || ''
+          }`.trim(),
           ...item,
         });
       });
@@ -109,10 +113,8 @@ function getFontList() {
   return fontList;
 }
 
-function getFontItems(fonts: IFontObject[] = []) {
+function getFontItems(fonts: FontObject[] = []) {
   return fonts.map(item => item);
 }
 
-export {
-  getFontList
-}
+export { getFontList };

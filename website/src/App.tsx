@@ -51,6 +51,7 @@ const data = getFontList();
 const App: React.FC = () => {
   return (
     <div className="App">
+      <h1>system-fonts (WIP)</h1>
       <Table
         bordered
         size="middle"
