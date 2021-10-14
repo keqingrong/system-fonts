@@ -7,6 +7,7 @@ const fontListURLs = [
   'https://docs.microsoft.com/en-us/typography/fonts/windows_8_font_list',
   'https://docs.microsoft.com/en-us/typography/fonts/windows_81_font_list',
   'https://docs.microsoft.com/en-us/typography/fonts/windows_10_font_list',
+  'https://docs.microsoft.com/en-us/typography/fonts/windows_11_font_list',
 ];
 
 puppeteer
